@@ -1,0 +1,19 @@
+<h2>Project Team</h2>
+<div class="contributors-gallery">
+
+{% for contributor in page.contributors %}
+
+<div class="contributor">
+{% if contributor.image %}
+<div class="avatar" style="background-image:url({{ contributor.image | prepend: site.baseurl; }});" alt="{{ contributor.name }}"></div>
+{% endif %}
+<div class="bio {% if contributor.image %}has-image{% endif %}">
+
+{% assign n = contributor.name | prepend: '<strong>' | append: '</strong> ' %}
+{{ contributor.bio | prepend: n | markdownify }}
+
+</div>
+<div class="clearfix"></div>
+</div>
+{% endfor %}
+</div>
