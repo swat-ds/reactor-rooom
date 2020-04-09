@@ -4,3 +4,17 @@ main:
     url: /
   - title: "About"
     url: /about/
+
+splash:
+  - title: Themes
+    children:
+      - title: "Home"
+        url: "#site-nav"
+      - title: "One"
+        url: "#one"
+      - title: "Two"
+        url: "#two"
+      - title: "Three"
+        url: "#three"
+      - title: "Four"
+        url: "#four"

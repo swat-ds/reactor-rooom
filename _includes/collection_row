@@ -31,12 +31,6 @@
             <h2 class="archive__item-title">{{ f.title | truncatewords: 10 }}</h2>
           {% endif %}
 
-          {% if f.excerpt %}
-            <div class="archive__item-excerpt">
-              {{ f.excerpt | truncatewords: 30 | markdownify }}
-            </div>
-          {% endif %}
-
           {% if f.url %}
             <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
