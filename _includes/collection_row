@@ -12,30 +12,29 @@
       {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
     {% endif %}
 
-    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
-      <div class="archive__item">
-        {% if f.header.teaser %}
-          <div class="archive__item-teaser">
-            <img src=
-              {% if f.header.teaser contains "://" %}
-                "{{ f.header.teaser }}"
-              {% else %}
-                "{{ f.header.teaser | relative_url }}"
-              {% endif %}
-            alt="{% if f.alt %}{{ f.header.alt }}{% endif %}">
-          </div>
+    {% if f.header.teaser %}
+    {% capture thumbnail %}
+        {% if f.header.teaser contains "://" %}
+          {{ f.header.teaser }}
+        {% else %}
+          {{ f.header.teaser | relative_url }}
         {% endif %}
+    {% endcapture %}
+    {% endif%}
+
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}"
+        {% if f.header.teaser %} style="background-image:url({{ thumbnail }})" 
+        alt="{% if f.alt %}{{ f.header.alt }}{% endif %}"{% endif %}>
+      <a href="{{ f_url }}">
+      <div class="archive__item">
 
         <div class="archive__item-body">
           {% if f.title %}
-            <h2 class="archive__item-title">{{ f.title | truncatewords: 10 }}</h2>
-          {% endif %}
-
-          {% if f.url %}
-            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            <h3 class="archive__item-title">{{ f.title | truncatewords: 10 }}</h3>
           {% endif %}
         </div>
       </div>
+    </a>
     </div>
   {% endfor %}
 

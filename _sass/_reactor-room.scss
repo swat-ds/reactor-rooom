@@ -71,6 +71,12 @@ INCLUDE STYLE OVERRIDES
 
 */
 
+// Masthead
+
+.masthead {
+  box-shadow: 0 0 .5rem rgba(50, 50, 50, 0.5);
+}
+
 // Splash title and excerpt
 
 // Splash
@@ -92,6 +98,7 @@ INCLUDE STYLE OVERRIDES
 
   .sidebar.sticky {
     top: $nav-height * 4;
+    width: 5rem;
   }
 }
 
@@ -129,21 +136,66 @@ INCLUDE STYLE OVERRIDES
     height: calc(100vh - 4em);
 }
 
+.splash .page__content {
 
-
-.feature__wrapper {
+  .feature__wrapper {
 
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     flex-wrap: wrap;
 
     .feature__item {
-        max-width: 300px;
-        img {
-            height: 200px;
-        }
-    }
 
+      height: 12rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 0 .25rem rgba(50, 50, 50, 0.5);
+      background-position: top center;
+      background-size: cover;
+
+
+        @media screen and (max-width: $medium-wide) {
+
+          width: calc(50% - 1rem);
+          // min-width: 12rem;
+        }
+        @media screen and (max-width: $small) {
+
+          width: calc(100% - 1rem);
+        }
+
+        a,a:hover {
+          text-decoration: none !important;
+
+          .archive__item {
+            height: 100%;
+            background-color: rgba(0,0,0,.75);
+            transition: background-color .25s ease;
+          }
+
+          .archive__item:hover {
+            background-color: rgba(0,0,0, 0);
+            // box-shadow: 0 0 1rem rgba(255, 255, 255, 0.5) inset;
+          }
+          h3.archive__item-title{
+            color: lighten($steel,15%);
+            padding: .25rem;
+            text-decoration: none;
+            margin-top: 0;
+
+            &:after {
+              content: "";
+              position: absolute;
+              bottom: -.5rem;
+              height: 1px;
+              width: 50%;
+              left: 25%;
+              background-color: $seafoam;
+            }
+          }
+        }
+
+    }
+  
     .archive__item {
 
         .archive__item-teaser,
@@ -157,6 +209,8 @@ INCLUDE STYLE OVERRIDES
 
     .archive__item:hover {
 
+        cursor: pointer;
+
         .archive__item-teaser,
         .archive__item-title,
         .archive__item-excerpt {
@@ -164,6 +218,12 @@ INCLUDE STYLE OVERRIDES
             opacity: .5;
         }
     }
+
+    .archive__item-body {
+      position: relative;
+    }
+
+  }
 }
 
 // Contributors

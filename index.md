@@ -4,7 +4,7 @@ author_profile: false
 classes: ['splash']
 header:
   overlay_filter: "rgba(100,100,100,.5)"
-  overlay_image: /assets/images/pressure-gauges.jpg
+  overlay_image: /assets/images/rothbart-chernobyl-gauges-web.jpg
   caption: 'Courtesy of Michael Forster Rothbart'
 include_categories: ['2019']
 sidebar:

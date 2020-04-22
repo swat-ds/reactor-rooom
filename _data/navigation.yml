@@ -6,7 +6,7 @@ main:
     url: /about/
 
 splash:
-  - title: Themes
+  - title: 'Connections'
     children:
       - title: "Home"
         url: "#site-nav"
