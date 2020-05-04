@@ -6,31 +6,29 @@ header:
   overlay_filter: "rgba(100,100,100,.5)"
   overlay_image: /assets/images/rothbart-chernobyl-gauges-web.jpg
   caption: 'Courtesy of Michael Forster Rothbart'
-include_categories: ['2019']
+include_categories:   
+  - arts
+  - food
+  - flora
+  - media
+  - people
+  - pop
+  - science
+  - time
 sidebar:
   - nav: splash
 ---
 
-<div id="one" class="pane">
+{% for c in page.include_categories %}
 
-{% include collection_row %}
+<div id="{{ c }}" class="pane">
+
+<h3>{{ site.data.content.display_categories[c] }}</h3>
+
+{% assign category_projects = site.projects | where: 'categories', c  %}
+
+{% include collection_row projects = category_projects  %}
   
 </div>
 
-<div id="two" class="pane">
-
-{% include collection_row %}
-  
-</div>
-
-<div id="three" class="pane">
-
-{% include collection_row %}
-  
-</div>
-
-<div id="four" class="pane">
-
-{% include collection_row %}
-  
-</div>
+{% endfor %}

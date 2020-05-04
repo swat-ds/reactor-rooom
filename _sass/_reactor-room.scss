@@ -228,21 +228,10 @@ INCLUDE STYLE OVERRIDES
 
 // Contributors
 
-.contributors-gallery .contributor {
+.contributors .contributor {
   
   // height: 210px;
   margin-bottom: 1rem;
-
-  & .avatar {
-    float: left;
-    // display: inline-block;
-    height: 200px;
-    width: 200px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center top;
-    border-radius: 50%;
-  }
 
   & .bio {
     // display: inline-block;
@@ -269,13 +258,6 @@ INCLUDE STYLE OVERRIDES
 EXTRAS
 
 */
-
-// <div class="arrow">
-//                 <span></span>
-//                 <span></span>
-//                 <span></span>
-  
-// </div>
 
 .arrow{
   position: absolute;

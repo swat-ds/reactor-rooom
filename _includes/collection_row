@@ -1,10 +1,6 @@
-
-{% assign c = page.include_categories[0] %}
-{% assign collection_row = site.projects | where: 'categories', c %}
-
 <div class="feature__wrapper">
 
-  {% for f in collection_row %}
+  {% for f in include.projects %}
 
     {% if f.url contains "://" %}
       {% capture f_url %}{{ f.url }}{% endcapture %}

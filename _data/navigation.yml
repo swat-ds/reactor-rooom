@@ -6,15 +6,23 @@ main:
     url: /about/
 
 splash:
-  - title: 'Connections'
+  - title: 'Chapters'
     children:
       - title: "Home"
         url: "#site-nav"
-      - title: "One"
-        url: "#one"
-      - title: "Two"
-        url: "#two"
-      - title: "Three"
-        url: "#three"
-      - title: "Four"
-        url: "#four"
+      - title: "Arts"
+        url: "#arts"
+      - title: "Food"
+        url: "#food"
+      - title: "Flora & Fauna"
+        url: "#flora"
+      - title: "Media"
+        url: "#media"
+      - title: "People"
+        url: "#people"
+      - title: "Pop Culture"
+        url: "#pop"
+      - title: "Science"
+        url: "#science"
+      - title: "Time"
+        url: "#time"

@@ -1,0 +1,16 @@
+<div class="contributor">
+
+{% for contributor in page.contributors %}
+
+<div class="contributor">
+
+<div class="bio {% if contributor.image %}has-image{% endif %}">
+
+{% assign n = contributor.name | prepend: '<strong>' | append: '</strong> ' %}
+{{ contributor.bio | prepend: n | markdownify }}
+
+</div>
+<div class="clearfix"></div>
+</div>
+{% endfor %}
+</div>

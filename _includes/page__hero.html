@@ -34,7 +34,7 @@
         <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% elsif page.classes contains 'splash' %}
         <p class="page_lead">{{ site.data.content.splash.text | markdownify | remove: "<p>"}}</p>
-        <a class="arrow" href="#one">
+        <a class="arrow" href="#arts">
                          <span></span>
                            <span></span>
                            <span></span>
@@ -54,8 +54,6 @@
         {% endfor %}
       {% endif %}
     </div>
-  {% elsif page.header.embed %}
-    {% include arcgis-storymap.html storymap-id=page.header.embed.id %}
   {% else %}
     <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
   {% endif %}

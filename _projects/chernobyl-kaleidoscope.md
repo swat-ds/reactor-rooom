@@ -1,10 +1,15 @@
 ---
-title: "The Chernobyl Kaleidescope: Transnational Representations of Catastrophe through Poetry"
-category: ['2019']
-excerpt: "The Chernobyl Kaleidescope: Transnational Representations of Catastrophe through Poetry"
+title: "The Chernobyl Kaleidoscope: Transnational Representations of Catastrophe through Poetry"
+category: ['arts','hypothesis']
+excerpt: "A study of the power of language and art in the face of transnational catastrophe"
+description: |
+    What is the power of language and art in the face of transnational catastrophe? What barriers does Chernobyl pose to ethical and effective communication and expression?
+
+    To facilitate reflection on these topics and others, I have generated original translations of poetry written in Spanish, Russian, and Ukrainian. Each poem is annotated so as to track the key symbols, ideas, and references that inform the authors’ approach to the Chernobyl mythology. The fragmentary and nonlinear form of this project simulates the dislocation, contradictions, and questions that continue to shape individual and collective memory of Chernobyl.
 header:
-  overlay_image: /assets/images/sewell.png
-  teaser: assets/images/sewell.png
+    overlay_image: assets/images/sewell.jpg
+    teaser: assets/images/sewell.jpg
+    caption: '"The New Sarcophagus" by kdanecki is licensed by CC BY 2.0.'
 contributors:
     - name: Grace Sewell
 ---
