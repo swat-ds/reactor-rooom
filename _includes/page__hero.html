@@ -57,6 +57,8 @@
         {% endfor %}
       {% endif %}
     </div>
+  {% elsif page.embed[0].type == 'arcgis' %}
+    {% include page-arcgis-storymap.html %}
   {% else %}
     <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
   {% endif %}

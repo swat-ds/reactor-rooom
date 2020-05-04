@@ -5,7 +5,8 @@ email: digitalscholarship@swarthmore.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Russ: 043 Digital Exhibit
 baseurl: "/reactor-room" # the subpath of your site, e.g. /blog
-url: "https://ds-pages.swarthmore.edu" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://ds-pages.swarthmore.edu"
+url: ""
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -70,7 +71,7 @@ defaults:
       read_time: false
       comments: # true
       share: false
-      related: true
+      related: false
       btn_class: 'btn--inverse'
 
 # Site Footer

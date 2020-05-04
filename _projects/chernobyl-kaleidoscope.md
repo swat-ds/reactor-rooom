@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 title: "The Chernobyl Kaleidoscope: Transnational Representations of Catastrophe through Poetry"
 category: ['arts','hypothesis']
 classes: ['kaleidoscope']
@@ -11,7 +10,7 @@ description: |
 header:
     overlay_image: assets/images/sewell.jpg
     teaser: assets/images/sewell.jpg
-    caption: '"The New Sarcophagus" by kdanecki is licensed by CC BY 2.0.'
+    caption: '"The New Sarcophagus" kdanecki CC BY 2.0'
 contributors:
     - name: Grace Sewell
 toc: true
@@ -20,7 +19,43 @@ toc_label: Translations
 toc_icon: 'angle-double-down'
 ---
 
-All translations and annotations by Grace Sewell. Thank you to Frank Kenny (Swarthmore 2020) and Professor José Vergara for their thoughtful suggestions and revisions.
+All translations and annotations by Grace Sewell. Thank you to Frank Kenny (Swarthmore Class of 2020), Professor José Vergara, and Professor María-Luisa Guardiola for their thoughtful suggestions and revisions. 
+
+## Introduction
+
+In *The Memory of Catastrophe*, historians Peter Gray and Kendrick Oliver argue that “acute cultural rupture [is] the identifying mark of the catastrophic.” [^1] This idea offers a valuable framework through which to understand the Chernobyl disaster. Chernobyl is not only a historical event, but an active process of disruption that resonates across geographical and cultural contexts. 
+What kinds of “rupture” has Chernobyl caused, and where? How do catastrophes such as Chernobyl resist interpretation and resolution? What is the power of language and art in the face of catastrophe? Can the study of Chernobyl transform how we interpret and act in the face of other historical and contemporary crises? What barriers does Chernobyl pose to ethical and effective communication and expression? 
+
+To facilitate reflection on these topics and others, I have generated original translations of poetry written in Spanish, Russian, and Ukrainian. Each poem is annotated so as to track the key symbols, ideas, and references that inform the authors’ approach to the Chernobyl mythology. While the poems are annotated individually, they are meant to be read in dialogue with each other. The fragmentary and nonlinear form of this project simulates the dislocation that continues to shape individual and collective memory of Chernobyl. 
+
+Prior to interacting with the poems, consider the following excerpt from Michael M. Naydan’s translation of an untitled poem by acclaimed Ukrainian poet and Chernobyl activist Lina Kostenko, which inspired the name of this project.[^2]
+
+> A terrifying kaleidoscope:  
+at this moment someone somewhere died.  
+At this moment. At this very moment. Each of every minute.   
+A ship has broken apart. The Galapagos Islands burn.  
+And the bitter star-wormwood descends above the river Dnieper.  
+
+As part of a kaleidoscope of disaster, Chernobyl compels us to investigate how perception and memory break down in the “aftermath” of catastrophe. Poetry, therefore, provides the ideal lens through which to encounter the linguistic, historical, and political reflections and tensions associated with Chernobyl.  
+
+## Types of Annotations
+
+Each annotation is tagged according to its type. “Author” annotations provide brief biographical information about the authors of each poem. “Context” annotations serve to provide basic historical and background information to frame key figures, ideas, and concepts that may be unfamiliar to the audience. “Analysis” annotations, which often reference corresponding “Context” annotations, offer my own readings of the symbols and metaphors in the poem. “Translation” annotations highlight fragments of the poems that were especially difficult to translate and explain the choices that I made. I have also included “Discussion Question” annotations, which directly invite the audience to reply to the prompt in order to facilitate ongoing dialogue. 
+It is important to note that I have intentionally not provided “synthesis” annotations after each individual poem, in order to allow the reader to experiment with different ways of moving through the texts. That being said, at the bottom of the page, you will find a concluding section entitled “Reading Kaleidoscopically for the Future” which positions the themes of the poems in relation to each other and suggests a way forward for reader and writer alike. 
+
+## Reading Kaleidoscopically for the Future
+
+In the introduction to this project, I contend that Chernobyl poetry must be read as part of a kaleidoscope of disaster. This kaleidoscope destabilizes and complicates the relationship between language, history, and memory in light of catastrophe. As you likely encountered as you navigated through these annotations and poems, these literary responses to Chernobyl center around different kinds of lack. The poet and reader cannot resolve these breakdowns and absences, even as they collaboratively propose and test potential solutions through language and metaphor. 
+
+In [Hernán Urbina Joiro’s poem](https://hyp.is/PmO1boZPEeqjAEe3YuFSSA/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/ ), Chernobyl is the catalyst for a loss of political control that exacerbates the preexisting tensions between [“East” and “West.”](https://hyp.is/fX7uEIdQEeqap-uBJBXhGQ/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/) While Urbina Joiro places Chernobyl within a transnational context, this poem does not interrogate how the disaster resonates with nuclear issues and political corruption outside of Eastern Europe. As such, the poem absolves the (Western) audience of the need to reflect on their relationship to the catastrophe and their complicity in the systems that allow for such disasters to happen. 
+
+[Voznesensky’s](https://hyp.is/4tyEmIZbEeqIyW8CMsaVRQ/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/) poem “Thoughts on Chernobyl” draws compelling connections between all of “humanity” and the Chernobyl catastrophe, thereby expanding the limited approach to accountability and culpability that we encounter in Urbina Joiro’s poem. The speaker tries to respond to Chernobyl by accepting personal responsibility for the disaster and expressing his belief in the sacredness of the heroes who intervened. However, as the poem continues, the question of [“Who is to blame”](https://hyp.is/lfhKIIc-EeqvXis5F6O0ng/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/) becomes more pressing and more difficult to resolve. Thus, “Thoughts on Chernobyl” further complicates the delineation between hero, victim, and perpetrator. 
+
+While Voznesensky’s poem questions the possibility of [forgiveness](https://hyp.is/lfhKIIc-EeqvXis5F6O0ng/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/) for self and society alike, [Lina Kostenko(https://hyp.is/wvNg_IZlEeqNq_9G6uVwnQ/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/)] defines Chernobyl as a cause of profound spiritual loss. She traces the origins of this alienation to the [“alphabet of death”](https://hyp.is/jGKr6odNEeqHGcvCItstug/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/) associated with nuclear power. No form of linguistic expression, including Kostenko’s poem, can offer compelling solutions to transnational disaster. According to her reading, nuclear catastrophe itself has the final word. 
+
+I came into this class asking whether it is possible to fix the broken and deficient linguistic framework that Kostenko references in order to successfully interpret and recover from catastrophe. I have shifted the focus of this question significantly as a result of my time in the course and my experience working on this project.
+
+Instead of seeking to correct individual representations of catastrophe, we must fundamentally transform how we “read” disaster by intentionally exposing language and memory to the disruptive and disorienting lens of the kaleidoscope. In this way, it becomes possible to acknowledge, link, and amplify the silences, gaps, and fragments that structure these responses. The “Chernobyl kaleidoscope” is not simply a collection of poems and perspectives. Instead, the kaleidoscope calls for ongoing participation in an active, dynamic, and self-aware reading process that extends beyond the scope of this installation. 
 
 <section class="poem joiro" markdown="1">
 
@@ -88,29 +123,29 @@ They did not share it,
 we had to question it.  
 Iron Curtain,  
 One day after the destruction  
-in Sweden they found,   
+in Sweden they found  
 boundary radiation;  
 the same in Finland   
 as in Germany, too.  
 Iron Curtain,  
 You could not erase it.   
   
-Moscow: It was just yesterday  
-April 26  
-Two days later  
-The announcement was made.   
-Minor setback,  
-Solution in progress.  
-Full stop.   
+Moscow: *It was just yesterday*  
+*April 26*  
+*Two days later*  
+*The announcement was made.*   
+*Minor setback,*  
+*Solution in progress.*  
+*Full stop.*   
   
 The radioactive cloud  
 ran circles around your Curtain,  
 and caught up to Europe.   
   
 Gorbachev speaks:  
-Listen, in May,  
-Terrible explosion,  
-incredible pretense.   
+*Listen, in May,*  
+*Terrible explosion,*  
+*incredible pretense.*   
   
 The world sunk into an abyss.   
 According to experts,  
@@ -209,10 +244,11 @@ Forgive me,
 history, Russia, and Europe –   
 that the monstrous test   
 &ensp;&ensp;&ensp;&ensp;of the blind forces   
-happened to fall on my land   
-&ensp;&ensp;&ensp;&ensp;and my era.   
+happened to fall    
+&ensp;&ensp;&ensp;&ensp;on my land   
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;and my era.   
    
-Forgive,  
+Forgive  
 &ensp;&ensp;&ensp;&ensp;that I am only   
 human.  
 Hope,   
@@ -253,7 +289,8 @@ He is the helicopter pilot
 &ensp;&ensp;&ensp;&ensp;who saved and is saved,  
 He is Doctor Gale,   
 &ensp;&ensp;&ensp;&ensp;The contemporary of Hiroshima,  
-the man who flew into Russia.   
+the man who flew into  
+&ensp;&ensp;&ensp;&ensp;Russia.   
 
 </section>
 
@@ -330,7 +367,7 @@ Where is the
 poisoned fruit   
 of knowledge?  
 Vienna is closer than the Carpathians.   
-Тhe trouble with the sour cherry blooms  
+Тhe trouble blooms with the sour cherry blooms  
 A new view opens.   
   
 Why  
@@ -345,8 +382,8 @@ because he is
 When  
 &ensp;&ensp;&ensp;&ensp;the robot could not  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;shut down the troubles,  
-he stepped into the contaminated compartment.   
-  
+he stepped into the contaminated  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;compartment.   
 We remained alive,  
 &ensp;&ensp;&ensp;&ensp;You and I both,  
 because he is a human.   
@@ -361,7 +398,6 @@ because he is a human.
 He is looking at you,  
 &ensp;&ensp;&ensp;&ensp;at me  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;at the country.   
-  
 All night long,   
 &ensp;&ensp;&ensp;&ensp;without shutting his eyes,   
 the doctor transplants  
@@ -408,11 +444,16 @@ because he is a human.
 ### Lina Kostenko  
    
 We, the atomic hostages to progress,    
-no longer have the forest   
-nor the heavens.   
-So we live –   
-from one problem to the next.  
-We have the alphabet of death:   
-N. P. S.
+&ensp;&ensp;&ensp;&ensp;no longer have the forest   
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;nor the heavens.   
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;So we live –   
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;from one problem to the next.  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;We have the alphabet of &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;death:   
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;N. P. S.
 
 </section>
+
+## References
+
+[^1]: Peter Gray and Kendrick Oliver, introduction to *The Memory of Catastrophe* (Manchester: Manchester University Press, 2004), 8.
+[^2]: Lina Kostenko,“Untitled,” translated by Michael M. Naydan in *Shifting Borders: Eastern European Poetries of the Eighties*, ed. Walter Cummins (Rutherford: Associated University Presses, 1993), 375.
