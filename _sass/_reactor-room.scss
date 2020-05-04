@@ -312,3 +312,30 @@ EXTRAS
       transform: rotate(45deg) translate(20px,20px);
   }
 }
+
+
+/*
+
+PROJECT PAGES
+
+*/
+
+
+// two-column translations
+.kaleidoscope section section {
+    width: span(6 of 12);
+
+    @media screen and (min-width: $medium) {
+      float: left;
+    }
+
+    &:nth-of-type(odd){
+      clear: left;
+    }
+}
+
+.kaleidoscope .sidebar__right.sticky .toc{
+  &>ul>li:nth-of-type(odd), li>ul {
+    display: none;
+  }
+}

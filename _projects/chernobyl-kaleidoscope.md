@@ -1,16 +1,23 @@
 ---
 title: "The Chernobyl Kaleidescope: Transnational Representations of Catastrophe through Poetry"
-category: ['2019']
+category: ['2019','hypothesis']
+classes: ['kaleidoscope']
 excerpt: "The Chernobyl Kaleidescope: Transnational Representations of Catastrophe through Poetry"
 header:
   overlay_image: /assets/images/sewell.png
   teaser: assets/images/sewell.png
 contributors:
     - name: Grace Sewell
+toc: true
+toc_sticky: true
+toc_label: Translations
+toc_icon: 'angle-double-down'
 ---
-  
-All translations and annotations by Grace Sewell. Thank you to Frank Kenny (Swarthmore 2020) and Professor José Vergara for their thoughtful suggestions and revisions.   
-  
+
+All translations and annotations by Grace Sewell. Thank you to Frank Kenny (Swarthmore 2020) and Professor José Vergara for their thoughtful suggestions and revisions.
+
+<section class="poem joiro" markdown="1">
+
 ## POEMA 36 – Chernóbil (1986)  
   
 ### Hernán Urbina Joiro  
@@ -64,6 +71,10 @@ cuestiona tu enorme imperio.
 de semejante explosión  
 una Cortina de Hierro?
 
+</section>
+
+<section class="poem joiro" markdown="1">
+
 ## Poem 36 – Chernobyl (1986)  
 ### Hernán Urbina Joiro  
 
@@ -115,6 +126,10 @@ questions your enormous empire.
 Was all that existed to control  
 such an explosion  
 an Iron Curtain?   
+
+</section>
+
+<section class="poem voznesensky-1" markdown="1">
 
 ## Думы о Чернобыле  
 ### Андрей Вознесенский   
@@ -174,6 +189,10 @@ an Iron Curtain?
 в Россию   
 &ensp;&ensp;&ensp;&ensp;прилетевший человек.  
 
+</section>
+
+<section class="poem voznesensky-1" markdown="1">
+
 ## Thoughts on Chernobyl  
 ### Andrei Voznesensky   
    
@@ -229,7 +248,11 @@ He is the helicopter pilot
 He is Doctor Gale,   
 &ensp;&ensp;&ensp;&ensp;The contemporary of Hiroshima,  
 the man who flew into Russia.   
-          
+
+</section>
+
+<section class="poem voznesensky-2" markdown="1">
+
 **Больница**  
 Мы потом разберёмся:  
 кто виноват,  
@@ -289,7 +312,10 @@ the man who flew into Russia.
 Верю, он не умрёт,  
 это он – народ,  
 потому что он – человек.  
-   
+
+</section>
+
+<section class="poem voznesensky-2" markdown="1">
   
 **Hospital**  
 Later we will determine:  
@@ -351,6 +377,11 @@ He’s dreaming a dream –
 I believe he will not die,  
 he – the people,  
 because he is a human.   
+
+</section>
+
+<section class="poem kostenko" markdown="1">
+
   
 ## З «Летючих катренiв», #2  
 ### Ліна Костенко  
@@ -362,10 +393,13 @@ because he is a human.
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;од стресу і до стресу.  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Абетку смерті маємо –  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;А Е С.   
-   
-    
+
+</section>
+
+<section class="poem kostenko" markdown="1">
+
 ## From Volatile Quatrains, #2  
-## Lina Kostenko  
+### Lina Kostenko  
    
 We, the atomic hostages to progress,    
 no longer have the forest   
@@ -374,3 +408,5 @@ So we live –
 from one problem to the next.  
 We have the alphabet of death:   
 N. P. S.
+
+</section>
