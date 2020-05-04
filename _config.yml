@@ -4,8 +4,8 @@ title: The Reactor Room
 email: digitalscholarship@swarthmore.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Russ: 043 Digital Exhibit
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/reactor-room" # the subpath of your site, e.g. /blog
+url: "https://ds-pages.swarthmore.edu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -26,6 +26,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules/
+  - package*
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
@@ -54,7 +55,7 @@ kramdown:
 collections:
   projects:
     output: true
-    permalink: /project/:path/
+    permalink: /projects/:path/
 
 # Defaults
 defaults:
@@ -78,3 +79,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/swat-ds/reactor-room"
+
+# DC Metadata defaults
+dc:
+  language: en
+  relation_ispartof: 'swarthmore.edu'

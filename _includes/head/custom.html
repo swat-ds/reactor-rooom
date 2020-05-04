@@ -1,0 +1,27 @@
+<!-- start custom head snippets -->
+
+{% if site.dc %}
+
+  {% capture resource_url %}{{ site.baseurl }}{{ page.url }}{% endcapture %}
+
+  <!-- Dublin Core metadata for hypothes.is -->
+  <meta name="dc.title" content="{{ page.title }}" />
+
+  {% if page.contributors %}
+  {% for c in page.contributors %}
+  <meta name="dc.creator" content="{{ c.name }}" />
+  {% endfor %}
+  {% else %}
+  <meta name="dc.creator" content="{{ site.author.name }}" />
+  {% endif %}
+
+  {% if page.dc.publication-date %}<meta name="dc.date" content="{{ page.publication-date }}" />{% endif %}
+
+  <meta name="dc.language" content="{% if page.dc.language %}{{ page.dc.language }}{% else %}{{ site.dc.language }}{% endif %}" />
+  <meta name="dc.identifier" content="{{ resource_url }}" />
+  <meta name="dc.relation.ispartof" content="{{ site.dc.relation_ispartof }}" />
+{% endif %}
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
