@@ -5,8 +5,8 @@ email: digitalscholarship@swarthmore.edu
 description: >-
   Russ: 043 Digital Exhibit
 baseurl: "/reactor-room"
-# url: "https://ds-pages.swarthmore.edu"
-url: ""
+url: "https://ds-pages.swarthmore.edu"
+# url: ""
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -23,15 +23,17 @@ exclude:
   - .DS_Store
   - .sass-cache/
   - .jekyll-cache/
+  - .vscode
+  - .bundle
   - gemfiles/
   - Gemfile
   - Gemfile.lock
   - node_modules/
   - package*
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - vendor
+  - README.md
+  - process.py
+  - banner.js
 
 encoding: "utf-8"
 
@@ -60,6 +62,7 @@ collections:
 
 # Defaults
 defaults:
+  # _projects
   - scope:
       path: ""
       type: projects
@@ -73,6 +76,7 @@ defaults:
       share: false
       related: false
       btn_class: 'btn--inverse'
+
 
 # Site Footer
 footer:

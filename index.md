@@ -17,6 +17,7 @@ include_categories:
   - time
 sidebar:
   - nav: splash
+permalink: /
 ---
 
 {% for c in page.include_categories %}

@@ -11,5 +11,5 @@ contributors:
       bio: ""
 embed:
     type: iframe
-    url: //localhost:4000/reactor-room/assets/poems-texture-project.html
+    url: //ds-pages.swarthmore.edu/reactor-room/assets/poems-texture-project.html
 ---

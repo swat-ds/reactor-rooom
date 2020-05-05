@@ -13,6 +13,7 @@ toc: true
 toc_sticky: true
 toc_label: About the Project
 toc_icon: 'angle-double-down'
+permalink: /about/
 ---
 
 ## The Exhibition
