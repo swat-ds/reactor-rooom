@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image or page.header.embed %}
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image or page.classes contains 'embed' %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
@@ -36,16 +36,18 @@ layout: default
 
 
     {% if page.embed %}
-
-    {% if page.embed.type == 'arcgis' %}
-      {% include page-arcgis-storymap.html %}
-    {% elsif page.embed.type == 'storymap' %}
-      {% include page-storymap.html %}
-    {% elsif page.embed.type == 'timeline' %}
-      {% include page-timeline.html %}
+    {% if page.embed.type == 'storymap' or page.embed.type == 'timeline' or page.embed.type == 'iframe' %}
+    <a href="{{ page.embed.url }}" target="_blank">View Fullscreen<i class="fas fa-external-link-alt"></i></a>
+    {% elsif page.embed.type == 'arcgis' %}
+    {% include page-arcgis-storymap.html %}
+    <a href="{{ page.embed.url }}" target="_blank">View the project in ArcGIS Storymaps <i class="fas fa-external-link-alt"></i></a>
     {% elsif page.embed.type == 'soundcloud' %}
-      {% include page-soundcloud.html %}
+    {% include page-soundcloud.html %}
     {% endif %}
+
+    {% unless page.classes contains "hide-desc" %}
+        <blockquote>{{ page.description | markdownify }}</blockquote>
+    {% endunless %}
     
     {% endif %}
 
@@ -62,8 +64,10 @@ layout: default
         {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-
+      
+      {% unless page.classes contains "splash" %}
         {% include contributor %}
+      {% endunless %}
       </section>
 
       <!-- <footer class="page__meta">

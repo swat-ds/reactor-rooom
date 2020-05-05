@@ -14,13 +14,13 @@
 
 {% assign image_description = image_description | markdownify | strip_html | strip_newlines | escape_once %}
 
-<div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}{% if page.header.embed %}--embed{% endif %}"
+<div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}"
   style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}), {% endif %}url('{{ overlay_img_path }}');{% endif %}"
 >
 
-{% if page.classes contains 'embed' %}
+<!-- {% if page.classes contains 'embed' %}
 <div class="embed__title"><h1>{{ page.title }}</h1></div>
-{% endif %}
+{% endif %} -->
 
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
@@ -57,8 +57,12 @@
         {% endfor %}
       {% endif %}
     </div>
-  {% elsif page.embed[0].type == 'arcgis' %}
-    {% include page-arcgis-storymap.html %}
+  {% elsif page.embed.type == 'storymap' %}
+    {% include page-storymap.html %}
+  {% elsif page.embed.type == 'timeline' %}
+    {% include page-timeline.html %}
+  {% elsif page.embed.type == 'iframe' %}
+    {% include page-iframe.html %}
   {% else %}
     <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
   {% endif %}

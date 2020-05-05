@@ -1,5 +1,7 @@
 <div class="contributor">
 
+<hr/>
+
 {% for contributor in page.contributors %}
 
 <div class="contributor">

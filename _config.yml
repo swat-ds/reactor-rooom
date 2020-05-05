@@ -2,9 +2,9 @@
 
 title: The Reactor Room
 email: digitalscholarship@swarthmore.edu
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Russ: 043 Digital Exhibit
-baseurl: "/reactor-room" # the subpath of your site, e.g. /blog
+baseurl: "/reactor-room"
 # url: "https://ds-pages.swarthmore.edu"
 url: ""
 twitter_username: jekyllrb

@@ -2,7 +2,7 @@
 title: "The Chernobyl Kaleidoscope: Transnational Representations of Catastrophe through Poetry"
 category: ['arts','hypothesis']
 classes: ['kaleidoscope']
-excerpt: "A study of the power of language and art in the face of transnational catastrophe"
+excerpt: "What is the power of language and art in the face of transnational catastrophe? Original translations of poetry written in Spanish, Russian, and Ukrainian."
 description: |
     What is the power of language and art in the face of transnational catastrophe? What barriers does Chernobyl pose to ethical and effective communication and expression?
 
@@ -13,6 +13,7 @@ header:
     caption: '"The New Sarcophagus" by kdanecki / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)'
 contributors:
     - name: Grace Sewell
+      bio: is a prospective Honors Russian major, Course Spanish major, and Honors Spanish minor in the Swarthmore class of 2022. Outside of the classroom, she is involved in the Swarthmore Project for Eastern European Relations and Swarthmore Queer Union. 
 toc: true
 toc_sticky: true
 toc_label: Translations
@@ -20,6 +21,8 @@ toc_icon: 'angle-double-down'
 ---
 
 All translations and annotations by Grace Sewell. Thank you to Frank Kenny (Swarthmore Class of 2020), Professor José Vergara, and Professor María-Luisa Guardiola for their thoughtful suggestions and revisions. 
+
+<section markdown='1'>
 
 ## Introduction
 
@@ -38,24 +41,15 @@ And the bitter star-wormwood descends above the river Dnieper.
 
 As part of a kaleidoscope of disaster, Chernobyl compels us to investigate how perception and memory break down in the “aftermath” of catastrophe. Poetry, therefore, provides the ideal lens through which to encounter the linguistic, historical, and political reflections and tensions associated with Chernobyl.  
 
+</section>
+
+<section markdown="1">
+
 ## Types of Annotations
 
 Each annotation is tagged according to its type. “Author” annotations provide brief biographical information about the authors of each poem. “Context” annotations serve to provide basic historical and background information to frame key figures, ideas, and concepts that may be unfamiliar to the audience. “Analysis” annotations, which often reference corresponding “Context” annotations, offer my own readings of the symbols and metaphors in the poem. “Translation” annotations highlight fragments of the poems that were especially difficult to translate and explain the choices that I made. I have also included “Discussion Question” annotations, which directly invite the audience to reply to the prompt in order to facilitate ongoing dialogue. 
 It is important to note that I have intentionally not provided “synthesis” annotations after each individual poem, in order to allow the reader to experiment with different ways of moving through the texts. That being said, at the bottom of the page, you will find a concluding section entitled “Reading Kaleidoscopically for the Future” which positions the themes of the poems in relation to each other and suggests a way forward for reader and writer alike. 
-
-## Reading Kaleidoscopically for the Future
-
-In the introduction to this project, I contend that Chernobyl poetry must be read as part of a kaleidoscope of disaster. This kaleidoscope destabilizes and complicates the relationship between language, history, and memory in light of catastrophe. As you likely encountered as you navigated through these annotations and poems, these literary responses to Chernobyl center around different kinds of lack. The poet and reader cannot resolve these breakdowns and absences, even as they collaboratively propose and test potential solutions through language and metaphor. 
-
-In [Hernán Urbina Joiro’s poem](https://hyp.is/PmO1boZPEeqjAEe3YuFSSA/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/ ), Chernobyl is the catalyst for a loss of political control that exacerbates the preexisting tensions between [“East” and “West.”](https://hyp.is/fX7uEIdQEeqap-uBJBXhGQ/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/) While Urbina Joiro places Chernobyl within a transnational context, this poem does not interrogate how the disaster resonates with nuclear issues and political corruption outside of Eastern Europe. As such, the poem absolves the (Western) audience of the need to reflect on their relationship to the catastrophe and their complicity in the systems that allow for such disasters to happen. 
-
-[Voznesensky’s](https://hyp.is/4tyEmIZbEeqIyW8CMsaVRQ/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/) poem “Thoughts on Chernobyl” draws compelling connections between all of “humanity” and the Chernobyl catastrophe, thereby expanding the limited approach to accountability and culpability that we encounter in Urbina Joiro’s poem. The speaker tries to respond to Chernobyl by accepting personal responsibility for the disaster and expressing his belief in the sacredness of the heroes who intervened. However, as the poem continues, the question of [“Who is to blame”](https://hyp.is/lfhKIIc-EeqvXis5F6O0ng/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/) becomes more pressing and more difficult to resolve. Thus, “Thoughts on Chernobyl” further complicates the delineation between hero, victim, and perpetrator. 
-
-While Voznesensky’s poem questions the possibility of [forgiveness](https://hyp.is/lfhKIIc-EeqvXis5F6O0ng/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/) for self and society alike, [Lina Kostenko(https://hyp.is/wvNg_IZlEeqNq_9G6uVwnQ/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/)] defines Chernobyl as a cause of profound spiritual loss. She traces the origins of this alienation to the [“alphabet of death”](https://hyp.is/jGKr6odNEeqHGcvCItstug/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/) associated with nuclear power. No form of linguistic expression, including Kostenko’s poem, can offer compelling solutions to transnational disaster. According to her reading, nuclear catastrophe itself has the final word. 
-
-I came into this class asking whether it is possible to fix the broken and deficient linguistic framework that Kostenko references in order to successfully interpret and recover from catastrophe. I have shifted the focus of this question significantly as a result of my time in the course and my experience working on this project.
-
-Instead of seeking to correct individual representations of catastrophe, we must fundamentally transform how we “read” disaster by intentionally exposing language and memory to the disruptive and disorienting lens of the kaleidoscope. In this way, it becomes possible to acknowledge, link, and amplify the silences, gaps, and fragments that structure these responses. The “Chernobyl kaleidoscope” is not simply a collection of poems and perspectives. Instead, the kaleidoscope calls for ongoing participation in an active, dynamic, and self-aware reading process that extends beyond the scope of this installation. 
+</section>
 
 <section class="poem joiro" markdown="1">
 
@@ -275,7 +269,7 @@ If man is the
 &ensp;&ensp;&ensp;&ensp;likeness of God  
 is it possible that God is also my likeness?  
 God is in  
-&ensp;&ensp;&ensp;&ensp;He who went to the contaminated object;   
+&ensp;&ensp;&ensp;&ensp;he who went to the contaminated object;   
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;He who extinguished the reactor;  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Whose clothing and skin burned.    
 He did not save himself.  
@@ -367,7 +361,7 @@ Where is the
 poisoned fruit   
 of knowledge?  
 Vienna is closer than the Carpathians.   
-Тhe trouble blooms with the sour cherry blooms  
+Тhe trouble blooms with the sour cherry  
 A new view opens.   
   
 Why  
@@ -385,7 +379,7 @@ When
 he stepped into the contaminated  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;compartment.   
 We remained alive,  
-&ensp;&ensp;&ensp;&ensp;You and I both,  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;you and I both,  
 because he is a human.   
   
 He stares uninterruptedly,  
@@ -425,7 +419,7 @@ because he is a human.
 <section class="poem kostenko" markdown="1">
 
   
-## З «Летючих катренiв», #2  
+## З «Летючих катренів», #2  
 ### Ліна Костенко  
   
 Ми – атомні заложники прогресу,   
@@ -448,12 +442,33 @@ We, the atomic hostages to progress,
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;nor the heavens.   
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;So we live –   
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;from one problem to the next.  
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;We have the alphabet of &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;death:   
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;We have the alphabet of death:   
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;N. P. S.
 
 </section>
+
+<section markdown="1">
+
+## Reading Kaleidoscopically for the Future
+
+In the introduction to this project, I contend that Chernobyl poetry must be read as part of a kaleidoscope of disaster. This kaleidoscope destabilizes and complicates the relationship between language, history, and memory in light of catastrophe. As you likely encountered as you navigated through these annotations and poems, these literary responses to Chernobyl center around different kinds of lack. The poet and reader cannot resolve these breakdowns and absences, even as they collaboratively propose and test potential solutions through language and metaphor. 
+
+In [Hernán Urbina Joiro’s poem](https://hyp.is/PmO1boZPEeqjAEe3YuFSSA/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/ ), Chernobyl is the catalyst for a loss of political control that exacerbates the preexisting tensions between [“East” and “West.”](https://hyp.is/fX7uEIdQEeqap-uBJBXhGQ/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/) While Urbina Joiro places Chernobyl within a transnational context, this poem does not interrogate how the disaster resonates with nuclear issues and political corruption outside of Eastern Europe. As such, the poem absolves the (Western) audience of the need to reflect on their relationship to the catastrophe and their complicity in the systems that allow for such disasters to happen. 
+
+[Voznesensky’s](https://hyp.is/4tyEmIZbEeqIyW8CMsaVRQ/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/) poem “Thoughts on Chernobyl” draws compelling connections between all of “humanity” and the Chernobyl catastrophe, thereby expanding the limited approach to accountability and culpability that we encounter in Urbina Joiro’s poem. The speaker tries to respond to Chernobyl by accepting personal responsibility for the disaster and expressing his belief in the sacredness of the heroes who intervened. However, as the poem continues, the question of [“Who is to blame”](https://hyp.is/lfhKIIc-EeqvXis5F6O0ng/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/) becomes more pressing and more difficult to resolve. Thus, “Thoughts on Chernobyl” further complicates the delineation between hero, victim, and perpetrator. 
+
+While Voznesensky’s poem questions the possibility of [forgiveness](https://hyp.is/lfhKIIc-EeqvXis5F6O0ng/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/) for self and society alike, [Lina Kostenko](https://hyp.is/wvNg_IZlEeqNq_9G6uVwnQ/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/) defines Chernobyl as a cause of profound spiritual loss. She traces the origins of this alienation to the ["alphabet of death"](https://hyp.is/jGKr6odNEeqHGcvCItstug/ds-pages.swarthmore.edu/reactor-room/projects/chernobyl-kaleidoscope/) associated with nuclear power. No form of linguistic expression, including Kostenko’s poem, can offer compelling solutions to transnational disaster. According to her reading, nuclear catastrophe itself has the final word. 
+
+I came into this class asking whether it is possible to fix the broken and deficient linguistic framework that Kostenko references in order to successfully interpret and recover from catastrophe. I have shifted the focus of this question significantly as a result of my time in the course and my experience working on this project.
+
+Instead of seeking to correct individual representations of catastrophe, we must fundamentally transform how we “read” disaster by intentionally exposing language and memory to the disruptive and disorienting lens of the kaleidoscope. In this way, it becomes possible to acknowledge, link, and amplify the silences, gaps, and fragments that structure these responses. The “Chernobyl kaleidoscope” is not simply a collection of poems and perspectives. Instead, the kaleidoscope calls for ongoing participation in an active, dynamic, and self-aware reading process that extends beyond the scope of this installation. 
+
+</section>
+
+<section markdown="1" style="float:none;">
 
 ## References
 
 [^1]: Peter Gray and Kendrick Oliver, introduction to *The Memory of Catastrophe* (Manchester: Manchester University Press, 2004), 8.
 [^2]: Lina Kostenko,“Untitled,” translated by Michael M. Naydan in *Shifting Borders: Eastern European Poetries of the Eighties*, ed. Walter Cummins (Rutherford: Associated University Presses, 1993), 375.
+</section>

@@ -31,16 +31,15 @@ GLOBAL STYLES
   clear: both;
 }
 
+.footnotes {
+  color: $masthead-link-color;
+}
+
 // Navigation
 
 .greedy-nav a {
   letter-spacing: .06em;
 }
-
-// .greedy-nav .visible-links a:before {
-//     background: #000;
-//     font-weight: normal;
-// }
 
 // Footer
 
@@ -48,6 +47,10 @@ footer {
     display: flex;
     justify-content: space-between;
     margin-right: 0;
+
+    a {font-family: $sans-serif;}
+
+    .page__footer-copyright a:first-of-type { vertical-align: text-bottom;}
 }
 
 .page__footer-follow, .page__footer-copyright {
@@ -255,6 +258,90 @@ INCLUDE STYLE OVERRIDES
 
 /*
 
+ABOUT PAGE
+
+*/
+
+.ds-logo {
+  img {
+    width: 8rem;
+    background-color: #fff;
+    border-radius: .25rem;
+    padding: .25rem;
+  }
+}
+
+/*
+
+PROJECT PAGES
+
+*/
+
+
+// two-column translations
+.kaleidoscope section section {
+  @media screen and (min-width: $medium) {
+    float: left;
+  }
+}
+
+.kaleidoscope section section.poem {
+    width: span(6 of 12);
+
+    &:nth-of-type(odd){
+      clear: left;
+    }
+
+   h2,h3{
+    font-family: $sans-serif;
+    font-weight: bold;
+    text-transform: capitalize;
+  }
+
+}
+
+.sidebar__right.sticky .toc {
+  font-family: $sans-serif;
+  header,
+  .toc__menu a {
+    font-weight: normal;
+  }
+
+  li>ul {
+    display: none;
+  }
+}
+
+
+.kaleidoscope .sidebar__right.sticky .toc{
+  &>ul>li:nth-of-type(3),
+  &>ul>li:nth-of-type(5),
+  &>ul>li:nth-of-type(7),
+  li>ul {
+    display: none;
+  }
+}
+
+
+.datawrapper iframe {
+  background-color: #fff;
+  padding: 1rem;
+}
+
+.iframe  {
+  
+  .page__hero {
+    max-height: unset;
+    height: calc(100vh - 4rem);
+  }
+
+  iframe { 
+    height: 100%;
+  }
+}
+
+/*
+
 EXTRAS
 
 */
@@ -292,32 +379,5 @@ EXTRAS
   100%{
       opacity: 0;
       transform: rotate(45deg) translate(20px,20px);
-  }
-}
-
-
-/*
-
-PROJECT PAGES
-
-*/
-
-
-// two-column translations
-.kaleidoscope section section {
-    width: span(6 of 12);
-
-    @media screen and (min-width: $medium) {
-      float: left;
-    }
-
-    &:nth-of-type(odd){
-      clear: left;
-    }
-}
-
-.kaleidoscope .sidebar__right.sticky .toc{
-  &>ul>li:nth-of-type(odd), li>ul {
-    display: none;
   }
 }

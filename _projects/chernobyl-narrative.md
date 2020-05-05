@@ -1,7 +1,9 @@
 ---
 title:  "The Chernobyl Narrative from Various Angles"
 category: ['arts']
-excerpt: "This is an investigation on authorship and narrative construction."
+classes: ['hide-desc']
+excerpt: "This project explores the question of how different narratives can be valuable, considering the contested truths of Chernobyl. This is an investigation on authorship and narrative construction. It considers the author’s background, author’s interaction with Chernobyl, and novel structure. "
+# excerpt: "This is an investigation on authorship and narrative construction."
 description: "This project explores the question of how different narratives can be valuable, considering the contested truths of Chernobyl. This is an investigation on authorship and narrative construction. It considers the author’s background, author’s interaction with Chernobyl, and novel structure. "
 header:
   overlay_image: /assets/images/lam.png

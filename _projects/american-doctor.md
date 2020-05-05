@@ -9,7 +9,15 @@ header:
 contributors:
     - name: Chris Folk
       bio: "Chris is a Freshman who is looking to major in Environmental Studies. He high jumps for the track team and enjoys photography."
+embed:
+    url: https://via.hypothes.is/https://www.nytimes.com/1986/07/13/magazine/the-chernobyl-doctor.html
 ---
+
+[![New York Times Magazine July 13, 1986 Thumbnail](../../assets/images/nyt-magazine.png){: .align-center}]({{ page.embed.url }})
+
+
+<a href="{{ page.embed.url }}" target="_blank">Visit Project<i class="fas fa-external-link-alt"></i></a>
+{: .text-center}
 
 <!-- hypothesis embed on new york times article
 
