@@ -10,7 +10,7 @@ contributors:
     - name: Josh Rubinstein
       bio: "Josh is currently a sophomore at Swarthmore College studying Psychology and Biology. He also enjoys diverse literature courses, and hopes to take more courses like Russian Literature 043 in the future."
 embed:
-    - type: arcgis
-      id: 0f1be760f0944db7bf312f1edc1497dd
-      url: https://storymaps.arcgis.com/stories/0f1be760f0944db7bf312f1edc1497dd/preview
+  type: arcgis
+  id: 0f1be760f0944db7bf312f1edc1497dd
+  url: https://storymaps.arcgis.com/stories/0f1be760f0944db7bf312f1edc1497dd/preview
 ---

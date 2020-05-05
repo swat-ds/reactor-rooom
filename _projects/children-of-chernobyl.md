@@ -10,7 +10,7 @@ contributors:
     - name: Vladimir Soto-Avina
       bio: "I am from Denver, CO and part of the Class of 2023. I intend to major in Computer Science"
 embed:
-  - type: arcgis
-    id: ecaa72c8ec5f46b88306d327e307b8ab
-    url: "https://storymaps.arcgis.com/stories/ecaa72c8ec5f46b88306d327e307b8ab/preview"
+  type: arcgis
+  id: ecaa72c8ec5f46b88306d327e307b8ab
+  url: "https://storymaps.arcgis.com/stories/ecaa72c8ec5f46b88306d327e307b8ab/preview"
 ---

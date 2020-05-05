@@ -10,7 +10,7 @@ contributors:
     - name: Sophie Works
       bio: ""
 embed:
-  - type: arcgis
+    type: arcgis
     id: n0aqy
     url: https://arcg.is/n0aqy
 ---

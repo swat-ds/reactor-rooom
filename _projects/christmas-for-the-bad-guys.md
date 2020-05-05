@@ -7,7 +7,7 @@ contributors:
     - name: Gabby Cepeda
       bio: "Gabby Cepeda is a current sophomore at Swarthmore College. They are a prospective Sociology & Anthropology major and Educational Studies minor.  "
 embed:
-  - type: arcgis
+    type: arcgis
     id: 1vevGa
     url: "https://arcg.is/1vevGa"
 ---

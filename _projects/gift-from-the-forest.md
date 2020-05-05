@@ -11,8 +11,8 @@ contributors:
     - name: Anatole Shukla
       bio: ""
 embed:
-    - type: storymap
-      id: 394ae1f55d8b2773e85e07e9d45f1822
-      title: mushrooms-of-chernobyl
-      url: https://uploads.knightlab.com/storymapjs/394ae1f55d8b2773e85e07e9d45f1822/mushrooms-of-chernobyl/draft.html
+    type: storymap
+    id: 394ae1f55d8b2773e85e07e9d45f1822
+    title: mushrooms-of-chernobyl
+    url: https://uploads.knightlab.com/storymapjs/394ae1f55d8b2773e85e07e9d45f1822/mushrooms-of-chernobyl/draft.html
 ---

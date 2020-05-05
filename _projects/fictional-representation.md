@@ -7,7 +7,7 @@ contributors:
     - name: Emily Hapgood
       bio: "I am a neuroscience major and a computer science minor. I play on Swarthmore's field hockey team and am from Massachusetts."
 embed:
-    - type: arcgis
-      id: c3cd3928fb034f7f91ce25dd83f85fa7
-      url: https://storymaps.arcgis.com/stories/c3cd3928fb034f7f91ce25dd83f85fa7/preview
+    type: arcgis
+    id: c3cd3928fb034f7f91ce25dd83f85fa7
+    url: https://storymaps.arcgis.com/stories/c3cd3928fb034f7f91ce25dd83f85fa7/preview
 ---

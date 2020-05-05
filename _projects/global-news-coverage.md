@@ -10,7 +10,7 @@ contributors:
     - name: Nicole Khorosh
       bio: "Nicole Khorosh is from Brooklyn, NY, and a senior at Swarthmore College. "
 embed:
-    - type: arcgis
-      id: 0TGX0H
-      url: https://arcg.is/0TGX0H
+    type: arcgis
+    id: 0TGX0H
+    url: https://arcg.is/0TGX0H
 ---

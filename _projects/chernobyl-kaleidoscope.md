@@ -10,7 +10,7 @@ description: |
 header:
     overlay_image: assets/images/sewell.jpg
     teaser: assets/images/sewell.jpg
-    caption: '"The New Sarcophagus" kdanecki CC BY 2.0'
+    caption: '"The New Sarcophagus" by kdanecki / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)'
 contributors:
     - name: Grace Sewell
 toc: true

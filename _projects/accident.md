@@ -9,7 +9,7 @@ contributors:
     - name: Elliot Kenaston
       bio: "Class of 2021, and astrophysics major from Fairbanks Alaska. "
 embed:
-  - type: timeline
+    type: timeline
     id: 1SX76BGj92qw_Cza1McItKZj5Dhwh3UOB3zFSdpL6Ruc
     url: "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1SX76BGj92qw_Cza1McItKZj5Dhwh3UOB3zFSdpL6Ruc&font=Default&lang=en&initial_zoom=2&height=650"
 ---

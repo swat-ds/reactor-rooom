@@ -10,8 +10,8 @@ contributors:
     - name: Julia Dalrymple
       bio: "Julia is a rising senior majoring in Statistics and minoring in Biology and Environmental Studies. She is an avid hiker and loves exercising, modeling, and the outdoors."
 embed:
-    - type: storymap
-      id: 51e9c248712a3984e93db01032e08d98
-      title: radiate
-      url: https://uploads.knightlab.com/storymapjs/51e9c248712a3984e93db01032e08d98/radiate/index.html
+    type: storymap
+    id: 51e9c248712a3984e93db01032e08d98
+    title: radiate
+    url: https://uploads.knightlab.com/storymapjs/51e9c248712a3984e93db01032e08d98/radiate/index.html
 ---

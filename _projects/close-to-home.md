@@ -11,7 +11,7 @@ contributors:
     - name: Max Katz-Balmes
       bio: "Max is a graduating senior double majoring in environmental studies and economics. At Swarthmore, he played on the men's golf team, worked as a President's Sustainability Research Fellow, volunteered for Serenity Soular, and served as an editor for The Phoenix. After graduation, he hopes to pursue a career at the intersections of social justice and environmentalism."
 embed:
-  - type: arcgis
-    id: e6786a91f09a42fb9b2b46eb80f29d22
-    url: "https://storymaps.arcgis.com/stories/e6786a91f09a42fb9b2b46eb80f29d22"
+  type: arcgis
+  id: e6786a91f09a42fb9b2b46eb80f29d22
+  url: "https://storymaps.arcgis.com/stories/e6786a91f09a42fb9b2b46eb80f29d22"
 ---

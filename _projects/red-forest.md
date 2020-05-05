@@ -11,7 +11,7 @@ contributors:
     - name: Ethan Rothenberg
       bio: "Ethan Rothenberg is a Sophomore double majoring in Peace and Conflict studies and Computer Science."
 embed:
-  - type: storymap
-    id: 00210fa2051540a48284d2a666b19dad
-    url: https://storymaps.arcgis.com/stories/00210fa2051540a48284d2a666b19dad/edit
+  type: storymap
+  id: 00210fa2051540a48284d2a666b19dad
+  url: https://storymaps.arcgis.com/stories/00210fa2051540a48284d2a666b19dad/edit
 ---
