@@ -8,7 +8,7 @@ header:
   teaser: assets/images/smith.jpg
 contributors:
     - name: Alexa Bartlett
-      bio: "Alexa is a student in the class of 2023 at Swarthmore, and is interested in studying physics and computer science. She is also on the volleyball team at Swarthmore."
+      bio: "'23 intends on majoring in Physics and Computer Science. She is also on the volleyball team."
 embed:
   type: arcgis
   id: 99052b244c3d4ddd864912f19a8a0216

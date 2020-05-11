@@ -5,7 +5,7 @@ excerpt: "MWR creates an alternative story that exists post-Chernobyl, one that 
 description: "This project describes how Activision's Call of Duty 4: Modern Warfare Remastered displays the Chernobyl meltdown through fictional villainy. By using screenshots and dialogues from the video game, MWR creates an alternative story that exists post-Chernobyl, one that doesn't honor the lives lost in Pripyat. Additionally, the virtual setting houses tropes that depict Russian culture as 'evil'."
 contributors:
     - name: Gabby Cepeda
-      bio: "Gabby Cepeda is a current sophomore at Swarthmore College. They are a prospective Sociology & Anthropology major and Educational Studies minor.  "
+      bio: "'22 is a prospective Sociology & Anthropology major and Educational Studies minor."
 embed:
     type: arcgis
     id: 1vevGa

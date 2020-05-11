@@ -9,7 +9,7 @@ header:
   teaser: assets/images/katz-balmes.jpg
 contributors:
     - name: Max Katz-Balmes
-      bio: "Max is a graduating senior double majoring in environmental studies and economics. At Swarthmore, he played on the men's golf team, worked as a President's Sustainability Research Fellow, volunteered for Serenity Soular, and served as an editor for The Phoenix. After graduation, he hopes to pursue a career at the intersections of social justice and environmentalism."
+      bio: "'20 is double majoring in Environmental Studies and Economics. At Swarthmore, he played on the men's golf team, worked as a President's Sustainability Research Fellow, volunteered for Serenity Soular, and served as an editor for The Phoenix. After graduation, he hopes to pursue a career at the intersections of social justice and environmentalism."
 embed:
   type: arcgis
   id: 10uPS0

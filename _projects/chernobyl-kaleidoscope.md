@@ -13,7 +13,7 @@ header:
     caption: '"The New Sarcophagus" by kdanecki / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)'
 contributors:
     - name: Grace Sewell
-      bio: is a prospective Honors Russian major, Course Spanish major, and Honors Spanish minor in the Swarthmore class of 2022. Outside of the classroom, she is involved in the Swarthmore Project for Eastern European Relations and Swarthmore Queer Union. 
+      bio: (2022) is an Honors Russian Major, Course Spanish Major, and Honors Spanish Minor from Salem, Oregon. Outside of the classroom, she is involved in the Swarthmore Project for Eastern European Relations and Swarthmore Queer Union.
 toc: true
 toc_sticky: true
 toc_label: Translations

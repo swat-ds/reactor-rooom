@@ -9,7 +9,7 @@ header:
   teaser: assets/images/rothenberg.jpg
 contributors:
     - name: Ethan Rothenberg
-      bio: "Ethan Rothenberg is a Sophomore double majoring in Peace and Conflict studies and Computer Science."
+      bio: "'22 is double majoring in Peace and Conflict Studies and Computer Science."
 embed:
   type: arcgis
   id: 00210fa2051540a48284d2a666b19dad

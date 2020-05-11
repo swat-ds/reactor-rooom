@@ -9,7 +9,7 @@ header:
     teaser: assets/images/martinez.png
 contributors:
     - name: Noah Martinez
-      bio: "Noah Martinez is a first year student at Swarthmore College. He is from Claremont California and attended the Webb School of California for high school. He has been interested in Cold War-Era USSR for several years, and this work was a showcase of the years of study."
+      bio: "'23 is from Claremont, California and attended the Webb School of California. He has been interested in Cold War-Era USSR for several years, and his project showcases this extended period of study."
 embed:
     type: storymap
     id: ca1a5ad6c685dbbd20f882f5aa9497a1

@@ -8,7 +8,7 @@ header:
     teaser: assets/images/damato.jpg
 contributors:
     - name: Clare D'Amato
-      bio: "Clare D'Amato is a first year student at Swarthmore. She runs for the school's Cross Country and Track & Field teams and writes for The Phoenix. In her free time, she enjoys reading about crazy conspiracy theories and baking. "
+      bio: "'23 runs for Swarthmore's Cross Country and Track & Field teams and writes for The Phoenix. In her free time, she enjoys reading about crazy conspiracy theories and baking."
 embed:
   type: arcgis
   id: 3a466f39a1fe4601bcf5f3a25e7c990d

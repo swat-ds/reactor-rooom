@@ -8,7 +8,7 @@ header:
     teaser: assets/images/eiler.jpg
 contributors:
     - name: Marit Eiler
-      bio: "Marit is a Russian and linguistics major at Bryn Mawr College ('20). "
+      bio: "'20 is a Russian and Linguistics major at Bryn Mawr College. "
 toc: true
 toc_sticky: true
 toc_label: Annotations

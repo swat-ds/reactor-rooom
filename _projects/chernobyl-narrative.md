@@ -10,7 +10,7 @@ header:
   teaser: assets/images/lam.png
 contributors:
     - name: Gwendolyn Lam
-      bio: "Gwendolyn is pursuing an environmental major with biology focus and a statistics minor. She is in the class of 2023 and unsure why she has decided on the statistics minor. You can probably find her in the gardens on campus (working on the grounds crew with a colorful hat) or in the Crum watching some birds."
+      bio: "'23 is pursuing an environmental major with biology focus and a statistics minor and unsure why she has decided on the statistics minor. You can probably find her in the gardens on campus (working on the grounds crew with a colorful hat) or in the Crum watching some birds."
 embed:
     type: arcgis
     id: f81a8de04c0e4c9bb1507fe1fa48366d

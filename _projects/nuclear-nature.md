@@ -9,7 +9,7 @@ header:
     teaser: assets/images/dalrymple.png
 contributors:
     - name: Julia Dalrymple
-      bio: "Julia is a rising senior majoring in Statistics and minoring in Biology and Environmental Studies. She is an avid hiker and loves exercising, modeling, and the outdoors."
+      bio: "'21 is majoring in Statistics and minoring in Biology and Environmental Studies. She is an avid hiker and loves exercising, modeling, and the outdoors."
 embed:
     type: storymap
     id: 51e9c248712a3984e93db01032e08d98

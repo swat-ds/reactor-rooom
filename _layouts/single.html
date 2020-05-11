@@ -36,11 +36,19 @@ layout: default
 
 
     {% if page.embed %}
+
+    {% if page.embed.link %}
+    {% assign embed_url = page.embed.link %}
+    {% else %}
+    {% assign embed_url = page.embed.url %}
+    {% endif %}
+
+
     {% if page.embed.type == 'storymap' or page.embed.type == 'timeline' or page.embed.type == 'iframe' %}
-    <a href="{{ page.embed.url }}" target="_blank">View Fullscreen<i class="fas fa-external-link-alt"></i></a>
+    <a href="{{ embed_url }}" target="_blank">View Fullscreen<i class="fas fa-external-link-alt"></i></a>
     {% elsif page.embed.type == 'arcgis' %}
     {% include page-arcgis-storymap.html %}
-    <a href="{{ page.embed.url }}" target="_blank">View the project in ArcGIS Storymaps <i class="fas fa-external-link-alt"></i></a>
+    <a href="{{ embed_url }}" target="_blank">View the project in ArcGIS Storymaps <i class="fas fa-external-link-alt"></i></a>
     {% elsif page.embed.type == 'soundcloud' %}
     {% include page-soundcloud.html %}
     {% endif %}

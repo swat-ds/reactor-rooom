@@ -10,7 +10,7 @@ header:
   teaser: assets/images/levitz.png
 contributors:
     - name: Zander Levitz
-      bio: "Zander Levitz (Class of 2020) is from Chappaqua, NY and studied Economics and Psychology at Swarthmore. Zander was also a member of the men's lacrosse team and the president of the Golf Club."
+      bio: "'20 is from Chappaqua, NY and studied Economics and Psychology at Swarthmore. Zander was also a member of the men's lacrosse team and the president of the Golf Club."
 embed:
   type: storymap
   id: ca1a5ad6c685dbbd20f882f5aa9497a1

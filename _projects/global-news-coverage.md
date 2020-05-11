@@ -8,7 +8,7 @@ header:
     teaser: assets/images/khorosh.jpg
 contributors:
     - name: Nicole Khorosh
-      bio: "Nicole Khorosh is from Brooklyn, NY, and a senior at Swarthmore College. "
+      bio: "'20 is from Brooklyn, NY."
 embed:
     type: arcgis
     id: 0TGX0H

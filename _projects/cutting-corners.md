@@ -8,7 +8,7 @@ header:
   teaser: assets/images/smith.jpg
 contributors:
   - name: Cole Smith
-    bio: "Cole is a member of the class of 2023 at Swarthmore from Oakland, Maine. He plans on double majoring in Engineering and Psychology, and is a member of the men's soccer team on campus. "
+    bio: "'23 intends on majoring in Engineering and Psychology from Oakland, Maine. He is a member of the men's soccer team on campus."
 ---
 
 > {{ page.description }}
