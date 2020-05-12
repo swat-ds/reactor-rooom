@@ -55,7 +55,7 @@ $(document).ready(function() {
 
   // Smooth scrolling
   var scroll = new SmoothScroll('a[href*="#"]', {
-    offset: 120,
+    offset: 100,
     speed: 400,
     speedAsDuration: true,
     durationMax: 500
@@ -66,7 +66,7 @@ $(document).ready(function() {
   var spy = new Gumshoe(".splash .sidebar.sticky a",{
     navClass: "active",
     contentClass: "active",
-    offset: 20,
+    offset: 150,
     reflow: true,
     events: true
   })

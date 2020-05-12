@@ -3,7 +3,7 @@ title:  "WORLDWIDE RESPONSES: REAL NEWS OR UNNECESSARY PANIC?"
 category: ['media']
 classes: ['embed','iframe']
 excerpt: "Soviet censorship and Western media versus radioactive fallout."
-description: "While Chernobyl was a single event in a single location, it impacted people around the world. In this piece, the reactions of various news agencies around the world are compared to the amount of radioactive fallout seen in those counties. This question is quite telling of the Soviet misinformation and censorship efforts, as news of the disaster took far longer to reach the Soviet citizens, and the little news they did receive did not give enough detail to aid their safety."
+description: "While Chernobyl was a single event in a single location, it impacted people around the world. In this piece, the reactions of various news agencies around the world are compared to the amount of radioactive fallout seen in those counties. This question is quite telling of the Soviet misinformation and censorship efforts, as news of the disaster took far longer to reach Soviet citizens, and the little news they did receive did not give enough detail to aid their safety."
 header: 
     # overlay_image: assets/images/martinez.png
     teaser: assets/images/martinez.png

@@ -6,14 +6,6 @@ GLOBAL STYLES
 
 */
 
-.page__content {
-  p,
-  li,
-  dl {
-    font-size: $type-size-5 * 1.1;
-  }
-}
-
 .mfp-gallery .mfp-content .mfp-title p {
   font-size: $type-size-4;
   line-height: 1.5rem;
@@ -33,12 +25,30 @@ GLOBAL STYLES
 
 .footnotes {
   color: $masthead-link-color;
+
+  ul {
+    font-size: $type-size-6;
+  }
 }
 
 // Navigation
 
 .greedy-nav a {
   letter-spacing: .06em;
+}
+
+.page__content h2,
+.nav__sub-title,
+.toc__menu a {
+  border-bottom: 1px solid $masthead-link-color;
+}
+
+.toc__menu a:last-of-type {
+  border-bottom: unset;
+}
+
+.toc {
+  border: 1px solid $masthead-link-color;
 }
 
 // Footer
@@ -90,18 +100,20 @@ INCLUDE STYLE OVERRIDES
     font-family: $title-bold;
     font-size: $type-size-1 * 2;
     font-weight: bold;
-    color:$red;
+    color: lighten($red,8%);
+    text-shadow: 10px 10px 10px rgba(0,0,0,.7);
   }
 
   .page_lead {
-    font-family: $title;
     font-size: $type-size-4;
-    color: $lighter-gray;
+    color: #fff;
+    max-width: $large;
   }
 
   .sidebar.sticky {
     top: $nav-height * 4;
-    width: 5rem;
+    width: 5.25rem;
+    padding-left: 2px;
   }
 }
 
@@ -141,11 +153,25 @@ INCLUDE STYLE OVERRIDES
 
 .splash .page__content {
 
+  #mission {
+    padding-top: 1rem;
+    border-top: 2.5px solid $masthead-link-color;
+    border-bottom: 2.5px solid $masthead-link-color;
+
+    p {
+      font-size: $type-size-4;
+      max-width: $medium-wide;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+
   .feature__wrapper {
 
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     flex-wrap: wrap;
+    border-bottom: 2.5px solid $masthead-link-color;
 
     .feature__item {
 
@@ -184,6 +210,7 @@ INCLUDE STYLE OVERRIDES
             padding: .25rem;
             text-decoration: none;
             margin-top: 0;
+            text-align: center;
 
             &:after {
               content: "";
@@ -229,33 +256,6 @@ INCLUDE STYLE OVERRIDES
   }
 }
 
-// Contributors
-
-.contributors .contributor {
-  
-  // height: 210px;
-  margin-bottom: 1rem;
-
-  & .bio {
-    // display: inline-block;
-    float: left;
-    width: 70%;
-    height: 100%;
-    margin-left: 0rem;
-
-    @media screen and (max-width: $medium-wide) { margin-left: 0; }
-
-    & p, & h3 {
-      font-size: 1rem;
-    }
-  }
-
-  & .bio.has-image {
-    margin-left: 1rem;
-  }
-
-}
-
 /*
 
 ABOUT PAGE
@@ -265,9 +265,7 @@ ABOUT PAGE
 .ds-logo {
   img {
     width: 8rem;
-    background-color: #fff;
-    border-radius: .25rem;
-    padding: .25rem;
+    padding-bottom: .25rem;
   }
 }
 
@@ -277,6 +275,40 @@ PROJECT PAGES
 
 */
 
+// Contributors
+
+
+.contributors {
+  border-top: 1px solid $masthead-link-color;
+  width: 100%;
+  
+  .contributor {
+    margin-top: 1rem;
+    max-width: $medium;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.page__content + .pagination, .page__meta + .pagination, .comment__date + .pagination, .page__share + .pagination, .page__comments + .pagination {
+  border-top: 1px solid $masthead-link-color;
+}
+
+.pagination--pager {
+  border: 1px solid $masthead-link-color;
+
+  &:hover {
+    background-color: $masthead-link-color;
+    color: $peach;
+  }
+}
+
+.page__content a:not(.btn):not(#goog-wm-sb) img.align-center {
+  box-shadow: 0 0 .25rem rgba(50, 50, 50, 0.5);
+}
+.page__content a:not(.btn):not(#goog-wm-sb):hover img.align-center {
+  box-shadow: 0 0 1rem rgba(50, 50, 50, 0.75);
+}
 
 // two-column translations
 .kaleidoscope section section {
@@ -337,6 +369,47 @@ PROJECT PAGES
 
   iframe { 
     height: 100%;
+  }
+
+  iframe::-webkit-scrollbar {
+    display: none;
+  }
+  iframe::scrollbar {
+    display: none;
+  }
+}
+
+body.layout--single.embed.iframe.arcgis {
+
+  .page__hero {
+    max-height: unset;
+    height: calc(100vh - 2rem);
+    border-bottom: 2.5px solid $masthead-link-color;
+  }
+  .page__hero span {
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    padding: .5rem;
+    position: relative;
+    bottom: 10%;
+    left: 42.5%;
+    background-color: rgba($background-color,.8);
+    border: 1px solid $masthead-link-color;
+    border-radius: 4px;
+    box-shadow: 0 0 .25rem rgba(50, 50, 50, 0.6);
+
+    a {
+      color: $muted-text-color;
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: $text-color;
+    }
+
+    @media screen and (max-width: $medium-wide) {
+      left: 25%;
+    } 
   }
 }
 

@@ -4,7 +4,7 @@ title: About
 author_profile: false
 classes: ['about']
 excerpt: >-
-  The Reactor Room: An Immersive Chernobyl Exhibition is a digital installation featuring the work of students in Professor José Vergara’s course Chernobyl: Nuclear Narratives and the Environment (Spring 2020) at Swarthmore College. This interactive exhibition seeks to facilitate public engagement with the Chernobyl catastrophe and its associated mythology.
+  *The Reactor Room: An Immersive Chernobyl Exhibition* is a digital installation featuring the work of students in Professor José Vergara’s course Chernobyl: Nuclear Narratives and the Environment (Spring 2020) at Swarthmore College. This interactive exhibition seeks to facilitate public engagement with the Chernobyl catastrophe and its associated mythology.
 header:
   overlay_filter: "rgba(100,100,100,.5)"
   overlay_image: /assets/images/rothbart-wide-web.jpg
@@ -18,9 +18,9 @@ permalink: /about/
 
 ## The Exhibition
 
-*The Reactor Room: An Immersive Chernobyl Exhibition* is a digital installation featuring the work of students in Professor José Vergara’s course Chernobyl: Nuclear Narratives and the Environment (Spring 2020) at Swarthmore College. This interactive exhibition seeks to facilitate public engagement with the Chernobyl catastrophe and its associated mythology. Over the course of the Spring 2020 semester, students produced outward-facing digital products that investigate diverse aspects of Chernobyl’s cultural, environmental, social, and political consequences. As you navigate through this installation, you will encounter maps that visually trace the radioactive fallout from Chernobyl. You will meet some of the key figures who experienced, survived, and perpetrated one of the worst nuclear catastrophes in history. You will have the opportunity to engage with the sounds and silences associated with the disaster. You will be taken on a virtual tour of street art in Pripyat; read annotated poetry translations; see Chernobyl through the paranoid lens of conspiracy theories; and consider the disaster’s ongoing and unquantifiable impact on plant and animal life. Individually, these projects are snapshots that reflect the fragmented narratives and memories of Chernobyl. Together, they invite you to become an active participant in the study of the Chernobyl collective mythology.
+*The Reactor Room: An Immersive Chernobyl Exhibition* is a digital installation featuring the work of students in Professor José Vergara’s course Chernobyl: Nuclear Narratives and the Environment (Spring 2020) at Swarthmore College. This interactive exhibition seeks to facilitate public engagement with the Chernobyl catastrophe and its associated mythology. Over the course of the Spring 2020 semester, students produced outward-facing digital products that investigate diverse aspects of Chernobyl’s cultural, environmental, social, and political consequences. As you navigate through this installation, you will encounter maps that visually trace the radioactive fallout from Chernobyl. You will meet some of the key figures who experienced, survived, and perpetrated one of the worst nuclear catastrophes in history. You will have the opportunity to engage with the sounds and silences associated with the disaster. You will be taken on a virtual tour of street art in Pripyat; read annotated poetry translations; see Chernobyl through the paranoid lens of conspiracy theories; and consider the disaster’s ongoing and unquantifiable impact on plant and animal life. Individually, these projects are snapshots that reflect the fragmented narratives and memories of Chernobyl. Together, they invite you to become an active participant in the study of Chernobyl's collective mythology.
 
-## The Course: Chernobyl: Nuclear Narratives and the Environment 
+## The Course -- Chernobyl: Nuclear Narratives and the Environment 
 
 We began this course by asking a straightforward question: What really happened at the Chernobyl Nuclear Power Plant? At our first meetings, we pieced together the basic facts of the disaster. On April 26, 1986, the operators of the Chernobyl Nuclear Power Station near Pripyat, Ukraine conducted a routine test of the reactor’s capacity to operate under reduced power. Due to a combination of operator error and faulty design, Reactor 4 exploded. The ensuing spread of radioactivity across Europe resulted in a mass evacuation, political turmoil, unprecedented ecological devastation, and, some would argue, the end of the Soviet Union.
 
@@ -30,7 +30,7 @@ Class notes on a whiteboard
 
 Drawing on Svetlana Alexievich’s *Voices from Chernobyl* and Serhii Plokhy’s *Chernobyl: The History of a Nuclear Catastrophe*, we introduced questions that complicated our understanding of this historiography: 
 
-> - How do historical accounts explain and limit the story of Chernobyl?  
+- How do historical accounts explain and limit the story of Chernobyl?  
 - How do oral testimonies complicate and/or reinforce dominant political, scientific, and historical explanations of Chernobyl? 
 
 These questions about the role of historical narrative framed our study of memory in the aftermath of disaster. Survivors’ poetry provided us with the opportunity to interpret the catastrophe through the lens of metaphor, meter, and symbolism. We also thought about what it means to stage catastrophe by reading and performing scenes from Vladimir Gubaryev’s *Sarcophagus: A Day’s Tragedy* and Sergei Kurginian’s *Compensation: A Liturgy of Fact*. These works, which reflect a sense of spiritual alienation, motivated us to consider how disasters like Chernobyl simultaneously resist and necessitate memorialization and interpretation. 
@@ -52,7 +52,7 @@ In our study of Chernobyl as an environmental disaster, we endeavored to improve
 
 We closed the course by explicitly linking our analysis of Chernobyl’s ecological effects to society’s complicity in the climate crisis. We read an excerpt from David Wallace-Wells’ *The Uninhabitable Earth* about how storytelling is central to our ability to anticipate, respond to, and mitigate the effects of disasters such as climate change and Chernobyl. Our class ended with the following questions:
 
-> - Do tragedies like Chernobyl need to have a meaning?  
+- Do tragedies like Chernobyl need to have a meaning?  
 - What are the limitations of language in light of catastrophe?
 
 It is our hope that this digital installation will both enable us to articulate some of our own responses to the political, linguistic, scientific, and existential ruptures that Chernobyl has caused and to catalyze ongoing dialogue. Thank you for joining us in this process. 
@@ -61,6 +61,6 @@ It is our hope that this digital installation will both enable us to articulate 
 
 **Special thanks** to Scott Cassidy, Susan Dreher, Pam Harris, Doug Herren, Mike Jones, Nabil Kashyap, Michael Forster Rothbart, Bethanne Seufert, Jacquie Tull, John Word, the Environmental Studies Program, and the Global Studies Program.
 
-![McCabe Library Logo](../assets/images/logo-mccabe-web.png)  
+![McCabe Library Logo](../assets/images/LibraryLogo_finalfinal.png)  
 *Site supported by [Digital Scholarship / Swarthmore College Libraries](http://ds.swarthmore.edu/)*
 {: .ds-logo}

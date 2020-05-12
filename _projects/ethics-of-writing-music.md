@@ -4,8 +4,9 @@ category: ['arts']
 excerpt: "Ethics of writing music about Chernobyl"
 description: "Music is present in many aspects of our daily lives. Sometimes it is relegated to background noise while doing other activities; other times it contains deeper meaning and can be a way to process pain."
 header:
-  overlay_image: /assets/images/park.jpg
-  teaser: assets/images/park.jpg
+  overlay_image: /assets/images/white.jpg
+  teaser: assets/images/white.jpg
+  caption: Joël van der Loo / CC BY 4.0
 contributors:
     - name: Alexander White
 ---
@@ -88,7 +89,7 @@ residents now have to debate eating or drinking.
 
 
 Patricio Rey y sus Redonditos de Ricota is an Argentinian band led by a
-vocal political activist."Jijiji" is arguably their best known song.
+vocal political activist. "Jijiji" is arguably their best known song.
 This is probably in large part due to the song's upbeat tempo that fits
 the characteristics of popular songs and masks some of the more serious
 lyrics.

@@ -3,7 +3,7 @@ title:  "Conflicting Casualties: Counting the Victims of the Chernobyl Nuclear D
 category: ['people']
 classes: ['datawrapper']
 excerpt: "This project focuses on different attempts to quantify the costs of the Chernobyl nuclear disaster by compiling estimates of fatalities from a variety of sources."
-description: "This project focuses on different attempts to quantify the costs of the Chernobyl nuclear disaster by compiling estimates of fatalities from a variety of sources. The data gathered show two patterns: First, in the weeks immediately following the disaster, news reports were inconsistent among sources and entangled with Soviet-US relations; second, more recent estimates of the final death toll vary over a large range, and are likely influenced by government backing and affiliation to nuclear power. "
+description: "This project focuses on different attempts to quantify the costs of the Chernobyl nuclear disaster by compiling estimates of fatalities from a variety of sources. The data gathered show two patterns: First, in the weeks immediately following the disaster, news reports were inconsistent among sources and entangled with Soviet-US relations; second, more recent estimates of the final death toll vary over a large range and are likely influenced by government backing and affiliation to nuclear power. "
 header: 
     overlay_image: assets/images/rak.png
     teaser: assets/images/rak.png

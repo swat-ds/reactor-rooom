@@ -25,7 +25,7 @@ layout: default
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
-          {% if page.title %}<h1 id="page-title" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+          {% if page.title %}<h1 id="project-meta" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
           {% if page.read_time %}
             <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
@@ -43,19 +43,17 @@ layout: default
     {% assign embed_url = page.embed.url %}
     {% endif %}
 
-
-    {% if page.embed.type == 'storymap' or page.embed.type == 'timeline' or page.embed.type == 'iframe' %}
-    <a href="{{ embed_url }}" target="_blank">View Fullscreen<i class="fas fa-external-link-alt"></i></a>
-    {% elsif page.embed.type == 'arcgis' %}
-    {% include page-arcgis-storymap.html %}
-    <a href="{{ embed_url }}" target="_blank">View the project in ArcGIS Storymaps <i class="fas fa-external-link-alt"></i></a>
-    {% elsif page.embed.type == 'soundcloud' %}
-    {% include page-soundcloud.html %}
-    {% endif %}
-
     {% unless page.classes contains "hide-desc" %}
         <blockquote>{{ page.description | markdownify }}</blockquote>
     {% endunless %}
+
+    {% if page.embed.type == 'storymap' or page.embed.type == 'timeline' or page.embed.type == 'iframe' %}
+    <p><a href="{{ embed_url }}" target="_blank">View Fullscreen<i class="fas fa-external-link-alt"></i></a></p>
+    {% elsif page.embed.type == 'arcgis' %}
+    <p><a href="{{ embed_url }}" target="_blank">View the project in ArcGIS Storymaps <i class="fas fa-external-link-alt"></i></a></p>
+    {% elsif page.embed.type == 'soundcloud' %}
+    {% include page-soundcloud.html %}
+    {% endif %}
     
     {% endif %}
 
