@@ -15,5 +15,3 @@ embed:
   id: 0n0fGS0
   url: https://arcg.is/0n0fGS0
 ---
-
-> {{ page.description }}

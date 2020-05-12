@@ -9,6 +9,10 @@ header:
   caption: Joël van der Loo / CC BY 4.0
 contributors:
     - name: Alexander White
+toc: true
+toc_sticky: true
+toc_label: Songs
+toc_icon: 'angle-double-down'
 ---
 
 
@@ -30,11 +34,11 @@ level of reverence when put into songs, possible right and wrong ways of
 doing this, and how much the the passage of time or proximity to the
 event affect the ability to do this appropriately.
 
-### "Magic Lantern Days" (2015)
+## "Magic Lantern Days" (2015)
 
 {% include page-soundcloud.html id=816658165 %}
 
-#### [Lyrics](https://genius.com/Mewithoutyou-magic-lantern-days-annotated)
+### [Lyrics](https://genius.com/Mewithoutyou-magic-lantern-days-annotated)
 
 At almost 40 years old, the lead singer of mewithoutYou, Aaron Weiss
 from Philadelphia, was too young and too far away to be greatly impacted
@@ -56,11 +60,11 @@ citizens going through their daily lives. Weiss compared it to the day
 before a devastating car crash, the moments before life as it was once
 known is completely uprooted.
 
-### "Can't Run But" (1990/2018)
+## "Can't Run But" (1990/2018)
 
 {% include page-soundcloud.html id = 816659401 %}
 
-#### [Lyrics](https://genius.com/Paul-simon-cant-run-but-2018-lyrics)
+### [Lyrics](https://genius.com/Paul-simon-cant-run-but-2018-lyrics)
 
 Another American artist, Paul Simon, suffers similarly from the
 proximity to Chernobyl, but unlike Weiss, Simon was at the height of his
@@ -81,11 +85,11 @@ almost stressful nature that enhance the feelings that go with the
 descriptions of the radioactive rain and the food and water that the
 residents now have to debate eating or drinking.
 
-### "Jijiji" (1986)
+## "Jijiji" (1986)
 
 {% include page-soundcloud.html id = 816656383 %}
 
-#### [Lyrics](https://genius.com/Patricio-rey-y-sus-redonditos-de-ricota-jijiji-lyrics) (in Spanish)
+### [Lyrics](https://genius.com/Patricio-rey-y-sus-redonditos-de-ricota-jijiji-lyrics) (in Spanish)
 
 
 Patricio Rey y sus Redonditos de Ricota is an Argentinian band led by a
@@ -106,11 +110,11 @@ English and Spanish depictions: the audience. The purpose of writing
 to memorialize the event and inform those who weren't affected by it,
 using the platform in the geographical location available to them.
 
-### "Sarcophagus"
+## "Sarcophagus"
 
 {% include page-soundcloud.html id = 816657076 %}
 
-#### [Lyrics](http://pripyat.com/literature-and-art/bardy-chernobylya-suryvin.html) (in Russian)
+### [Lyrics](http://pripyat.com/literature-and-art/bardy-chernobylya-suryvin.html) (in Russian)
 
 Domestic artists are inherently held to a different standard when it
 comes to the ethics of putting disasters into their songs. Personal

@@ -5,8 +5,8 @@ email: digitalscholarship@swarthmore.edu
 description: >-
   Russ: 043 Digital Exhibit
 baseurl: "/reactor-room"
-# url: "https://ds-pages.swarthmore.edu"
-url: ""
+url: "https://ds-pages.swarthmore.edu"
+# url: ""
 twitter_username: jekyllrb
 github_username:  jekyll
 
