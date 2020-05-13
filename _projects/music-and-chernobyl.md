@@ -53,13 +53,13 @@ powerful reminder of what negligence, irresponsibility and inaction of
 
 ### *Chornobyl Songs Project: Living Culture from a Lost World*  <br/> - Ensemble Hilka (2015)
 
-[*Chornobyl Songs Project: Living Culture from a Lost World*](https://folkways.si.edu/ensemble-hilka/chornobyl-songs-project-living-culture-from-a-lost-world/world/music/album/smithsonian) is a collection of songs released by Smithsonian Folkways which contains folk songs in the traditional style of those that would have been sung in the region surrounding Chernobyl. In this sense, it is an attempt to commemorate a culture's traditional music because of the displacement of the people in the Polissian region and the "resurgent interest in traditional music (such as the songs produced in this album) during and after the waning years of the Soviet Union" (Musacchia 115).
+<span class="soundcite" data-id="819838000" data-start="6617" data-end="30067" data-plays="1">*Chornobyl Songs Project: Living Culture from a Lost World*</span> is a collection of songs released by Smithsonian Folkways which contains folk songs in the traditional style of those that would have been sung in the region surrounding Chernobyl. In this sense, it is an attempt to commemorate a culture's traditional music because of the displacement of the people in the Polissian region and the "resurgent interest in traditional music (such as the songs produced in this album) during and after the waning years of the Soviet Union" (Musacchia 115).
 
 ## Outside of Eastern Europe
 
 ### "Time Will Crawl" - David Bowie (1987)
 
-David Bowie's "Time Will Crawl," released in 1987, is about the environmental destruction of the planet and Bowie has said that it was made in inspiration from Chernobyl. He was in Switzerland at the time of the disaster and has said in an interview that "huge billowing clouds were moving over from the Motherland and they weren\'t rain clouds... For those first few moments it felt sort of claustrophobic to know you were one of only a few witnesses to something of this magnitude... Over the next couple of months a complicated crucible of impressions collected in my head prompted by this insanity, any one of which could have become a song. I stuck them all in \'Time Will Crawl.\'\" The song is a protest of negative environmental impact caused by industry and the lyrics from the song which seem to draw upon Chernobyl specifically are <span class="soundcite" data-url="../../assets/audio/bowie-time-will-crawl.m4a" data-start="0" data-end="27402" data-plays="1">"I felt a warm warm breeze/ That melted metal and steel/ I got a bad migraine/ That lasted three long years."</span> These lines reference the cloud of radiation, or the "warm breeze," which would have affected Bowie at the time he was in Switzerland.
+David Bowie's "Time Will Crawl," released in 1987, is about the environmental destruction of the planet and Bowie has said that it was made in inspiration from Chernobyl. He was in Switzerland at the time of the disaster and has said in an interview that "huge billowing clouds were moving over from the Motherland and they weren\'t rain clouds... For those first few moments it felt sort of claustrophobic to know you were one of only a few witnesses to something of this magnitude... Over the next couple of months a complicated crucible of impressions collected in my head prompted by this insanity, any one of which could have become a song. I stuck them all in \'Time Will Crawl.\'\"[^1] The song is a protest of negative environmental impact caused by industry and the lyrics from the song which seem to draw upon Chernobyl specifically are <span class="soundcite" data-url="../../assets/audio/bowie-time-will-crawl.m4a" data-start="0" data-end="27402" data-plays="1">"I felt a warm warm breeze/ That melted metal and steel/ I got a bad migraine/ That lasted three long years."</span> These lines reference the cloud of radiation, or the "warm breeze," which would have affected Bowie at the time he was in Switzerland.
 
 ### "Chernobyl" - The Blue Hearts (1991)
 
@@ -93,3 +93,7 @@ thoughtful representations of the tragedy of Chernobyl. Despite
 potential flaws in this, they are significant as popular works of music
 which played upon the themes of distrust in nuclear power and fear of
 environmental impact.
+
+## Works Cited
+
+[^1]: [Bowie, David. “DAVID BOWIE: I Went to Buy Some Shoes - and I Came Back with Life On Mars.” *Daily Mail Online*, Associated Newspapers, 28 June 2008.](www.dailymail.co.uk/tvshowbiz/article-1030121/DAVID-BOWIE-I-went-buy-shoes--I-came-Life-On-Mars.html)
