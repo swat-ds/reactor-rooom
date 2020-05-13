@@ -25,9 +25,16 @@ GLOBAL STYLES
 
 .footnotes {
   color: $masthead-link-color;
+  max-width: $medium-wide;
 
   ul {
     font-size: $type-size-6;
+    li { margin-bottom: $indent-var; }
+  }
+
+  li {
+    padding-left: $indent-var;
+    text-indent: -$indent-var;
   }
 }
 
@@ -100,14 +107,16 @@ INCLUDE STYLE OVERRIDES
     font-family: $title-bold;
     font-size: $type-size-1 * 2;
     font-weight: bold;
-    color: lighten($red,8%);
+    color: lighten($red,10%);
     text-shadow: 10px 10px 10px rgba(0,0,0,.7);
+
+    // max-width: $large;
   }
 
   .page_lead {
-    font-size: $type-size-4;
+    font-size: $type-size-3;
     color: #fff;
-    max-width: $large;
+    // max-width: $large;
   }
 
   .sidebar.sticky {
@@ -275,6 +284,10 @@ PROJECT PAGES
 
 */
 
+.page__content p {
+  max-width: $medium-wide;
+}
+
 // Contributors
 
 
@@ -283,12 +296,14 @@ PROJECT PAGES
   width: 100%;
   
   .contributor {
-    margin-top: 1rem;
+    margin-top: 2rem;
     max-width: $medium;
     margin-left: auto;
     margin-right: auto;
   }
 }
+
+// Pagination
 
 .page__content + .pagination, .page__meta + .pagination, .comment__date + .pagination, .page__share + .pagination, .page__comments + .pagination {
   border-top: 1px solid $masthead-link-color;
@@ -308,6 +323,10 @@ PROJECT PAGES
 }
 .page__content a:not(.btn):not(#goog-wm-sb):hover img.align-center {
   box-shadow: 0 0 1rem rgba(50, 50, 50, 0.75);
+}
+
+.page__inner-wrap iframe {
+  margin-bottom: 1rem;
 }
 
 // two-column translations
@@ -332,18 +351,21 @@ PROJECT PAGES
 
 }
 
-.sidebar__right.sticky .toc {
-  font-family: $sans-serif;
-  header,
-  .toc__menu a {
-    font-weight: normal;
-  }
+.sidebar__right.sticky {
+  top: $nav-height * 3;
+  .toc {
+    font-family: $sans-serif;
 
-  li>ul {
-    display: none;
-  }
+    header,
+    .toc__menu a {
+      font-weight: normal;
+    }
+
+    li>ul {
+      display: none;
+    }
+    }
 }
-
 
 .kaleidoscope .sidebar__right.sticky .toc{
   &>ul>li:nth-of-type(3),
@@ -406,10 +428,6 @@ body.layout--single.embed.iframe.arcgis {
     a:hover {
       color: $text-color;
     }
-
-    @media screen and (max-width: $medium-wide) {
-      // left: 25%;
-    } 
   }
 }
 
@@ -421,7 +439,7 @@ EXTRAS
 
 .arrow{
   position: absolute;
-  top: 75%;
+  bottom: 10%;
   left: 50%;
   transform: translate(-50%,-50%);
 }

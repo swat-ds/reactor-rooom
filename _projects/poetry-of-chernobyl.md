@@ -3,7 +3,7 @@ title:  "Poetry of Chernobyl"
 category: ['arts']
 classes: ['iframe','embed']
 excerpt: "Poems is a choose your own path game where you can follow connections between the imagery of poems about Chernobyl. "
-description: "Poems is a choose your own path game where you can follow connections between the imagery of poems about Chernobyl. The project hopes you will see how similar ideas or words have propagated in the poetry about Chernobyl, but can take on meanings far different from one another. As I made the project I thought about why certain poems were alike and how they informed each other. "
+description: "Poems is a choose your own path game where you can follow connections between the imagery of poems about Chernobyl. The project hopes you will see how similar ideas or words have propagated in the poetry about Chernobyl, but can take on meanings far different from one another. As I made the project, I thought about how certain poems informed one another. "
 header: 
     teaser: assets/images/katz.png
 contributors:
@@ -11,13 +11,14 @@ contributors:
       bio: ""
 embed:
     type: iframe
+    title: Texture Writer Poetry of Chernobyl Interactive Game
     url: //ds-pages.swarthmore.edu/reactor-room/assets/poems-texture-project.html
     link: https://texturewriter.com/play/lucastron3000/poetry-of-chernobyl-/info
 ---
 
 This project uses a build-your-own-story interface called [*Texture*](https://texturewriter.com/) to
 examine thematic lines in Ukrainian poetry that has been inspired by the
-Chernobyl disaster. The project hopes for you to think about and
+Chernobyl disaster. Through this project, I hope for you to think about and
 recognize how prevalent themes in the Chernobyl poetry can take on
 meanings that show both similarity and difference in the poetic
 Chernobyl interpretation.
@@ -48,11 +49,10 @@ words.
 P.S. There is one dead-end so to speak. Let's see if you can find it,
 and what its meaning might be ;)
 
-## WORKS CITED
-
+## Bibliography
 
 <div class="footnotes">
-    <ol>
+    <ul>
         <li>Bilotserkivets, Natalka. "May." Trans. Virlana Tkacz and Wanda Phipps. <em>Agni</em> 34 (1991): 51-54</li>
         <li>Drach, Ivan. Chernobyl poems. <em>Shifting Borders: East European Poetries of the Eighties</em>. Cranbury, NJ: Fairleigh Dickinson University Press,</li>
         <li>1993.</li>
@@ -63,5 +63,5 @@ and what its meaning might be ;)
         <li>Pakhliovska, Oksana. <em>Shifting Borders: East European Poetries of the Eighties</em>. Cranbury, NJ: Fairleigh Dickinson University Press, 1993.</li>
         <li>Rubchak, Bohdan. "Because We Have No Time: Recent Ukrainian Poetry." <em>Agni</em>, no. 33, 1991, pp. 278--304. <em>JSTOR</em>, www.jstor.org/stable/23008645. Accessed 8 May 2020.</li>
         <li><a href="https://brians.wsu.edu/the-chernobyl-poems/">Sirota, Liubov. "Chernobyl poems".</a></li>
-    </ol>
+    </ul>
 </div>

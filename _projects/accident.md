@@ -3,12 +3,12 @@ title:  "The Accident: A Timeline of the Chernobyl Reactor Explosion"
 category: ['time']
 classes: ['embed','iframe']
 excerpt: "A timeline and graphics show the Chernobyl reactor explosion as it unfolded."
-description: "A timeline that dives deep into the night of the Chernobyl reactor explosion and the causes associated with it. Starting with the decisions made leading up to the disaster and moving to a second-by-second description of the explosion, this project follows the status of the reactor with graphics that show the weight of what happened. This project hopes to make it clear to everyone what the underlying issues were that led to the disaster and the decisions that were made which caused it to happen. "
+description: "A timeline that dives deep into the night of the Chernobyl reactor explosion and the causes associated with it. Starting with the decisions made leading up to the disaster and moving to a second-by-second description of the explosion, this project follows the status of the reactor with graphics that show the weight of what happened. This project hopes to make clear which underlying issues and decisions led to the disaster."
 header:
   teaser: assets/images/kenaston.png
 contributors:
     - name: Elliot Kenaston
-      bio: "'21 is an Astrophysics major from Fairbanks Alaska. "
+      bio: "'21 is an Astrophysics major from Fairbanks, Alaska. "
 embed:
     type: timeline
     id: 1SX76BGj92qw_Cza1McItKZj5Dhwh3UOB3zFSdpL6Ruc
@@ -46,12 +46,12 @@ can all be explored to show how the perfect storm came together and led
 to the explosion in reactor number 4.
 
 
-## References
+## Bibliography
 
 <div markdown="1" class="footnotes">
-1. Hjelmgaard, Kim. "Chernobyl: Timeline of a Nuclear Nightmare." *10 News* (17 April 2016).
-2. INSAG-7, The Chernobyl Accident: Updating of INSAG-1, A report by the International Nuclear Safety Advisory Group, International Atomic Energy Agency, Safety Series No. 75-INSAG-7, 1992.
-3. Mazin, Craig. *Chernobyl*. HBO, 2019.
-4. Plokhy, Serhii. *Chernobyl: The History of a Nuclear Catastrophe.* New York: Basic Books, 2018.
-5. U.S. Nuclear Regulatory Commission. "Report on the Accident at the Chernobyl Nuclear Power Station." January 1987.
+- Hjelmgaard, Kim. "Chernobyl: Timeline of a Nuclear Nightmare." *10 News* (17 April 2016).
+- INSAG-7, The Chernobyl Accident: Updating of INSAG-1, A report by the International Nuclear Safety Advisory Group, International Atomic Energy Agency, Safety Series No. 75-INSAG-7, 1992.
+- Mazin, Craig. *Chernobyl*. HBO, 2019.
+- Plokhy, Serhii. *Chernobyl: The History of a Nuclear Catastrophe.* New York: Basic Books, 2018.
+- U.S. Nuclear Regulatory Commission. "Report on the Accident at the Chernobyl Nuclear Power Station." January 1987.
 </div>

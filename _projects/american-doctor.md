@@ -2,7 +2,7 @@
 title:  "An American Doctor Amid a Soviet Disaster"
 category: ['people']
 excerpt: "This project analyzes the portrayal of Dr. Robert Peter Gale in Western media."
-description: "This project analyzes the portrayal of Dr. Robert Peter Gale in Western media. Dr. Gale was personally invited by Gorbachev to the USSR to assist with treating those with the worst cases of radiation poisoning. However when looking closely at what Dr. Gale was doing in the USSR, one must wonder how much was what he was doing for political image and how effective was Dr. Gale in treating victims?"
+description: "This project analyzes the portrayal of Dr. Robert Peter Gale in Western media. Dr. Gale was personally invited by Gorbachev to the USSR to assist with treating those with the worst cases of radiation poisoning. However when looking closely at what Dr. Gale was doing in the USSR, one must wonder about his political motivations for his work and question the efficacy of his treatments."
 header: 
     overlay_image: 'assets/images/folk.jpg'
     teaser: 'assets/images/folk.jpg'
@@ -27,10 +27,6 @@ https://via.hypothes.is/https://www.nytimes.com/1986/07/13/magazine/the-chernoby
 
 -->
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YoDFNBKYY5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br/>
-
 In the aftermath of the Chernobyl disaster, one man became known in the
 West as the premiere health specialist when it came to treating
 radiation victims. Robert Peter Gale was heralded as a pioneer in bone
@@ -47,17 +43,21 @@ serving as the figurehead Western audiences crave.
 Since Dr. Gale first visited Chernobyl, he has become the subject of
 several hundred articles in newspapers all around the world, conducted
 countless interviews, and published two books about radiation and his
-experiences in Chernobyl. The media has portrayed and looked to Dr. Gale
+experiences in Chernobyl. The media has portrayed Dr. Gale
 as a leading figure in radiation medicine and nuclear disaster response.
 In one Australian newspaper, *The Advertiser*, Dr. Gale is glowingly
 described as "an unparalleled expert on the medical response to a
 nuclear disaster" and [another article detailing Dr. Gale's work in the
 USSR published in *The New York Times Magazine* is titled "The Chernobyl
-Doctor,"](https://via.hypothes.is/https://www.nytimes.com/1986/07/13/magazine/the-chernobyl-doctor.html) again indicative of the way Western media viewed Gale as the leading authority (Pine). These articles, among others, paint Dr. Gale as the Western savior during a Soviet caused disaster. Dr. Gale became a
+Doctor,"](https://via.hypothes.is/https://www.nytimes.com/1986/07/13/magazine/the-chernobyl-doctor.html) again indicative of the way Western media viewed Gale as the leading authority (Pine). These articles, among others, paint Dr. Gale as the Western savior during a Soviet disaster. Dr. Gale became a
 voice the media thought they could trust and a propaganda device, used
 to make the USSR seem incompetent and primitive. It was due both to this
 media obsession over the American doctor and systematic censorship that
 certain individuals were severely marginalized.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YoDFNBKYY5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
 
 A common theme among many of these Western news sources is the lack of
 any real credit to Soviet doctors who were years ahead of the Americans
@@ -133,17 +133,17 @@ the intent to save lives and bridge the gap between East and West, but
 was swept up into a larger political scheme of which he had no control
 over. While neither the USSR or Western press is free of blame when it
 comes to Dr. Gale's over-blown image, the flaws of Western solidarity
-and individualism are what become apparent.
+and individualism are key issues that must be considered here.
 
 ## Works Cited
 
 <div markdown="1" class="footnotes">
-1. Brown, Kate. *Manual for Survival: A Chernobyl Guide to the Future*. W W Norton, 2020.
-1. Euronews. "The Medical Response in the Aftermath of the Chernobyl Disaster." *Euronews*, Euronews.com, 26 Apr. 2016.
-1. Gale, Robert Peter., and Thomas Hauser. *Final Warning: the Legacy of Chernobyl*. Warner Books, 1989.
-1. Gus\'kova, A. K. "Fifty Years of the Nuclear Industry in Russia---Through the Eyes of a Physician." *Atomic Energy*, vol. 87, no. 6, Dec. 1999, pp. 903--908 IRCP "ICRP PUBLICATION 118: ICRP Statement on Tissue Reactions and Early and Late Effects of Radiation in Normal Tissues and Organs --- Threshold Doses for Tissue Reactions in a Radiation Protection Context." *Annals of the ICRP*, vol. 41, no. 1--2, Feb. 2012, pp. 1--322.
-1. McMullen, Jeff. "Chernobyl Three Months after Disaster \| 60 Minutes Australia." *60 Minutes Australia*, 12 June 2019.
-1. Pine, John. \"A nuclear SWAT team in fall-out from Chernobyl\". *The Advertiser,* April 25, 1987 Saturday.
-1. Rubin, David M. "How the News Media Reported on Three Mile Island and Chernobyl." *Journal of Communication*, vol. 37, no. 3, 1 Sept. 1987, pp. 42--57.
-1. Taubman, Philip, and Special To the New York Times. "Chernobyl Toll Now 23; More Deaths Expected." *The New York Times*, 30 May 1986.
+- Brown, Kate. *Manual for Survival: A Chernobyl Guide to the Future*. W W Norton, 2020.
+- Euronews. "The Medical Response in the Aftermath of the Chernobyl Disaster." *Euronews*, Euronews.com, 26 Apr. 2016.
+- Gale, Robert Peter., and Thomas Hauser. *Final Warning: the Legacy of Chernobyl*. Warner Books, 1989.
+- Gus\'kova, A. K. "Fifty Years of the Nuclear Industry in Russia---Through the Eyes of a Physician." *Atomic Energy*, vol. 87, no. 6, Dec. 1999, pp. 903--908 IRCP "ICRP PUBLICATION 118: ICRP Statement on Tissue Reactions and Early and Late Effects of Radiation in Normal Tissues and Organs --- Threshold Doses for Tissue Reactions in a Radiation Protection Context." *Annals of the ICRP*, vol. 41, no. 1--2, Feb. 2012, pp. 1--322.
+- McMullen, Jeff. "Chernobyl Three Months after Disaster \| 60 Minutes Australia." *60 Minutes Australia*, 12 June 2019.
+- Pine, John. \"A nuclear SWAT team in fall-out from Chernobyl\." *The Advertiser,* April 25, 1987 Saturday.
+- Rubin, David M. "How the News Media Reported on Three Mile Island and Chernobyl." *Journal of Communication*, vol. 37, no. 3, 1 Sept. 1987, pp. 42--57.
+- Taubman, Philip, and Special To the New York Times. "Chernobyl Toll Now 23; More Deaths Expected." *The New York Times*, 30 May 1986.
 </div>

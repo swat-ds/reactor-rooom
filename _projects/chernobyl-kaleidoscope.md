@@ -465,7 +465,7 @@ I came into this class asking whether it is possible to fix the broken and defic
 
 <section markdown="1" style="width:100%;">
 
-## References
+## Works Cited
 
 [^1]: Peter Gray and Kendrick Oliver, introduction to *The Memory of Catastrophe* (Manchester: Manchester University Press, 2004), 8.
 [^2]: Lina Kostenko,“Untitled,” translated by Michael M. Naydan in *Shifting Borders: Eastern European Poetries of the Eighties*, ed. Walter Cummins (Rutherford: Associated University Presses, 1993), 375.

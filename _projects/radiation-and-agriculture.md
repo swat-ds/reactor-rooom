@@ -4,7 +4,7 @@ category: ['food']
 classes: ['embed','iframe']
 excerpt: "The financial strain of radiation on the agricultural sector has been profound."
 # excerpt: "My project covers how the aftermath of Chernobyl impacted Eastern European nations financially both immediately after the crisis and into the 21st century. Primarily, I focus on the Eastern European agriculture sector and examine what role the agriculture crisis played in the overall financial struggles of the USSR at the end of its existence. "
-description: "My project covers how the aftermath of Chernobyl impacted Eastern European nations financially both immediately after the crisis and into the 21st century. Primarily, I focus on the Eastern European agriculture sector and examine what role the agriculture crisis played in the overall financial struggles of the USSR at the end of its existence. "
+description: "My project covers how the aftermath of Chernobyl impacted Eastern European nations financially both immediately after the crisis and into the 21st century. Primarily, I focus on the Eastern European agriculture sector and examine what role the agriculture crisis played in the overall financial struggles of the USSR nearing the end of its existence. "
 header:
   # overlay_image: assets/images/levitz.png
   teaser: assets/images/levitz.png

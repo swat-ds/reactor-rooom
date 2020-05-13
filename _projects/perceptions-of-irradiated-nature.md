@@ -65,9 +65,9 @@ The article discussed here is by Kate Brown, a professor of history in the US, a
 
 There are many ways in which people consider the aftermath of Chernobyl, and they can all be seen through looking at how people discuss the natural world as it relates to the disaster. This is a concept that is considered across disciplines, from poetry to academic articles, with some viewing the affected areas and nature as vulnerable, some beautiful, some morbid, and some as a large-scale change. And perhaps it is all of these things, perhaps it is more than this, and perhaps it is nothing. However, Chernobyl altered the world irrevocably, and the only thing that matters now is what humanity, through any lens and with any background, chooses to do about its effects.
 
-## References
+## Works Cited
 
-[^1]: Schrader, Astrid. “Abyssal Intimacies and Temporalities of Care: How (Not) to Care about Deformed Leaf Bugs in the Aftermath of Chernobyl.” *Social Studies of Science*. 45. 5 (2015): 665.
+[^1]: Schrader, Astrid. “Abyssal Intimacies and Temporalities of Care: How (Not) to Care about Deformed Leaf Bugs in the Aftermath of Chernobyl.” *Social Studies of Science*. 45. 5 (2015): 665-675.
 [^2]: Mycio, Mary. *Wormwood Forest: A Natural History of Chernobyl*. Washington, D.C.: Joseph Henry Press, 2005 101.
 [^3]: [Sirota, Liubov. “Chernobyl Poems by Liubov Sirota.” Common Errors in English Usage and More Chernobyl Poems by Liubov Sirota Comments, Washington State University, 5 Dec. 2016, brians.wsu.edu/2016/12/05/chernobyl-poems/.](brians.wsu.edu/2016/12/05/chernobyl-poems/)
 [^4]: [Brown, Kate. “The Harvests of Chernobyl.” *Aeon.co*. 29, Nov. 2016.](https://aeon.co/essays/ukraine-s-berry-pickers-are-reaping-a-radioactive-bounty)

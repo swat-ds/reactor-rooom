@@ -1,5 +1,5 @@
 ---
-title:  "Chernobyl and Food"
+title:  "Eating the Core: Exploring the Spread of Chernobyl’s Radiation through Food Supplies"
 category: ['food']
 classes: ['embed','iframe','arcgis']
 excerpt: "A look at how Chernobyl's radiation affected Europe through the contamination of food supplies."

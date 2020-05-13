@@ -6,7 +6,7 @@ classes: ['about']
 excerpt: >-
   *The Reactor Room: An Immersive Chernobyl Exhibition* is a digital installation featuring the work of students in Professor José Vergara’s course Chernobyl: Nuclear Narratives and the Environment (Spring 2020) at Swarthmore College. This interactive exhibition seeks to facilitate public engagement with the Chernobyl catastrophe and its associated mythology.
 header:
-  overlay_filter: "rgba(100,100,100,.5)"
+  overlay_filter: "rgba(50,50,50,.5)"
   overlay_image: /assets/images/rothbart-wide-web.jpg
   caption: 'Courtesy of Michael Forster Rothbart'
 toc: true
@@ -37,14 +37,14 @@ These questions about the role of historical narrative framed our study of memor
 
 We revisited these topics in our conversations about Chernobyl’s potential geographical and political boundaries. By reading Christa Wolf’s *Accident: A Day’s News* alongside “anti-memoirs” written by Mohamed Makhzangi, an Egyptian doctor studying in Kiev in 1986, we discussed how catastrophe is experienced from a distance. Together, these conversations led to another central question: Who and what can bear witness to disaster? 
 
-The tensions between international politics, governmental rhetoric, and the uncontrollable spread of Chernobyl narratives served as the foundation of our study of media and conspiracy theories. Julia Voznesenskaya’s novel *The Star Chernobyl* interrogated how the suppression of information challenged Soviet citizens to reevaluate their relationship to the state. Later in the semester, Chad Gracia’s documentary *The Russian Woodpecker* depicted how a Ukrainian artist’s obsession with a conspiracy theory about Chernobyl fits into the larger threat of the Soviet Union’s lingering political and social ghosts.
+The tensions between international politics, governmental rhetoric, and the uncontrollable spread of Chernobyl narratives served as the foundation of our study of media and conspiracy theories. Julia Voznesenskaya’s novel *The Star Chernobyl* interrogated how the suppression of information challenged Soviet citizens to reevaluate their relationship to the state. Later in the semester, Chad Gracia’s documentary *The Russian Woodpecker* depicted how a Ukrainian artist’s obsession with a conspiracy theory about Chernobyl connects to the Soviet Union’s lingering political and social ghosts.
 
 ![annotated still from the film Stalker](../assets/images/stalker-annotation.jpg){: .align-center}
 
 Annotated still from the film *Stalker* (1979)
 {:.text-center}
 
-In the “Transmedial Chernobyl” unit, we read the Strugatsky Brothers’ *Roadside Picnic* about so-called “stalkers” who trespass into a dangerous zone. Although this science-fiction novel was written prior to the Chernobyl accident, its representation of intergenerational trauma as well as of the perils of scientific inquiry resonates with Chernobyl’s legacy. Members of the Swarthmore community joined a screening of Andrei Tarkovsky’s acclaimed film *Stalker*, an adaptation of *Roadside Picnic*. Students then played *S.T.A.L.K.E.R.: Shadow of Chernobyl*, in order to consider the ethical implications of virtual immersion in the Chernobyl landscape in video games. 
+In the “Transmedial Chernobyl” unit, we read the Strugatsky Brothers’ *Roadside Picnic* about so-called “stalkers” who trespass into a dangerous zone. Although this science-fiction novel was written prior to the Chernobyl accident, its representation of intergenerational trauma as well as of the perils of scientific inquiry resonates with Chernobyl’s legacy. Members of the Swarthmore community joined a screening of Andrei Tarkovsky’s acclaimed film *Stalker*, an adaptation of *Roadside Picnic*. Students then played *S.T.A.L.K.E.R.: Shadow of Chernobyl* to consider the ethical implications of virtual immersion in the Chernobyl landscape through video games.
 
 Looking at such representations of Chernobyl prepared us to explore appropriations of the catastrophe. We watched Bradley Parker’s horror film *Chernobyl Diaries* in order to analyze Chernobyl’s status as a disaster tourism hotspot. We read excerpts from young adult novels, mystery books, and monster stories that instrumentalize Chernobyl as a plot device. Identifying how such approaches commercialize the story of Chernobyl compelled us to question whether engaging with catastrophe and visiting sites of death can facilitate meaningful reflection. 
 
@@ -59,7 +59,7 @@ It is our hope that this digital installation will both enable us to articulate 
 
 ## Additional Contributors
 
-**Special thanks** to Scott Cassidy, Susan Dreher, Pam Harris, Doug Herren, Mike Jones, Nabil Kashyap, Michael Forster Rothbart, Bethanne Seufert, Jacquie Tull, John Word, the Environmental Studies Program, and the Global Studies Program.
+Special thanks to Scott Cassidy, Susan Dreher, Pam Harris, Doug Herren, Mike Jones, Nabil Kashyap, Michael Forster Rothbart, Bethanne Seufert, Jacquie Tull, John Word, the Environmental Studies Program, and the Global Studies Program.
 
 ![McCabe Library Logo](../assets/images/LibraryLogo_finalfinal.png)  
 *Site supported by [Digital Scholarship / Swarthmore College Libraries](http://ds.swarthmore.edu/)*

@@ -1,9 +1,9 @@
 ---
-title:  "Children of Chernobyl: Remembrance through Street Art"
+title:  "Children of Chernobyl: Revitalizing through Street Art"
 category: ['pop']
 classes: ['embed','iframe','arcgis']
 excerpt: "Street art is an avenue for message broadcasting, which often speaks for the disenfranchised . "
-description: "Although Pripyat, the city nearest to the Chernobyl disaster, has been abandoned by its citizens, the city carries on. It does so partly through artists’ street art murals. Street art is meant to be viewed, and keeping in mind the fact that Pripyat is a subject of political and social discourse, the artists most likely intend to convey a message about Pripyat’s history. There are certain themes found among the murals that the artists look for Pripyat visitors to reflect upon, such as shadows of people and children. "
+description: "Although Pripyat, the city nearest to the Chernobyl disaster, has been abandoned by its citizens, the city carries on. It does so partly through artists’ street art murals. Street art is meant to be viewed, and keeping in mind the fact that Pripyat is a subject of political and social discourse, the artists most likely intend to convey a message about Pripyat’s history. There are certain themes, such as shadows of people and children, found among the murals that the artists lhope visitors to Pripyat will reflect upon."
 header:
   # overlay_image: /assets/images/soto-avina.jpg
   teaser: assets/images/soto-avina.jpg

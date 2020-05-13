@@ -5,8 +5,8 @@ classes: ['datawrapper']
 excerpt: "This project focuses on different attempts to quantify the costs of the Chernobyl nuclear disaster by compiling estimates of fatalities from a variety of sources."
 description: "This project focuses on different attempts to quantify the costs of the Chernobyl nuclear disaster by compiling estimates of fatalities from a variety of sources. The data gathered show two patterns: First, in the weeks immediately following the disaster, news reports were inconsistent among sources and entangled with Soviet-US relations; second, more recent estimates of the final death toll vary over a large range and are likely influenced by government backing and affiliation to nuclear power. "
 header: 
-    overlay_image: assets/images/rak.png
-    teaser: assets/images/rak.png
+    overlay_image: assets/images/rak.jpg
+    teaser: assets/images/rak.jpg
 contributors:
     - name: Gwendolyn Rak
       bio: "'22 is from northern Virginia. As a History and Astrophysics double major, she was particularly interested in exploring Chernobyl as the juncture between the science that caused the disaster and the historical effects it had on the world. "
@@ -34,6 +34,8 @@ Over the following weeks, reports were varied and inconsistent as the
 nuclear disaster claimed the lives of thirty more "liquidators" --
 Soviet citizens who worked to reduce the fallout -- who had developed
 acute radiation syndrome (ARS).
+
+<iframe title="Initial Reporting" aria-label="Bar Chart" id="datawrapper-chart-2sPwN" src="//datawrapper.dwcdn.net/2sPwN/2/" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none; height: 800px;" frameborder="0"></iframe>
 
 Unfortunately, the deadly effects of the radiation released by the
 nuclear plant were just beginning. In addition to the immediate harm
@@ -93,8 +95,6 @@ and that the effects of Chernobyl are ongoing. Low-dose radiation
 exposure will continue to be received for "several decades," according
 to the U.N., and increased cancer incidence will persist for years to
 come.[^9] Chernobyl has yet to claim its last victim.
-
-<iframe title="Initial Reporting" aria-label="Bar Chart" id="datawrapper-chart-2sPwN" src="//datawrapper.dwcdn.net/2sPwN/1/" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none; height: 800px;" frameborder="0"></iframe>
 
 <iframe title="Predicted Total Deaths" aria-label="Bar Chart" id="datawrapper-chart-iYKJf" src="//datawrapper.dwcdn.net/iYKJf/1/" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none; height: 660px;" frameborder="0"></iframe>
 
@@ -168,7 +168,7 @@ URL:
 - [Williams, Carol J. "Chernobyl Victims Buried at Memorial Site." *Associated Press*, 24 June 1986. <https://apnews.com/7aef87f2e2e24297aaa67d701d74a948>.](https://apnews.com/7aef87f2e2e24297aaa67d701d74a948)
 </div>
 
-## References
+## Works Cited
 
 [^1]: Valery Khodemchuk and Vladimir Shashenok, the first two victims of Chernobyl, were killed in the explosion while on duty at the power plant. Khodemchuk's body was never recovered from the reactor. (Williams, "Chernobyl Victims Buried at Memorial Site")
 [^2]: "Mitterrand Receives USSR Ambassador Vorontsov," *Paris Domestic Service*; White, Walker, and Brummer, "US Estimates Up to 3,000 Victims from Satellite Information," *The Guardian.*
