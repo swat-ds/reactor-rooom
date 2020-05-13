@@ -390,9 +390,9 @@ body.layout--single.embed.iframe.arcgis {
     font-family: $sans-serif;
     font-size: $type-size-6;
     padding: .5rem;
-    position: relative;
-    bottom: 10%;
-    left: 42.5%;
+    position: absolute;
+    bottom: 3rem;
+    right: 2rem;
     background-color: rgba($background-color,.8);
     border: 1px solid $masthead-link-color;
     border-radius: 4px;
@@ -408,7 +408,7 @@ body.layout--single.embed.iframe.arcgis {
     }
 
     @media screen and (max-width: $medium-wide) {
-      left: 25%;
+      // left: 25%;
     } 
   }
 }
