@@ -5,7 +5,7 @@ excerpt: "The way we talk about things shows how we see them."
 description: "How do we talk about nature that has been affected by Chernobyl? What do we mean by it? This project considers the adjectives and thoughts presented about nature in various forms of writing, which points to how we perceive irradiated nature."
 header: 
     overlay_image: assets/images/eiler-beetle.jpg
-    teaser: assets/images/eiler.jpg
+    teaser: assets/images/eiler-beetle.jpg
     caption: Hesse-Honegger, Cornelia. 1990. A squash bug Coreus marginatus from Polesskoje, Ukraine. Watercolor. / [maiabee / Flickr (CC BY 2.0)](https://www.flickr.com/photos/maiabee/4009359716/in/album-72157622578780172/)
 contributors:
     - name: Marit Eiler
