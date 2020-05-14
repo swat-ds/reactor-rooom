@@ -2,7 +2,7 @@
 title:  "Conflicting Casualties: Counting the Victims of the Chernobyl Nuclear Disaster"
 category: ['people']
 classes: ['datawrapper']
-excerpt: "This project focuses on different attempts to quantify the costs of the Chernobyl nuclear disaster by compiling estimates of fatalities from a variety of sources."
+excerpt: "Among the many mysteries surrounding the Chernobyl disaster, one may come as a surprise. After thirty four years of investigation, the question remains: How many people have died as a result of the accident?"
 description: "This project focuses on different attempts to quantify the costs of the Chernobyl nuclear disaster by compiling estimates of fatalities from a variety of sources. The data gathered show two patterns: First, in the weeks immediately following the disaster, news reports were inconsistent among sources and entangled with Soviet-US relations; second, more recent estimates of the final death toll vary over a large range and are likely influenced by government backing and affiliation to nuclear power. "
 header: 
     overlay_image: assets/images/rak.jpg
@@ -35,7 +35,12 @@ nuclear disaster claimed the lives of thirty more "liquidators" --
 Soviet citizens who worked to reduce the fallout -- who had developed
 acute radiation syndrome (ARS).
 
+<figure>
 <iframe title="Initial Reporting" aria-label="Bar Chart" id="datawrapper-chart-2sPwN" src="//datawrapper.dwcdn.net/2sPwN/2/" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none; height: 800px;" frameborder="0"></iframe>
+<figcaption>
+Chart of initial casualty reporting listed chronologically by date reported from 1986
+</figcaption>
+</figure>
 
 Unfortunately, the deadly effects of the radiation released by the
 nuclear plant were just beginning. In addition to the immediate harm
@@ -96,17 +101,10 @@ exposure will continue to be received for "several decades," according
 to the U.N., and increased cancer incidence will persist for years to
 come.[^9] Chernobyl has yet to claim its last victim.
 
+<figure>
 <iframe title="Predicted Total Deaths" aria-label="Bar Chart" id="datawrapper-chart-iYKJf" src="//datawrapper.dwcdn.net/iYKJf/1/" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none; height: 660px;" frameborder="0"></iframe>
-
-<!-- ![Macintosh HD:Users:gwendolynrak:Downloads:2sPwN-initial-reporting
-(1).png](media/image1.png){width="6.5in" height="5.647916666666666in"}
-
-URL: <https://datawrapper.dwcdn.net/2sPwN/2/>
-
-![](media/image2.png){width="6.5in" height="4.388888888888889in"}
-
-URL:
-[//datawrapper.dwcdn.net/iYKJf/1/](https://datawrapper.dwcdn.net/iYKJf/1/) -->
+<figcaption>Chart of predicted deaths from major studies from 1987-2019</figcaption>
+</figure>
 
 ## Sources
 

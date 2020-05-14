@@ -24,9 +24,7 @@ permalink: /about/
 
 We began this course by asking a straightforward question: What really happened at the Chernobyl Nuclear Power Plant? At our first meetings, we pieced together the basic facts of the disaster. On April 26, 1986, the operators of the Chernobyl Nuclear Power Station near Pripyat, Ukraine conducted a routine test of the reactor’s capacity to operate under reduced power. Due to a combination of operator error and faulty design, Reactor 4 exploded. The ensuing spread of radioactivity across Europe resulted in a mass evacuation, political turmoil, unprecedented ecological devastation, and, some would argue, the end of the Soviet Union.
 
-![Class notes on a whiteboard](../assets/images/reasons-3.jpg){: .align-center}
-Class notes on a whiteboard
-{: .text-center}
+{% include figure image_path="assets/images/reasons-3.jpg" alt="Class notes on a whiteboard" caption="Class notes on a whiteboard" %}
 
 Drawing on Svetlana Alexievich’s *Voices from Chernobyl* and Serhii Plokhy’s *Chernobyl: The History of a Nuclear Catastrophe*, we introduced questions that complicated our understanding of this historiography: 
 
@@ -39,10 +37,7 @@ We revisited these topics in our conversations about Chernobyl’s potential geo
 
 The tensions between international politics, governmental rhetoric, and the uncontrollable spread of Chernobyl narratives served as the foundation of our study of media and conspiracy theories. Julia Voznesenskaya’s novel *The Star Chernobyl* interrogated how the suppression of information challenged Soviet citizens to reevaluate their relationship to the state. Later in the semester, Chad Gracia’s documentary *The Russian Woodpecker* depicted how a Ukrainian artist’s obsession with a conspiracy theory about Chernobyl connects to the Soviet Union’s lingering political and social ghosts.
 
-![annotated still from the film Stalker](../assets/images/stalker-annotation.jpg){: .align-center}
-
-Annotated still from the film *Stalker* (1979)
-{:.text-center}
+{% include figure image_path="assets/images/stalker-annotation.jpg" alt="annotated still from the film Stalker" caption="Annotated still from the film *Stalker* (1979)" %}
 
 In the “Transmedial Chernobyl” unit, we read the Strugatsky Brothers’ *Roadside Picnic* about so-called “stalkers” who trespass into a dangerous zone. Although this science-fiction novel was written prior to the Chernobyl accident, its representation of intergenerational trauma as well as of the perils of scientific inquiry resonates with Chernobyl’s legacy. Members of the Swarthmore community joined a screening of Andrei Tarkovsky’s acclaimed film *Stalker*, an adaptation of *Roadside Picnic*. Students then played *S.T.A.L.K.E.R.: Shadow of Chernobyl* to consider the ethical implications of virtual immersion in the Chernobyl landscape through video games.
 

@@ -25,12 +25,12 @@ relegated to background noise while doing other activities; other times
 it contains deeper meaning and can be a way to process pain. However,
 how often do we actually listen deeply to the lyrics of the songs we
 listen to? Music today often tries to appeal to a range of tastes and
-preferences to reach a boarder audience with a catchy chorus with the
+preferences to reach a broader audience with a catchy chorus with the
 goal of maximizing profits and online interactions, often at the expense
 of the lyrics, as in Justin Bieber's recent song "Yummy": "Yeah, you got
 that yummy, yum" ("Justin Bieber -- Yummy").[^1] The purpose of this project
 is to investigate whether certain topics, such as Chernobyl, deserve a
-level of reverence when put into songs, possible right and wrong ways of
+degree of reverence when put into songs, possible right and wrong ways of
 doing this, and how much the the passage of time or proximity to the
 event affect the ability to do this appropriately.
 
@@ -48,14 +48,14 @@ Chernobyl. They just need to be extra attentive when creating songs so
 that they are respectful of the people who were and are still being
 affected by the disaster.
 
-Just the mention of Chernobyl in lyrics today help keeps the disaster in
+Just the mention of Chernobyl in lyrics today helps keep the disaster in
 recent memory. As time progresses, people grow less sensitive to the
 disaster and forget that there are still thousands of people being
-effected by radiation from the explosion. In a conversation with our
+affected by radiation from the explosion. In a conversation with our
 class, Weiss also mentioned that the band's use of the "1985 Chernobyl
 heart" lyric is used, first, to add a point of connection for the
-listener and, second, to remind people of the fragility of every day
-life. Using 1985, the year before the disaster, honors the unsuspecting
+listener and, second, to remind people of the fragility of everyday
+life. Referencing 1985, the year before the disaster, honors the unsuspecting
 citizens going through their daily lives. Weiss compared it to the day
 before a devastating car crash, the moments before life as it was once
 known is completely uprooted.
@@ -66,9 +66,7 @@ known is completely uprooted.
 
 ### [Lyrics](https://genius.com/Paul-simon-cant-run-but-2018-lyrics)
 
-Another American artist, Paul Simon, suffers similarly from the
-proximity to Chernobyl, but unlike Weiss, Simon was at the height of his
-career when the Chernobyl explosion occurred. After gaining popularity
+Another American artist, Paul Simon, must reckon with his temporal and geographic distance from Chernobyl, but unlike Weiss, Simon was at the height of his career when the Chernobyl explosion occurred. After gaining popularity
 in the famous duo Simon and Garfunkel, Simon---now as a solo
 artist---received a Grammy Award for album of the year in 1987. "Can't
 Run But" appeared on his next album, *The Rhythm of the Saints*.
@@ -107,8 +105,7 @@ schools so the song would be received differently. The lack of Spanish
 speakers in Ukraine points out a fundamental difference between the
 English and Spanish depictions: the audience. The purpose of writing
 "Jijiji" was not for the people directly affected by Chernobyl. It was
-to memorialize the event and inform those who weren't affected by it,
-using the platform in the geographical location available to them.
+to memorialize the event for a Spanish-speaking audience and to inform those who weren't affected by it, using the platform in the geographical location available to them.
 
 ## "Sarcophagus"
 
@@ -117,11 +114,11 @@ using the platform in the geographical location available to them.
 ### [Lyrics](http://pripyat.com/literature-and-art/bardy-chernobylya-suryvin.html) (in Russian)
 
 Domestic artists are inherently held to a different standard when it
-comes to the ethics of putting disasters into their songs. Personal
+comes to the ethics of referencing disasters into their songs. Personal
 connection and proximity to tragedy more often leads to an ethical
 treatment of the tragedy because the artists are better able to portray
 the gravity of the loss. Sergei Uryvin writes in the Russian Bard style
-of playing, which focusses more on the lyrics with a simple solo guitar
+of playing, which focuses more on the lyrics with a simple solo guitar
 accompaniment; these lyrics are often political in nature.
 
 Sometimes, protesters are accused of being opportunists, attaching to
@@ -135,7 +132,7 @@ corruption within the Soviet Union as well as the government's failure
 to act in the aftermath of the reactor explosion. He emphasizes the
 sacrifice of the liquidators and further emphasizes that the
 sarcophagus, while physically covering the remains of the disaster,
-can't conceal those left in the wake of the disaster.
+can't conceal those left in the wake of the catastrophe.
 
 ## Conclusion
 

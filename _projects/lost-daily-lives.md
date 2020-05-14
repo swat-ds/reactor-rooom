@@ -3,7 +3,7 @@ title:  "The Lost Daily Lives of Chernobyl as Told by Photographs"
 category: ['people']
 classes: ['embed','iframe']
 excerpt: "Comparing photographs in the following themes: Government, Youth, Technology, Religion, and Scenery. "
-description: "This project aims to highlight the changes in people’s daily lives through examining photographs that were taken before and after Chernobyl. By combining photographs that capture aspects of people’s lives that do not fully get incorporated into literature or media, I aim to allow the viewer’s interpretation to further uncover changes Chernobyl brought to the victims of the accident. "
+description: "This project aims to highlight the changes in survivors' daily lives through examining photographs that were taken before and after Chernobyl. By combining photographs that capture aspects of people’s lives that do not fully get incorporated into literature or media, I aim to allow the viewer’s interpretation to further uncover changes Chernobyl brought to the victims of the accident. "
 header: 
     teaser: assets/images/tolentino.png
 contributors:
