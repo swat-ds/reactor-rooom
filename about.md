@@ -59,3 +59,6 @@ Special thanks to Scott Cassidy, Susan Dreher, Pam Harris, Doug Herren, Mike Jon
 ![McCabe Library Logo](../assets/images/LibraryLogo_finalfinal.png)  
 *Site supported by [Digital Scholarship / Swarthmore College Libraries](http://ds.swarthmore.edu/)*
 {: .ds-logo}
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTcyNzg5MzcwMl19
+-->
