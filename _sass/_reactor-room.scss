@@ -110,7 +110,9 @@ INCLUDE STYLE OVERRIDES
     color: lighten($red,10%);
     text-shadow: 10px 10px 10px rgba(0,0,0,.7);
 
-    // max-width: $large;
+    @media screen and (max-width: $medium) {
+      font-size: $type-size-1;
+    }
   }
 
   .page_lead {
@@ -190,15 +192,21 @@ INCLUDE STYLE OVERRIDES
       background-position: top center;
       background-size: cover;
 
-
         @media screen and (max-width: $medium-wide) {
 
           width: calc(50% - 1rem);
-          // min-width: 12rem;
         }
         @media screen and (max-width: $small) {
 
           width: calc(100% - 1rem);
+        }
+        @media screen and (max-width: $medium-wide) {
+          &:nth-child(2n+1) {
+            margin-left: 0;
+          }    
+          &:nth-child(2n) {
+            margin-left: gutter(of 12);
+          }    
         }
 
         a,a:hover {
@@ -448,6 +456,10 @@ EXTRAS
   bottom: 10%;
   left: 50%;
   transform: translate(-50%,-50%);
+
+  @media screen and (max-width: $small){
+    bottom: 20%;
+  }
 }
 .arrow span{
   display: block;
