@@ -61,6 +61,13 @@ The Blue Hearts were a Japanese punk rock band and “Chernobyl” was a stateme
 
 Perhaps the example of Chernobyl shows that people around the world will interpret and attach meaning to tragedy to make sense of it and this can be in the form of music. Although people may not have deeply understood the impact of Chernobyl on those affected, it certainly represented something significant and terrible with enough meaning associated to be referenced in music. 
 
+## Works Cited
+
+[^1]: [Mourinho, Daniel. “‘Sweet People’ – Alyosha's True Message to Represent Ukraine.” ESC Radio - Eurovision Song Contest Eurosong Webradio, ESC Radio - Eurovision Song Contest Eurosong Webradio, 28 Apr. 2010.](https://www.escradio.com/2010/04/%E2%80%9Esweet-people%E2%80%9C-%E2%80%93-alyosha%E2%80%99s-true-message-to-represent-ukraine/)
+[^2]: Mussachia, Matthew. “Sound Reviews.” *Journal of American Folklore*, 2017, p. 115.
+[^3]: [Bowie, David. “DAVID BOWIE: I Went to Buy Some Shoes - and I Came Back with Life On Mars.” *Daily Mail Online*, Associated Newspapers, 28 June 2008.](https://www.dailymail.co.uk/tvshowbiz/article-1030121/DAVID-BOWIE-I-went-buy-shoes--I-came-Life-On-Mars.html)
+[^4]: Manabe, Noriko. “Musicians in the Antinuclear Movement.” *The Revolution Will Not Be Televised: Protest Music after Fukushima*. Oxford University Press, 2016, pp. 77–77.
+
 ## Bibliography
 
 <div markdown="1" class="footnotes">
@@ -74,11 +81,6 @@ Perhaps the example of Chernobyl shows that people around the world will interpr
 - [Автомат и гитара: Стихи и песни из солдатских блокнотов [Machine Gun and Guitar: Poems and Songs from Soldiers’ Notebooks].”](http://avtomat2000.com/urivin.html)
 </div>
 
-## Works Cited
 
-[^1]: [Mourinho, Daniel. “‘Sweet People’ – Alyosha's True Message to Represent Ukraine.” ESC Radio - Eurovision Song Contest Eurosong Webradio, ESC Radio - Eurovision Song Contest Eurosong Webradio, 28 Apr. 2010.](https://www.escradio.com/2010/04/%E2%80%9Esweet-people%E2%80%9C-%E2%80%93-alyosha%E2%80%99s-true-message-to-represent-ukraine/)
-[^2]: Mussachia, Matthew. “Sound Reviews.” *Journal of American Folklore*, 2017, p. 115.
-[^3]: [Bowie, David. “DAVID BOWIE: I Went to Buy Some Shoes - and I Came Back with Life On Mars.” *Daily Mail Online*, Associated Newspapers, 28 June 2008.](www.dailymail.co.uk/tvshowbiz/article-1030121/DAVID-BOWIE-I-went-buy-shoes--I-came-Life-On-Mars.html)
-[^4]: Manabe, Noriko. “Musicians in the Antinuclear Movement.” *The Revolution Will Not Be Televised: Protest Music after Fukushima*. Oxford University Press, 2016, pp. 77–77.
 
 

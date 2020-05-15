@@ -69,21 +69,13 @@ defaults:
     values:
       layout: single
       header:
-        overlay_filter: "rgba(100,100,100,.5)"
+        overlay_filter: "rgba(50,50,50,.5)"
       author_profile: false
       read_time: false
       comments: # true
       share: false
       related: false
       btn_class: 'btn--inverse'
-
-
-# Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/swat-ds/reactor-room"
 
 # DC Metadata defaults
 dc:
