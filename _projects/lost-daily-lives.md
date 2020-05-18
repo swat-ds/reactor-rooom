@@ -10,7 +10,7 @@ contributors:
     - name: Larissa
       bio: ""
 embed:
-    type: timeline
-    id: 1QYrvBeKUVTqNWXTuluDbM_SFIgM5Uj0hDu7sGYZbN-A
-    url: https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1QYrvBeKUVTqNWXTuluDbM_SFIgM5Uj0hDu7sGYZbN-A&font=Default&lang=en&initial_zoom=2&height=650
+    type: arcgis
+    id: CaO190
+    url: https://arcg.is/CaO190
 ---

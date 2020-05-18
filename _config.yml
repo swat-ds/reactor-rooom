@@ -4,9 +4,8 @@ title: The Reactor Room
 email: digitalscholarship@swarthmore.edu
 description: >-
   An Immersive Chernobyl Installation
-# baseurl: "/reactor-room"
-# url: "https://ds-pages.swarthmore.edu"
-url: "http://169.254.5.108:8080"
+baseurl: "/reactor-room"
+url: "https://ds-pages.swarthmore.edu"
 # url: ""
 twitter_username: jekyllrb
 github_username:  jekyll
