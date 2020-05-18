@@ -16,6 +16,7 @@ var store = [
       {%- endif -%}
       {
         "title": {{ doc.title | jsonify }},
+        "contributor": {{ doc.contributors[0].name | jsonify }},
         "excerpt":
           {%- if site.search_full_content == true -%}
             {{ doc.content | newline_to_br |

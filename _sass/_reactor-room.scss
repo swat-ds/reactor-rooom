@@ -58,6 +58,14 @@ GLOBAL STYLES
   border: 1px solid $masthead-link-color;
 }
 
+.search__toggle {
+  color: $masthead-link-color;
+
+  &:hover {
+    color: $masthead-link-color-hover;
+  }
+}
+
 // Footer
 
 footer {
@@ -189,6 +197,7 @@ INCLUDE STYLE OVERRIDES
       height: 12rem;
       margin-bottom: 1rem;
       box-shadow: 0 0 .25rem rgba(50, 50, 50, 0.5);
+      border-radius: 4px;
       background-position: top center;
       background-size: cover;
 
@@ -270,6 +279,43 @@ INCLUDE STYLE OVERRIDES
       position: relative;
     }
 
+  }
+}
+
+/*
+
+SEARCH PAGE
+
+*/
+
+input#search.search-input {
+  font-family: $title;
+}
+
+.search-content.is--visible {
+
+  .archive__item {
+    max-width: $medium-wide;
+    border-bottom: 1.5px solid $masthead-link-color;
+    margin: 1rem 0;
+    padding-bottom: 1rem;
+  }
+
+  .archive__item:hover .archive__item-title a {
+    color: $link-color-hover;
+  }
+
+  .archive__item-teaser {
+    box-shadow: 0 0 .25rem rgba(50, 50, 50, 0.5);
+    max-height: $small/2;
+  }
+
+  p.results__found,
+  .archive__item-excerpt {
+    font-size: $type-size-5;
+    .contributor {
+      font-weight: bold;
+    }
   }
 }
 

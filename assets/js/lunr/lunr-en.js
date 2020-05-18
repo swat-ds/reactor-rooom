@@ -4,6 +4,7 @@ layout: null
 
 var idx = lunr(function () {
   this.field('title')
+  this.field('contributor')
   this.field('excerpt')
   this.field('categories')
   this.field('tags')
@@ -14,6 +15,7 @@ var idx = lunr(function () {
   for (var item in store) {
     this.add({
       title: store[item].title,
+      contributor: store[item].contributor,
       excerpt: store[item].excerpt,
       categories: store[item].categories,
       tags: store[item].tags,
@@ -46,14 +48,19 @@ $(document).ready(function() {
         var searchitem =
           '<div class="list__item">'+
             '<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">'+
-              '<h2 class="archive__item-title" itemprop="headline">'+
-                '<a href="'+store[ref].url+'" rel="permalink">'+store[ref].title+'</a>'+
-              '</h2>'+
-              '<div class="archive__item-teaser">'+
-                '<img src="'+store[ref].teaser+'" alt="">'+
-              '</div>'+
-              '<p class="archive__item-excerpt" itemprop="description">'+store[ref].excerpt.split(" ").splice(0,20).join(" ")+'...</p>'+
-            '</article>'+
+              '<h2 class="archive__item-title" itemprop="headline">' +
+                '<a href="'+store[ref].url+'" rel="permalink">'+store[ref].title+'</a>' +
+              '</h2>' +
+              '<div class="archive__item-teaser">' +
+                '<a href="'+store[ref].url+'" rel="permalink">' +
+                '<img src="'+store[ref].teaser+'" alt="">' +
+                '</a>' +
+              '</div>' +
+              '<p class="archive__item-excerpt" itemprop="description">'+
+              '<span class="contributor">By ' + store[ref].contributor + 
+              '</span>'+ '<br/>' +
+              store[ref].excerpt.split(" ").splice(0,20).join(" ")+'...</p>' +
+            '</article>' +
           '</div>';
       }
       else{

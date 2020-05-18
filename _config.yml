@@ -9,6 +9,8 @@ url: "https://ds-pages.swarthmore.edu"
 # url: ""
 twitter_username: jekyllrb
 github_username:  jekyll
+search                   : true
+search_full_content      : true
 
 # Build settings
 theme: minimal-mistakes-jekyll
