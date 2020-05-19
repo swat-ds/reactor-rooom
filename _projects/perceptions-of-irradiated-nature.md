@@ -69,6 +69,6 @@ There are many ways in which people consider the aftermath of Chernobyl, and the
 
 [^1]: Schrader, Astrid. “Abyssal Intimacies and Temporalities of Care: How (Not) to Care about Deformed Leaf Bugs in the Aftermath of Chernobyl.” *Social Studies of Science*. 45. 5 (2015): 665-675.
 [^2]: Mycio, Mary. *Wormwood Forest: A Natural History of Chernobyl*. Washington, D.C.: Joseph Henry Press, 2005 101.
-[^3]: [Sirota, Liubov. “Chernobyl Poems by Liubov Sirota.” Common Errors in English Usage and More Chernobyl Poems by Liubov Sirota Comments, Washington State University, 5 Dec. 2016, brians.wsu.edu/2016/12/05/chernobyl-poems/.](brians.wsu.edu/2016/12/05/chernobyl-poems/)
+[^3]: [Sirota, Liubov. “Chernobyl Poems by Liubov Sirota.” Common Errors in English Usage and More Chernobyl Poems by Liubov Sirota Comments, Washington State University, 5 Dec. 2016, brians.wsu.edu/2016/12/05/chernobyl-poems/.](https://brians.wsu.edu/2016/12/05/chernobyl-poems/)
 [^4]: [Brown, Kate. “The Harvests of Chernobyl.” *Aeon.co*. 29, Nov. 2016.](https://aeon.co/essays/ukraine-s-berry-pickers-are-reaping-a-radioactive-bounty)
 

@@ -159,5 +159,5 @@ that every person can relate to.
 ## Works Cited
 
 [^1]: ["Justin Bieber -- Yummy." *Genius*, 3 Jan. 2020.](https://genius.com/Justin-bieber-yummy-lyrics)
-[^2]: [Leight, Elias. "Hear Paul Simon's Restless Rework of  'Can't Run But'." *Rolling Stone*, 24 Aug. 2018.](www.rollingstone.com/music/music-news hear-paul-simons-restless-rework-of-cant-run-but-715268/)
+[^2]: [Leight, Elias. "Hear Paul Simon's Restless Rework of  'Can't Run But'." *Rolling Stone*, 24 Aug. 2018.](https://www.rollingstone.com/music/music-news/hear-paul-simons-restless-rework-of-cant-run-but-715268/)
 [^3]: I would like to thank Grace Sewell for the translations of the Russian and Spanish songs.

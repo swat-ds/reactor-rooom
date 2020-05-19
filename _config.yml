@@ -6,9 +6,6 @@ description: >-
   An Immersive Chernobyl Installation
 baseurl: "/reactor-room"
 url: "https://ds-pages.swarthmore.edu"
-# url: ""
-twitter_username: jekyllrb
-github_username:  jekyll
 search                   : true
 search_full_content      : true
 
@@ -17,8 +14,6 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jemoji
-
-
 
 # Exclude from processing.
 exclude:

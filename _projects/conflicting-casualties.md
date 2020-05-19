@@ -151,7 +151,7 @@ come.[^9] Chernobyl has yet to claim its last victim.
 - [*Report on the Accident at the Chernobyl Nuclear Power Station*.NUREG-1250, U.S. Nuclear Regulatory Commission, Jan. 1987.](https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1250/)
 - Shcherbak, Yuri M. "Ten Years of the Chornobyl Era." *Scientific American*, vol. 274, no. 4, 1996, pp. 44-49.
 - [*Sources, Effects and Risks of Ionizing Radiation*. Report to the General Assembly, United Nations Scientific Committee on the Effects of Atomic Radiation, 1988.](https://www.unscear.org/docs/publications/1988/UNSCEAR_1988_GA-Report.pdf)
-- [*The Chernobyl Catastrophe: Consequences on Human Health*. Greenpeace International, Apr. 2006.](http://hps.org/documents/greenpeace\_chernobyl\_health\_report.pdf)
+- [*The Chernobyl Catastrophe: Consequences on Human Health*. Greenpeace International, Apr. 2006.](http://hps.org/documents/greenpeace_chernobyl_health_report.pdf)
 - [*UNSCEAR 2000 Report - Vol II: Effects, Annex J*. United Nations, 2000.](https://www.unscear.org/unscear/en/publications/2000_2.html)
 - [Waight, Peter. *Chernobyl Ten Years On*. OECD Nuclear Energy Agency, Nov. 1995.](https://www.oecd-nea.org/rp/chernobyl/chernobyl-1995.pdf)
 </div>
