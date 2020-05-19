@@ -2,40 +2,14 @@
 
 /*
 
-GLOBAL STYLES
+GLOBAL
 
 */
 
-.mfp-gallery .mfp-content .mfp-title p {
-  font-size: $type-size-4;
-  line-height: 1.5rem;
+// Masthead
 
-}
-
-.hide-sup sup { display: none; }
-
-.clearfix:before, .clearfix:after {
-  content: ' ';
-  display: table;
-}
-
-.clearfix:after {
-  clear: both;
-}
-
-.footnotes {
-  color: $masthead-link-color;
-  max-width: $medium-wide;
-
-  ul {
-    font-size: $type-size-6;
-    li { margin-bottom: $indent-var; }
-  }
-
-  li {
-    padding-left: $indent-var;
-    text-indent: -$indent-var;
-  }
+.masthead {
+  box-shadow: 0 0 .5rem rgba(50, 50, 50, 0.5);
 }
 
 // Navigation
@@ -88,24 +62,15 @@ footer {
     text-align: right;
 }
 
-
 .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
 }
 
 /*
 
-INCLUDE STYLE OVERRIDES
+LAYOUTS
 
 */
-
-// Masthead
-
-.masthead {
-  box-shadow: 0 0 .5rem rgba(50, 50, 50, 0.5);
-}
-
-// Splash title and excerpt
 
 // Splash
 
@@ -126,7 +91,6 @@ INCLUDE STYLE OVERRIDES
   .page_lead {
     font-size: $type-size-3;
     color: #fff;
-    // max-width: $large;
   }
 
   .sidebar.sticky {
@@ -134,40 +98,6 @@ INCLUDE STYLE OVERRIDES
     width: 5.25rem;
     padding-left: 2px;
   }
-}
-
-// Page Hero
-
-.layout--single .page__hero {
-  overflow: hidden;
-  max-height: 20rem;
-  text-align: center;
-
-  img {
-      width: 200%;
-  }
-}
-
-.layout--single .page__hero--embed {
-  height: 100vh;
-
-  .embed__title {
-    width: 100%;
-
-    h1 {
-      max-width: calc(100% - 3 * #{$right-sidebar-width});
-      margin-left: auto;
-      margin-right: auto;
-      padding: .5rem 0;
-    }
-  }
-}
-
-.page__hero--overlay {
-    background-attachment: fixed;
-
-    // $nav-height: 2em (_variables.scss) won't calc for some reason
-    height: calc(100vh - 4em);
 }
 
 .splash .page__content {
@@ -191,13 +121,15 @@ INCLUDE STYLE OVERRIDES
     justify-content: flex-start;
     flex-wrap: wrap;
     border-bottom: 2.5px solid $masthead-link-color;
+    margin-left: -(gutter(of 12));
 
     .feature__item {
 
       height: 12rem;
-      margin-bottom: 1rem;
-      box-shadow: 0 0 .25rem rgba(50, 50, 50, 0.5);
+      margin: 0 0 gutter(of 12) gutter(of 12);
       border-radius: 4px;
+
+      box-shadow: 0 0 .25rem rgba(50, 50, 50, 0.5);
       background-position: top center;
       background-size: cover;
 
@@ -209,14 +141,6 @@ INCLUDE STYLE OVERRIDES
 
           width: calc(100% - 1rem);
         }
-        @media screen and (max-width: $medium-wide) {
-          &:nth-child(2n+1) {
-            margin-left: 0;
-          }    
-          &:nth-child(2n) {
-            margin-left: gutter(of 12);
-          }    
-        }
 
         a,a:hover {
           text-decoration: none !important;
@@ -224,13 +148,14 @@ INCLUDE STYLE OVERRIDES
           .archive__item {
             height: 100%;
             background-color: rgba(0,0,0,.75);
+            border-radius: 4px;
             transition: background-color .25s ease;
           }
 
           .archive__item:hover {
             background-color: rgba(0,0,0, 0);
-            // box-shadow: 0 0 1rem rgba(255, 255, 255, 0.5) inset;
           }
+
           h3.archive__item-title{
             color: lighten($steel,15%);
             padding: .25rem;
@@ -282,11 +207,44 @@ INCLUDE STYLE OVERRIDES
   }
 }
 
-/*
+// End Splash
 
-SEARCH PAGE
+// Page Hero
 
-*/
+.layout--single .page__hero {
+  overflow: hidden;
+  max-height: 20rem;
+  text-align: center;
+
+  img {
+      width: 200%;
+  }
+}
+
+.layout--single .page__hero--embed {
+  height: 100vh;
+
+  .embed__title {
+    width: 100%;
+
+    h1 {
+      max-width: calc(100% - 3 * #{$right-sidebar-width});
+      margin-left: auto;
+      margin-right: auto;
+      padding: .5rem 0;
+    }
+  }
+}
+
+.page__hero--overlay {
+    background-attachment: fixed;
+
+    // $nav-height: 2em (_variables.scss) won't calc for some reason
+    height: calc(100vh - 4em);
+}
+
+// Search
+
 
 input#search.search-input {
   font-family: $title;
@@ -321,19 +279,6 @@ input#search.search-input {
 
 /*
 
-ABOUT PAGE
-
-*/
-
-.ds-logo {
-  img {
-    width: 8rem;
-    padding-bottom: .25rem;
-  }
-}
-
-/*
-
 PROJECT PAGES
 
 */
@@ -350,7 +295,6 @@ PROJECT PAGES
 
 // Contributors
 
-
 .contributors {
   border-top: 1px solid $masthead-link-color;
   width: 100%;
@@ -360,6 +304,23 @@ PROJECT PAGES
     max-width: $medium;
     margin-left: auto;
     margin-right: auto;
+  }
+}
+
+// Footnotes / Works Cited
+
+.footnotes {
+  color: $masthead-link-color;
+  max-width: $medium-wide;
+
+  ul {
+    font-size: $type-size-6;
+    li { margin-bottom: $indent-var; }
+  }
+
+  li {
+    padding-left: $indent-var;
+    text-indent: -$indent-var;
   }
 }
 
@@ -389,27 +350,7 @@ PROJECT PAGES
   margin-bottom: 1rem;
 }
 
-// two-column translations
-.kaleidoscope section section {
-  @media screen and (min-width: $medium) {
-    float: left;
-  }
-}
-
-.kaleidoscope section section.poem {
-    width: span(6 of 12);
-
-    &:nth-of-type(odd){
-      clear: left;
-    }
-
-   h2,h3{
-    font-family: $sans-serif;
-    font-weight: bold;
-    text-transform: capitalize;
-  }
-
-}
+// Page TOC
 
 .sidebar__right.sticky {
   top: $nav-height * 3;
@@ -427,20 +368,7 @@ PROJECT PAGES
     }
 }
 
-.kaleidoscope .sidebar__right.sticky .toc{
-  &>ul>li:nth-of-type(3),
-  &>ul>li:nth-of-type(5),
-  &>ul>li:nth-of-type(7),
-  li>ul {
-    display: none;
-  }
-}
-
-
-.datawrapper iframe {
-  background-color: #fff;
-  padding: 1rem;
-}
+// General iframe
 
 .iframe  {
   
@@ -460,6 +388,8 @@ PROJECT PAGES
     display: none;
   }
 }
+
+// ArcGIS iframe
 
 body.layout--single.embed.iframe.arcgis {
 
@@ -491,11 +421,87 @@ body.layout--single.embed.iframe.arcgis {
   }
 }
 
+// Sewell Kaleidoscope two-column translations
+.kaleidoscope section section {
+  @media screen and (min-width: $medium) {
+    float: left;
+  }
+}
+
+.kaleidoscope section section.poem {
+    width: span(6 of 12);
+
+    &:nth-of-type(odd){
+      clear: left;
+    }
+
+   h2,h3{
+    font-family: $sans-serif;
+    font-weight: bold;
+    text-transform: capitalize;
+  }
+
+}
+
+.kaleidoscope .sidebar__right.sticky .toc{
+  &>ul>li:nth-of-type(3),
+  &>ul>li:nth-of-type(5),
+  &>ul>li:nth-of-type(7),
+  li>ul {
+    display: none;
+  }
+}
+
+.datawrapper figure {
+
+  iframe {
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 4px;
+    }
+
+  &:first-of-type iframe{
+    height: 835px;
+  }
+  &:nth-of-type(2) iframe{
+    height: 675px;
+  }
+  @media screen and (max-width: $large){
+    &:first-of-type iframe{
+      height: 950px;
+    }
+    &:nth-of-type(2) iframe{
+      height: 780px;
+    }
+  }
+  @media screen and (max-width: $small){
+    &:first-of-type iframe{
+      height: 1150px;
+    }
+    &:nth-of-type(2) iframe{
+      height: 975px;
+    }
+  }
+}
+
+
+
 /*
 
 EXTRAS
 
 */
+
+// McCabe logo
+
+.ds-logo {
+  img {
+    width: 8rem;
+    padding-bottom: .25rem;
+  }
+}
+
+// Splash animated arrow
 
 .arrow{
   position: absolute;

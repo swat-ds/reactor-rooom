@@ -3,6 +3,28 @@
 Russian 43: Chernobyl: Nuclear Narratives and the Environment (Spring 2020)  
 José Vergara
 
+Extends the Minimal Mistakes Theme in several ways:
+
+- `_includes/collection_row`
+    - Simplified flexbox based feature row (see `_archive.scss`)
+- `_includes/head/custom.html`
+    - Dublin Core metadata for hypothes.is
+    - Other project assets (hypothes.is, SoundCite)
+- `_includes/page__hero`
+    - Includes for embedded iframes based on platform
+- `_includes/page-*.html`
+    - Includes for embedded iframe based on platform
+- `_includes/thumbnail-soundcloud`
+    - Include using Soundcloud styling options
+- `_layouts/single.html`
+    - Include embedded iframes
+- `_sass/minimal-mistakes/_archive.scss`
+    - Simplified flexbox based feature row
+- `_sass/minimal-mistakes/_variables.scss`
+    - Updated variables
+- `_sass/_reactor-room.scss`
+    - Child theme and project specific styles
+
 ---
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)

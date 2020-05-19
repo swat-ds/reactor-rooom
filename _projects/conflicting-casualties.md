@@ -36,7 +36,7 @@ Soviet citizens who worked to reduce the fallout -- who had developed
 acute radiation syndrome (ARS).
 
 <figure>
-<iframe title="Initial Reporting" aria-label="Bar Chart" id="datawrapper-chart-2sPwN" src="//datawrapper.dwcdn.net/2sPwN/2/" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none; height: 800px;" frameborder="0"></iframe>
+<iframe title="Initial Reporting" aria-label="Bar Chart" id="datawrapper-chart-2sPwN" src="//datawrapper.dwcdn.net/2sPwN/2/" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none;" frameborder="0"></iframe>
 <figcaption>
 Chart of initial casualty reporting listed chronologically by date reported from 1986
 </figcaption>
@@ -102,7 +102,7 @@ to the U.N., and increased cancer incidence will persist for years to
 come.[^9] Chernobyl has yet to claim its last victim.
 
 <figure>
-<iframe title="Predicted Total Deaths" aria-label="Bar Chart" id="datawrapper-chart-iYKJf" src="//datawrapper.dwcdn.net/iYKJf/1/" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none; height: 660px;" frameborder="0"></iframe>
+<iframe title="Predicted Total Deaths" aria-label="Bar Chart" id="datawrapper-chart-iYKJf" src="//datawrapper.dwcdn.net/iYKJf/1/" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none;" frameborder="0"></iframe>
 <figcaption>Chart of predicted deaths from major studies from 1987-2019</figcaption>
 </figure>
 
