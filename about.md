@@ -53,7 +53,7 @@ It is our hope that this digital installation will both enable us to articulate 
 
 ## Additional Contributors
 
-Special thanks to Scott Cassidy, Susan Dreher, Pam Harris, Doug Herren, Mike Jones, Nabil Kashyap, Michael Forster Rothbart, Bethanne Seufert, Jacquie Tull, John Word, the Environmental Studies Program, and the Global Studies Program.
+Special thanks to Scott Cassidy, Susan Dreher, Pam Harris, Doug Herren, Mike Jones, Nabil Kashyap, Michael Forster Rothbart, Bethanne Seufert, Jacquie Tull, John Word, the Environmental Studies Program, the Global Studies Program, Swarthmore Libraries, and the Provost's Office.
 
 ![McCabe Library Logo](../assets/images/LibraryLogo_finalfinal.png)  
 *Site supported by [Digital Scholarship / Swarthmore College Libraries](http://ds.swarthmore.edu/)*
