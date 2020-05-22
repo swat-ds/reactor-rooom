@@ -24,6 +24,7 @@ Extends the Minimal Mistakes Theme in several ways:
     - Updated variables
 - `_sass/_reactor-room.scss`
     - Child theme and project specific styles
+- Adapts `_main.js` to custom splash page 
 
 ---
 
