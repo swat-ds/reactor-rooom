@@ -4,6 +4,8 @@ main:
     url: /
   - title: "About"
     url: /about
+  - title: "Share Your Story"
+    url: /share
 
 splash:
   - title: 'Connections'
