@@ -276,11 +276,11 @@ input#search.search-input {
   }
 }
 
-// Share your story form
-.share #project-meta.page__title {
+// Respond form
+.respond #project-meta.page__title {
   display: none;
 }
-.share iframe {
+.respond iframe {
   min-height: 915px;
   overflow-y: hidden;
 }
