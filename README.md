@@ -141,3 +141,12 @@ Pure Liquid Jekyll Table of Contents is distributed under the terms of the [MIT 
 Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
 Copyright (c) 2018 Oliver Nightingale.
 Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+## ATM Notes
+2022.06.14
+getting errors with recent ruby
+
+```
+rbenv install 2.7.1
+rbenv local 2.7.1
+```
