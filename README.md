@@ -150,3 +150,16 @@ getting errors with recent ruby
 rbenv install 2.7.1
 rbenv local 2.7.1
 ```
+
+2022.06.28 
+
+Site looks ok.
+
+Issues:
+- [x] About page lacks overlay: 
+
+```html
+<div class="page__hero--overlay"
+  style=" background-image: linear-gradient(rgba(50,50,50,.5), rgba(50,50,50,.5)), url('/reactor-room/assets/images/rothbart-wide-web.jpg');">
+```
+Fixed by adding header/overlay_filter: rgba(50,50,50,.5)
