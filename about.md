@@ -7,6 +7,7 @@ excerpt: >-
   *The Reactor Room: An Immersive Chernobyl Exhibition* is a digital installation featuring the work of students in Professor José Vergara’s course Chernobyl: Nuclear Narratives and the Environment (Spring 2020) at Swarthmore College. This interactive exhibition seeks to facilitate public engagement with the Chernobyl catastrophe and its associated mythology.
 header:
   overlay_image: /assets/images/rothbart-wide-web.jpg
+  overlay_filter: rgba(50,50,50,.5)
   caption: 'Courtesy of Michael Forster Rothbart'
 toc: true
 toc_sticky: true
