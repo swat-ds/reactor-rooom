@@ -1,11 +1,11 @@
 # RUSS: 043 Reactor Room Digital Exhibit Spring 2020 José Vergara
 
 title: The Reactor Room
-email: digitalscholarship@swarthmore.edu
+email: digitalscholarship@brynmawr.edu
 description: >-
   An Immersive Chernobyl Installation
 baseurl: "/reactor-room"
-url: "https://ds-pages.swarthmore.edu"
+url: "https://digbmc.github.io"
 search                   : true
 search_full_content      : true
 
