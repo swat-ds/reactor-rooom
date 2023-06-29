@@ -5,7 +5,7 @@ email: digitalscholarship@brynmawr.edu
 description: >-
   An Immersive Chernobyl Installation
 baseurl: "/reactor-room"
-url: "https://digbmc.github.io"
+url: "https://digitalscholarship.brynmawr.edu"
 search                   : true
 search_full_content      : true
 
