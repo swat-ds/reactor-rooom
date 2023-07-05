@@ -59,6 +59,8 @@
     </div>
   {% elsif page.embed.type == 'arcgis' %}
     {% include page-arcgis-storymap.html %}
+  {% elsif page.embed.type == 'juncture' %}
+    {% include page-juncture.html %}
   {% elsif page.embed.type == 'storymap' %}
     {% include page-storymap.html %}
   {% elsif page.embed.type == 'timeline' %}
