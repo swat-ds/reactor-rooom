@@ -23,7 +23,7 @@ permalink: /
 
 
 <div id="mission" markdown="1">
-  *The Reactor Room* is a digital installation featuring the work of students in Professor José Vergara’s course Chernobyl: Nuclear Narratives and the Environment (Spring 2020) at Swarthmore College. This interactive exhibition seeks to facilitate public engagement with the Chernobyl catastrophe and its associated mythology.
+  *The Reactor Room* is a digital installation that seeks to facilitate public engagement with the Chornobyl catastrophe and its associated mythology. It features work from students  in Professor José Vergara’s course Chornobyl: Nuclear Narratives and the Environment, taught at Bryn Mawr College (Fall 2023) and Swarthmore College (Spring 2020), and developed by the Bryn Mawr Digital Scholarship Summer Fellows (Summer 2023). To begin, see [nuclear energy basics](./projects/nuclear-power/)
 </div>
 
 {% for c in page.include_categories %}

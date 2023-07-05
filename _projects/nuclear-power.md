@@ -1,16 +1,19 @@
 ---
 title: "Nuclear Power"
-category: ['bmc']
+category: ['science']
 classes: ['embed', 'iframe', 'arcgis']
 excerpt: "How things work"
-description: "This describes how Nuclear Power works"
+description: "Basics of nuclear energy"
 header: 
     #overlay_image: assets/images/lehr.jpg
     teaser: assets/images/lehr.jpg
 embed:
-    url: "https://www.juncture-digital.org/atmcgrath/ve-test"
-    #url: https://storymaps.arcgis.com/stories/0ce9382ce29c4eb78f24147b7336770a
+    url: "https://digbmc.github.io/reactor-jct/"
     type: juncture
-    essay-link: atmcgrath/ve-test
+    essay-link: https://digbmc.github.io/reactor-jct/
 
 ---
+
+This project was created by the 2023 Digital Scholarship Summer Fellows at Bryn Mawr College.
+
+We are testing the Juncture embed look right now.
