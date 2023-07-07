@@ -6,7 +6,7 @@ excerpt: "How things work"
 description: "Basics of nuclear energy"
 header: 
     #overlay_image: assets/images/lehr.jpg
-    teaser: assets/images/lehr.jpg
+    teaser: https://upload.wikimedia.org/wikipedia/commons/4/4e/Nuclear_Power_Plant_Cattenom.jpg
 embed:
     url: "https://digbmc.github.io/reactor-jct/"
     type: juncture
