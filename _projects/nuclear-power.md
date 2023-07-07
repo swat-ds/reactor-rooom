@@ -16,4 +16,4 @@ embed:
 
 This project was created by the 2023 Digital Scholarship Summer Fellows at Bryn Mawr College.
 
-We are testing the Juncture embed look right now.
+
