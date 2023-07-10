@@ -46,7 +46,7 @@ layout: default
         <blockquote>{{ page.description | markdownify }}</blockquote>
     {% endunless %}
 
-    {% if page.embed.type == 'storymap' or page.embed.type == 'timeline' or page.embed.type == 'iframe' %}
+    {% if page.embed.type == 'storymap' or page.embed.type == 'timeline' or page.embed.type == 'iframe' or page.embed.type == 'juncture' %}
     <p><a href="{{ embed_url }}" target="_blank">View Fullscreen<i class="fas fa-external-link-alt"></i></a></p>
     {% elsif page.embed.type == 'arcgis' %}
     <p><a href="{{ embed_url }}" target="_blank">View the project in ArcGIS Storymaps <i class="fas fa-external-link-alt"></i></a></p>
