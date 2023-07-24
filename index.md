@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Reactor Room: <br/> An Immersive Chernobyl Exhibition "
+title: "The Reactor Room: <br/> An Immersive Chornobyl Exhibition "
 author_profile: false
 classes: ['splash']
 header:
