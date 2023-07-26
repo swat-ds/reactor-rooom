@@ -49,21 +49,37 @@ In the “Transmedial Chernobyl” unit, we read the Strugatsky Brothers’ *Roa
 
 Looking at such representations of Chornobyl prepared us to explore appropriations of the catastrophe such as Bradley Parker’s horror film *Chernobyl Diaries*, disaster tourism, and excerpts from young adult novels, mystery books, and monster stories that instrumentalize Chornobyl as a plot device. Identifying how such approaches commercialize the story of Chornobyl compelled us to question whether engaging with catastrophe and visiting sites of death can facilitate meaningful reflection.
 
-In our study of Chernobyl as an environmental disaster, we endeavored to improve our scientific understanding of the catastrophe’s ecological effects and to decenter the human perspective. In the documentary *An Invisible Enemy*, we listened to the indigenous Sámi people speak about how radioactive fallout from Chernobyl has compromised their economy based on reindeer herding and ability to transmit their culture. Historian Kate Brown’s *Manual for Survival* exposed significant gaps in our understanding of Chernobyl’s impact on the environment. Michael Marder and Anais Tondeur’s innovative project *The Chernobyl Herbarium* compelled us to reflect on Chernobyl by focusing on the meditative silence of plant life. 
+In our study of Chornobyl as an environmental disaster, we endeavored to improve our scientific understanding of the catastrophe’s ecological effects and to decenter the human perspective. In the documentary *An Invisible Enemy*, we listened to the Sámi people speak about how radioactive fallout from Chornobyl has compromised their economy based on reindeer herding and ability to transmit their culture. Historian Kate Brown’s *Manual for Survival* exposed significant gaps in our understanding of Chornobyl’s impact on the environment. Michael Marder and Anais Tondeur’s innovative project *The Chernobyl Herbarium* compelled us to focus on the meditative silence of plant life.
 
-We closed the course by explicitly linking our analysis of Chernobyl’s ecological effects to society’s complicity in the climate crisis. We read an excerpt from David Wallace-Wells’ *The Uninhabitable Earth* about how storytelling is central to our ability to anticipate, respond to, and mitigate the effects of disasters such as climate change and Chernobyl. Our class ended with the following questions:
+We closed the course by explicitly linking our analysis of Chornobyl’s ecological effects to society’s complicity in the climate crisis, and our class ended with the following questions:
 
-- Do tragedies like Chernobyl need to have a meaning?  
+- Do tragedies like Chornobyl need to have a meaning?  
 - What are the limitations of language in light of catastrophe?
 
-It is our hope that this digital installation will both enable us to articulate some of our own responses to the political, linguistic, scientific, and existential ruptures that Chernobyl has caused and to catalyze ongoing dialogue. Thank you for joining us in this process. 
+It is our hope that this digital installation will both enable us to articulate some of our own responses to the political, linguistic, scientific, and existential ruptures that Chornobyl has caused and to catalyze ongoing dialogue. Thank you for joining us in this process.
+
+## Statement of Solidarity
+
+The organizers of this project strongly condemn Russia’s invasion of Ukraine. We have watched in horror as Putin’s regime has waged war against a peaceful, sovereign nation, and we hope for peace to be restored as soon as possible.
+
+We urge those who are able to donate to [Razom for Ukraine](https://www.razomforukraine.org/).
+
+## A Note on Language
+
+We launched this project in spring 2020. At that time, it was standard practice, at least in the West, to use spellings of Ukrainian names based on Russian transliteration — a colonial legacy. The full-scale invasion of Ukraine by Russia in February 2022 prompted a reconsideration of these practices. Accordingly, we have switched to the Ukrainian spelling of places such as Kyiv and Chornobyl throughout the website.
+
+However, there are a few exceptions. Proper names, for example book titles, that use the Chernobyl spelling remain unchanged. Likewise, student projects produced before February 2022 that use these spellings have not been altered to respect their creators’ work. In most cases, we are not currently in contact with these authors and thus cannot ask about the possibility of an update. 
+
 
 ## Additional Contributors
 
-Special thanks to Scott Cassidy, Susan Dreher, Pam Harris, Doug Herren, Mike Jones, Nabil Kashyap, Michael Forster Rothbart, Bethanne Seufert, Jacquie Tull, John Word, the Environmental Studies Program, the Global Studies Program, Swarthmore Libraries, and the Provost's Office.
+At Bryn Mawr, special thanks to Mst. Fariha Tasnim Busra, Bronwen Densmore, Soaad Elbahwati, Sean Keenan, Katya Little, Ksenia Mats, Alice McGrath, the DSSF Program, Hilde Nelson, Leela Smelser, and Skye Zhong.
 
-![McCabe Library Logo](../assets/images/LibraryLogo_finalfinal.png)  
-*Site supported by [Digital Scholarship / Swarthmore College Libraries](http://ds.swarthmore.edu/)*
+At Swarthmore, special thanks to Scott Cassidy, Susan Dreher, Pam Harris, Doug Herren, Mike Jones, Nabil Kashyap, Michael Forster Rothbart, Bethanne Seufert, Grace Sewell, Jacquie Tull, John Word, the Swarthmore Environmental Studies Program, the Global Studies Program, Swarthmore Libraries, and the Provost’s Office.
+
+The original version of this page was written by Grace Sewell and updated with her kind permission.
+
+*Site supported by [Digital Scholarship at Bryn Mawr College](http://digitalscholarship.brynmawr.edu/)*
 {: .ds-logo}
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTcyNzg5MzcwMl19
