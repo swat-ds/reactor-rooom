@@ -19,7 +19,7 @@ splash:
         url: "/nuclear-basics/#science"
       - title: "Disasters"
         url: "/nuclear-basics/#accidents-and-disasters"
-      - title: "Present & Future"
+      - title: "Present and Future"
        url: "/nuclear-basics/#present-and-future"
   - title: 'Connections'
     children:

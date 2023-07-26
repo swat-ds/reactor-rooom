@@ -10,7 +10,11 @@ header:
     overlay_filter: rgba(50,50,50,.5)
     caption:
 contributors:
-    - name: Mst. Fariha Tasnim Busra, Katya Little, Ksenia Mats, Leela Smelser, Skye Zhong
+    - name: Mst. Fariha Tasnim Busra
+    - name: Katya Little
+    - name: Ksenia Mats
+    - name: Leela Smelser
+    - name: Skye Zhong
       bio: are the 2023 Digital Scholarship Summer Fellows at Bryn Mawr College
 toc: true
 toc_sticky: true
