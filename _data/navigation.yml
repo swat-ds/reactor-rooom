@@ -8,6 +8,19 @@ main:
     url: /respond
 
 splash:
+  - title: "Nuclear Power"
+    url: "nuclear-basics/"
+    children:
+      - title: "Basics"
+        url: "/projects/nuclear-power/"
+      - title: "History"
+        url: "nuclear-basics/#nuclear-history"
+      - title: "Science"
+        url: "/nuclear-basics/#science"
+      - title: "Disasters"
+        url: "/nuclear-basics/#accidents-and-disasters"
+      - title: "Present & Future"
+       url: "/nuclear-basics/#present-and-future"
   - title: 'Connections'
     children:
       - title: "Home"
