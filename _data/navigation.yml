@@ -9,10 +9,10 @@ main:
 
 splash:
   - title: "Nuclear Power"
-    url: "nuclear-basics/"
+    url: "/nuclear-basics"
     children:
       - title: "Basics"
-        url: "/projects/nuclear-power/"
+        url: "/projects/nuclear-power"
       - title: "History"
         url: "nuclear-basics/#nuclear-history"
       - title: "Science"
@@ -20,7 +20,7 @@ splash:
       - title: "Disasters"
         url: "/nuclear-basics/#accidents-and-disasters"
       - title: "Present and Future"
-       url: "/nuclear-basics/#present-and-future"
+        url: "/nuclear-basics/#present-and-future"
   - title: 'Connections'
     children:
       - title: "Home"
