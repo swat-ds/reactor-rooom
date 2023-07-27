@@ -14,4 +14,5 @@ embed:
   type: arcgis
   id: 0n0fGS0
   url: https://arcg.is/0n0fGS0
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
 ---

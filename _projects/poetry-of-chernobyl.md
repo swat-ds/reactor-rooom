@@ -12,8 +12,9 @@ contributors:
 embed:
     type: iframe
     title: Texture Writer Poetry of Chernobyl Interactive Game
-    url: //ds-pages.swarthmore.edu/reactor-room/assets/poems-texture-project.html
+    url: //digitalscholarship.brynmawr.edu/reactor-room/assets/poems-texture-project.html
     link: https://texturewriter.com/play/lucastron3000/poetry-of-chernobyl-/info
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
 ---
 
 This project uses a build-your-own-story interface called [*Texture*](https://texturewriter.com/) to

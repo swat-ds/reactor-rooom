@@ -16,4 +16,5 @@ embed:
   id: ca1a5ad6c685dbbd20f882f5aa9497a1
   title: zl-installation-project
   url: https://uploads.knightlab.com/storymapjs/ca1a5ad6c685dbbd20f882f5aa9497a1/zl-installation-project/index.html
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
 ---

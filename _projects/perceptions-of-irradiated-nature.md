@@ -17,6 +17,7 @@ toc_icon: 'angle-double-down'
 embed:
     - url: https://via.hypothes.is/https://brians.wsu.edu/2016/12/05/chernobyl-poems/
     - url: https://via.hypothes.is/https://aeon.co/essays/ukraine-s-berry-pickers-are-reaping-a-radioactive-bounty
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
 ---
 
 ## Introduction
