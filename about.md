@@ -20,11 +20,11 @@ permalink: /about/
 
 *The Reactor Room: An Immersive Chornobyl Exhibition* is a digital installation featuring the work of students in Professor José Vergara’s course RUSSB220 Chornobyl taught at Bryn Mawr College (Fall 2023) and RUSS043 Chernobyl: Nuclear Narratives and the Environment at Swarthmore College, as well as projects developed by the Bryn Mawr Digital Scholarship Summer Fellows (Summer 2023). 
 
-To provide audiences with a sense of nuclear essentials, the DSSFs produced a “basics” exhibit exploring the history, science, and future of nuclear power, a perennial controversial topic worth understanding. The goal of this part of the project is to provide readers with information needed to draw informed, unbiased conclusions in order to enhance their experience of the overall Reactor Room.
+To provide audiences with a sense of nuclear essentials, the DSSFs produced a “basics” exhibit exploring the history, science, and future of nuclear power, a perennial controversial topic worth understanding. The goal of this part of the project is to provide readers with information needed to draw informed conclusions in order to enhance their experience of the overall Reactor Room.
 
-This interactive exhibition seeks to facilitate public engagement with the Chornobyl catastrophe and its associated mythology. Students produced public-facing digital projects that investigate diverse aspects of Chornobyl’s cultural, environmental, social, and political consequences. As you navigate through this installation, you will encounter maps that visually trace the radioactive fallout from Chornobyl. You will meet some of the key figures who experienced, survived, and perpetrated one of the worst nuclear disasters in history. You will engage with the sounds and silences associated with Chornobyl. You will be taken on a virtual tour of street art in Pripyat, read annotated poetry translations, see the catastrophe through the paranoid lens of conspiracy theories, and consider the disaster’s ongoing and unquantifiable impact on plant and animal life. Individually, these projects are snapshots that reflect the fragmented narratives and memories of Chornobyl. Together, they invite you to become an active participant in the study of Chornobyl’s collective mythology.
+This interactive exhibition seeks to facilitate public engagement with the Chornobyl catastrophe and its associated mythology. Students produced public-facing digital projects that investigate diverse aspects of Chornobyl’s cultural, environmental, social, and political consequences. As you navigate through this installation, you will encounter maps that visually trace the radioactive fallout from Chornobyl. You will meet some of the key figures who experienced, survived, and perpetrated one of the worst nuclear disasters in history. You will engage with the sounds and silences associated with Chornobyl. You will be taken on a virtual tour of street art in Prypiat, read annotated poetry translations, see the catastrophe through the paranoid lens of conspiracy theories, and consider the disaster’s ongoing and unquantifiable impact on plant and animal life. Individually, these projects are snapshots that reflect the fragmented narratives and memories of Chornobyl. Together, they invite you to become an active participant in the study of Chornobyl’s collective mythology.
 
-## The Course -- Chernobyl: Nuclear Narratives and the Environment 
+## The Course -- Chornobyl
 
 We began the course by asking a seemingly straightforward question: What really happened at the Chornobyl Nuclear Power Plant? At our first meetings, we pieced together the basic facts of the disaster. On April 26, 1986, the operators of the Chornobyl Nuclear Power Station near Prypiat, Ukraine conducted a routine test of the reactor’s capacity to operate under reduced power. Due to a combination of operator error and faulty design, Reactor 4 exploded. The ensuing spread of radioactivity across Europe resulted in a mass evacuation, political turmoil, unprecedented ecological devastation, and, some would argue, the end of the Soviet Union.
 
@@ -73,7 +73,9 @@ However, there are a few exceptions. Proper names, for example book titles, that
 
 ## Additional Contributors
 
-At Bryn Mawr, special thanks to Mst. Fariha Tasnim Busra, Bronwen Densmore, Soaad Elbahwati, Sean Keenan, Katya Little, Ksenia Mats, Alice McGrath, the DSSF Program, Hilde Nelson, Leela Smelser, and Skye Zhong.
+At Bryn Mawr, special thanks to Mst. Fariha Tasnim Busra, Bronwen Densmore, Soaad Elbahwati, Sean Keenan, Katya Little, Ksenia Mats, Alice McGrath, Bryn Mawr Library & Information Technology Services, Hilde Nelson, Leela Smelser, and Skye Zhong.
+
+This project was supported by a Digital Bryn Mawr Project Grant.
 
 At Swarthmore, special thanks to Scott Cassidy, Susan Dreher, Pam Harris, Doug Herren, Mike Jones, Nabil Kashyap, Michael Forster Rothbart, Bethanne Seufert, Grace Sewell, Jacquie Tull, John Word, the Swarthmore Environmental Studies Program, the Global Studies Program, Swarthmore Libraries, and the Provost’s Office.
 
