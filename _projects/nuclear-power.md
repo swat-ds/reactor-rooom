@@ -1,7 +1,7 @@
 ---
 title: "Nuclear Power"
 category: ['science']
-classes: ['embed', 'iframe']
+classes: ['embed', 'iframe', 'arcgis']
 excerpt: "Nuclear power in context"
 description: "Understanding the Chornobyl disaster in the context of the history of nuclear energy"
 header: 
