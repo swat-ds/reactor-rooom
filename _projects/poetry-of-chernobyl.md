@@ -1,7 +1,7 @@
 ---
 title:  "Poetry of Chernobyl"
 category: ['arts']
-classes: ['iframe','embed']
+classes: ['iframe','embed', 'arcgis']
 excerpt: "Poems is a choose your own path game where you can follow connections between the imagery of poems about Chernobyl. "
 description: "Poems is a choose your own path game where you can follow connections between the imagery of poems about Chernobyl. The project hopes you will see how similar ideas or words have propagated in the poetry about Chernobyl, but can take on meanings far different from one another. As I made the project, I thought about how certain poems informed one another. "
 header: 
@@ -12,8 +12,10 @@ contributors:
 embed:
     type: iframe
     title: Texture Writer Poetry of Chernobyl Interactive Game
-    url: //ds-pages.swarthmore.edu/reactor-room/assets/poems-texture-project.html
+    #link: //digitalscholarship.brynmawr.edu/reactor-room/assets/poems-texture-project.html
+    url: //digitalscholarship.brynmawr.edu/reactor-room/assets/poems-texture-project.html
     link: https://texturewriter.com/play/lucastron3000/poetry-of-chernobyl-/info
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
 ---
 
 This project uses a build-your-own-story interface called [*Texture*](https://texturewriter.com/) to

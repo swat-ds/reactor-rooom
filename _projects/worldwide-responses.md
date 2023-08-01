@@ -15,4 +15,5 @@ embed:
     id: ca1a5ad6c685dbbd20f882f5aa9497a1
     title: noah-martinez-installation 
     url: https://uploads.knightlab.com/storymapjs/ca1a5ad6c685dbbd20f882f5aa9497a1/noah-martinez-installation/index.html
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
 ---

@@ -13,6 +13,7 @@ embed:
     type: soundcloud
     id: 811945930
     url: "https://soundcloud.com/chernobyl-swat/chernobyl-symphony"
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
 ---
 
 ## Making "The Chernobyl Symphony"

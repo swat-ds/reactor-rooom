@@ -18,6 +18,7 @@ toc: true
 toc_sticky: true
 toc_label: Translations
 toc_icon: 'angle-double-down'
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
 ---
 
 All translations and annotations by Grace Sewell. Thank you to Frank Kenny (Swarthmore Class of 2020), Professor José Vergara, and Professor María-Luisa Guardiola for their thoughtful suggestions and revisions. 

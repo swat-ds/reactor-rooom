@@ -14,6 +14,7 @@ toc: true
 toc_sticky: true
 toc_label: Songs
 toc_icon: 'angle-double-down'
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
 ---
 
 ## Introduction

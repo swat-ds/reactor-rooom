@@ -15,4 +15,5 @@ embed:
     id: 51e9c248712a3984e93db01032e08d98
     title: radiate
     url: https://uploads.knightlab.com/storymapjs/51e9c248712a3984e93db01032e08d98/radiate/index.html
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
 ---

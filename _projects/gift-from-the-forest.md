@@ -15,4 +15,5 @@ embed:
     id: 394ae1f55d8b2773e85e07e9d45f1822
     title: mushrooms-of-chernobyl
     url: https://uploads.knightlab.com/storymapjs/394ae1f55d8b2773e85e07e9d45f1822/mushrooms-of-chernobyl/draft.html
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
 ---

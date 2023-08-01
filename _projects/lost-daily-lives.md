@@ -13,4 +13,5 @@ embed:
     type: arcgis
     id: CaO190
     url: https://arcg.is/CaO190
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
 ---

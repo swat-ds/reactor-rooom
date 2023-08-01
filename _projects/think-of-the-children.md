@@ -14,4 +14,5 @@ embed:
   id: cb9c9b26da11437d5867557017d8278b
   title: think-of-the-children-the-chernobyl-disasters-effects-on-the-youth
   url: https://uploads.knightlab.com/storymapjs/cb9c9b26da11437d5867557017d8278b/think-of-the-children-the-chernobyl-disasters-effects-on-the-youth/index.html 
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
 ---

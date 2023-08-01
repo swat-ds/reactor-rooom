@@ -14,5 +14,5 @@ embed:
     url: "https://digbmc.github.io/reactor-jct/"
     type: juncture
     essay-link: https://digbmc.github.io/reactor-jct/
-
+course: 'Digital Scholarship Summer Fellows Program, Bryn Mawr College, Summer 2023'
 ---
