@@ -4,6 +4,8 @@ main:
     url: /
   - title: "About"
     url: /about
+  - title: "Exhibit"
+    url: /exhibition
   - title: "Respond"
     url: /respond
 
@@ -13,7 +15,7 @@ splash:
       - title: "The Course"
         url: "/about"
       - title: "The Exhibition"
-        url: "/about"
+        url: "/exhibition"
       - title: "Nuclear Energy Basics"
         url: "/nuclear-basics"
   - title: 'Connections'
