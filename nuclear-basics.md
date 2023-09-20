@@ -28,14 +28,23 @@ contributors:
 #     url: "https://digbmc.github.io/reactor-jct/"
 #     type: juncture
 #     essay-link: https://digbmc.github.io/reactor-jct/
-#course: Bryn Mawr College Digital Scholarship Summer Fellows, 2023
+course: Bryn Mawr College Digital Scholarship Summer Fellows, 2023
 ---
 
-![icon](https://digbmc.github.io/reactor-jct/favicon.ico){: .align-left} By the 2023 [Digital Scholarship Summer Fellows](https://digitalscholarship.blogs.brynmawr.edu/digital-scholarship-summer-fellows-program/) at Bryn Mawr College. How has Chornobyl shaped our understanding of nuclear power and its potential benefits? Our digital exhibition was inspired by questions about the impact of disaster narratives on energy policy. It also contextualizes Chornobyl within a longer history of accidents and describes the basic science of nuclear reactors.
+![icon](https://digbmc.github.io/reactor-jct/favicon.ico){: .align-left} How has Chornobyl shaped our understanding of nuclear power and its potential benefits? Created by the 2023 [Digital Scholarship Summer Fellows](https://digitalscholarship.blogs.brynmawr.edu/digital-scholarship-summer-fellows-program/) at Bryn Mawr College, this exhibition contextualizes Chornobyl within a longer history of accidents and describes the basic science of nuclear reactors and was inspired by questions about the impact of disaster narratives on energy policy.
 
 [Explore the exhibition](https://digbmc.github.io/reactor-jct/){: .btn .btn--primary}
 
+
 <!-- <a href="https://digbmc.github.io/reactor-jct/" class="btn btn--primary btn--large">Explore</a> -->
+
+<!--
+### Contents
+
+[History of nuclear power](){: .btn .btn--primary}
+[Nuclear accidents and disasters](){: .btn .btn--primary}
+[The science of nuclear energy](){: .btn .btn--primary}
+[Nuclear power in the present and future](){: .btn .btn--primary}
 
 ![Laura and Enrico Fermi in 1954](assets/icons/Laura_and_Enrico_Fermi_1954.jpg){: .align-left} 
 ### [The History of Nuclear Technology](https://digbmc.github.io/reactor-jct/nuclear-history)
@@ -43,7 +52,7 @@ Major developments from the 1930s through the 1980s
 
 [History](){: .btn .btn--primary}
 
-
+![Laura and Enrico Fermi in 1954](assets/icons/Laura_and_Enrico_Fermi_1954.jpg){: .align-left} 
 ### [Science of Nuclear Energy](https://digbmc.github.io/reactor-jct/science)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/NSC-Oct-2017.jpg" width="49%" float="left">
@@ -55,3 +64,4 @@ Major developments from the 1930s through the 1980s
 ### [Nuclear power in the present and future](https://digbmc.github.io/reactor-jct/present-and-future)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3859%29.jpg" width="49%">
+-->
