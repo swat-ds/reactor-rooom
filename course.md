@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 toc_label: About the Course
 toc_icon: 'angle-double-down'
-permalink: /about/
+permalink: /course/
 ---
 
 ## The Course -- Chornobyl

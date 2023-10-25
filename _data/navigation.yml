@@ -4,18 +4,18 @@ main:
     url: /
   - title: "About"
     url: /about
-  - title: "Exhibit"
-    url: /exhibition
+  - title: "Course"
+    url: /course
   - title: "Respond"
     url: /respond
 
 splash:
   - title: "Contexts"
     children:
-      - title: "The Course"
-        url: "/about"
       - title: "The Exhibition"
-        url: "/exhibition"
+        url: "/about"
+      - title: "The Course"
+        url: "/course"
       - title: "Nuclear Energy Basics"
         url: "/nuclear-basics"
   - title: 'Connections'
