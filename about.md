@@ -45,7 +45,7 @@ However, there are a few exceptions. Proper names, for example book titles, that
 - Sean Keenan, Educational Technology Specialist
 - Soaad Elbahwati and Cameron Boucher, EaST Assistants
 
-### Digital Scholarship Summer Fellows
+### Digital Scholarship Summer Fellows ![icon](https://digbmc.github.io/reactor-jct/favicon.ico){: }
 
 - Mst. Fariha Tasnim Busra
 - Katya Little
@@ -59,12 +59,11 @@ At Bryn Mawr, special thanks to Joyce Angelucci, Jennifer Coval, Carrie Robbins,
 
 This project was supported by a Digital Bryn Mawr Project Grant.
 
-At Swarthmore, special thanks to Scott Cassidy, Susan Dreher, Pam Harris, Doug Herren, Mike Jones, Nabil Kashyap, Michael Forster Rothbart, Bethanne Seufert, Grace Sewell, Jacquie Tull, John Word, the Swarthmore Environmental Studies Program, the Global Studies Program, Swarthmore Libraries, and the Provost’s Office.
+At Swarthmore, special thanks to Scott Cassidy, Susan Dreher, Pam Harris, Doug Herren, Mike Jones, Nabil Kashyap, Michael Forster Rothbart, Bethanne Seufert, Grace Sewell, Jacquie Tull, Roberto Vargas, John Word, the Swarthmore Environmental Studies Program, the Global Studies Program, Swarthmore Libraries, and the Provost’s Office.
 
 The original version of this page was written by Grace Sewell and updated with her kind permission.
 
 *Site supported by [Digital Scholarship at Bryn Mawr College](http://digitalscholarship.brynmawr.edu/)*
-{: .ds-logo}
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTcyNzg5MzcwMl19
 -->

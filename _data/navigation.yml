@@ -17,7 +17,7 @@ splash:
       - title: "The Course"
         url: "/course"
       - title: "Nuclear Energy Basics"
-        url: "/nuclear-basics"
+        url: "/projects/nuclear-power"
   - title: 'Connections'
     children:
       - title: "Home"
