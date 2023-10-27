@@ -1,5 +1,5 @@
 ---
-title: "Ksenia Mats' Project"
+title: "Chornobyl and the Body"
 category: ['people', 'hypothesis']
 excerpt: ""
 description: ""
