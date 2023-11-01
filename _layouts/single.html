@@ -97,23 +97,44 @@ layout: default
     {% endif %}
   </article>
 
-  {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
-  {% if page.id and page.related and site.related_posts.size > 0 %}
+  {% comment %}<!-- create array of related projects -->{% endcomment %}
+  {% for this-category in page.category %}
+    {% if forloop.first %}
+      {% assign related_projects = site.projects | where: "category", this-category %}
+    {% else %}
+      {% for project in site.projects %}
+        {% for project-category in project.category %}
+          {% if this-category == project-category %}
+            {% assign related_projects = related_projects | push: project %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+  {% comment %}<!-- filter out this project from array of related projects -->{% endcomment %}
+  {% for project in related_projects %}
+    {% unless project.title == page.title %}
+      {% assign related_projects = related_projects | push: project %}
+    {% endunless %}
+    {% assign related_projects = related_projects | shift %}
+  {% endfor %}
+  {% comment %}<!-- only show related on a project page when `related: true` -->{% endcomment %}
+  {% if page.related and related_projects.size > 0 %}
     <div class="page__related">
-      <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
+      <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "Suggested Reading" }}</h4>
       <div class="grid__wrapper">
-        {% for post in site.related_posts limit:4 %}
+        {% for project in related_projects limit:3 %}
           {% include archive-single.html type="grid" %}
         {% endfor %}
       </div>
     </div>
-  {% comment %}<!-- otherwise show recent posts if no related when `related: true` -->{% endcomment %}
-  {% elsif page.id and page.related %}
+  {% comment %}<!-- otherwise show recent projects if no related when `related: true` -->{% endcomment %}
+  {% elsif page.related %}
     <div class="page__related">
-      <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
+      <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "Suggested Reading" }}</h4>
       <div class="grid__wrapper">
-        {% for post in site.posts limit:4 %}
-          {% if post.id == page.id %}
+        {% for project in site.projects limit:3 %}
+          {% if project.title == page.title %}
             {% continue %}
           {% endif %}
           {% include archive-single.html type="grid" %}
