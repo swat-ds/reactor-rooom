@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /
+    url: /home
   - title: "About"
     url: /about
   - title: "Course"
@@ -21,20 +21,20 @@ splash:
   - title: 'Connections'
     children:
       - title: "Home"
-        url: "#site-nav"
+        url: "home/#site-nav"
       - title: "Arts"
-        url: "#arts"
+        url: "home/#arts"
       - title: "Food"
-        url: "#food"
+        url: "home/#food"
       - title: "Flora & Fauna"
-        url: "#flora"
+        url: "home/#flora"
       - title: "Media"
-        url: "#media"
+        url: "home/#media"
       - title: "People"
-        url: "#people"
+        url: "home/#people"
       - title: "Pop Culture"
-        url: "#pop"
+        url: "home/#pop"
       - title: "Science"
-        url: "#science"
+        url: "home/#science"
       - title: "Time"
-        url: "#time"
+        url: "home/#time"

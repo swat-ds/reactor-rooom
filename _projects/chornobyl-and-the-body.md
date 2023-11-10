@@ -1,6 +1,6 @@
 ---
 title: "Chornobyl and the Body"
-category: ['people', 'hypothesis']
+category: ['hypothesis', 'science']
 excerpt: ""
 description: ""
 header: 
@@ -8,7 +8,7 @@ header:
     teaser:
     caption: 
 contributors:
-    - name: KM
+    - name: Ksenia Mats
       bio:
 toc: true
 toc_sticky: true
@@ -16,6 +16,7 @@ toc_label:
 toc_icon: 'angle-double-down'
 embed:
 course: 'RUSSB220 Chornobyl, Bryn Mawr College, Fall 2023'
+license: 'CC BY'
 ---
 
 ## Excerpt from *Voices From Chornobyl* by Svetlana Alexievich
