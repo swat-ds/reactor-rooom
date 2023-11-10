@@ -317,7 +317,12 @@ PROJECT PAGES
 
   ul {
     font-size: $type-size-6;
-    li { margin-bottom: $indent-var; }
+    list-style-type: none;
+    padding-left: $indent-var;
+    li { 
+      margin-bottom: $indent-var;
+      text-indent: -$indent-var;
+    }
   }
 
   li {
