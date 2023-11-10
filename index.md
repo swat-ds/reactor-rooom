@@ -14,6 +14,7 @@ include_categories:
   - media
   - people
   - pop
+  - religion
   - science
   - time
 sidebar:
