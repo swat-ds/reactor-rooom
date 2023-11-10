@@ -17,5 +17,3 @@ embed:
 course: 'RUSSB220 Chornobyl, Bryn Mawr College, Fall 2023'
 license: CC BY-NC-SA
 ---
-
-  
