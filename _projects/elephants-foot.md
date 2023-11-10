@@ -24,3 +24,15 @@ Even among the already unobtainable (at least for most) areas of the exclusion z
 The Elephant’s Foot is unique even in the context of the Chornobyl disaster. There is no question that even being near it constitutes a fatal risk for anyone, a risk that isn’t considered for anywhere else in the Chornobyl exclusion zone. This makes it the most unobtainable, likely even unviewable spectacle that came of the disaster. Attempting to recreate even just its visage is a difficult task as the already scarce amount of footage that exists of it is warped and grainy. The location of the Elephant’s Foot below what is considered ground zero of the disaster is enough to make it an unobtainable sight for most. The amount of radiation it emits in addition to that makes it an impossible landmark for any stalker to see and live to tell the tale. 
 
 The inhospitable nature of the Elephant’s Foot is enough to give some the feeling that it’s like Chornobyl’s very own minotaur: housed in a labyrinthian reactor with only the promise of death. In this way this inanimate object has been given its own life and mythology through its unattainability. When you look at this diminutive approximation of it, consider what you feel. Is it fear, intrigue, wonder, curiosity, maybe even boredom? Do you wish you could take a trip to the exclusion zone, to reactor room 4, and visit it?
+
+## Bibliography
+
+<div class="footnotes">
+    <ol>
+        <li>Anonymous. Liquidators. Gray Unit, 20 Sept. 2020.</li>
+        <li> Plokhy, Serhii. Chernobyl: The History of a Nuclear Catastrophe. Basic Books, 2020.“Press Release.” Archive, <a href="https://www.liquidatorsarchive.com/pressrelease">https://www.liquidatorsarchive.com/pressrelease</a>. Accessed 24 Oct. 2023.</li>
+        <li>Richter, Darmon. “How the Video Game S.T.A.L.K.E.R. Inspired a Wave of Real-World Chernobyl Tourists.” <a href="https://www.theverge.com/2021/4/29/22403796/stalker-chernobyl-exclusion-zone-tourists">https://www.theverge.com/2021/4/29/22403796/stalker-chernobyl-exclusion-zone-tourists</a> The Verge, April 29, 2021.</li>
+        <li>SCR. “Elephant´s Foot in Chernobyl.” Chernobyl X, <a href="https://chernobylx.com/elephants-foot-in-chernobyl/">https://chernobylx.com/elephants-foot-in-chernobyl/.</a> Accessed 24 Oct. 2023.</li>
+    </ol>
+</div>
+
