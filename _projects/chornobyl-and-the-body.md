@@ -12,7 +12,7 @@ contributors:
       bio: "is a sophomore studying biology and data science at Bryn Mawr College."
 toc: true
 toc_sticky: true
-toc_label:
+toc_label: Contents
 toc_icon: 'angle-double-down'
 embed:
 course: 'RUSSB220 Chornobyl, Bryn Mawr College, Fall 2023'

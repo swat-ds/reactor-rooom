@@ -1,8 +1,8 @@
 ---
 title: "Fractured Motherhood: An analysis of the relationship of Chornobyl mothers and their children"
-category: ['science']
+category: ['mothers','science']
 classes: []
-excerpt: "“I killed her. I. She. Saved. My little girl saved me, she took the whole radioactive shock into herself, she was like a lightning rod for it.” - Lyudmilla Ignatenko"
+excerpt: '“I killed her. I. She. Saved. My little girl saved me, she took the whole radioactive shock into herself, she was like a lightning rod for it.” - Lyudmilla Ignatenko'
 description: "Women and mothers who were affected by the Chornobyl accident had intense fears and anxiety about the effects of the radiation on their children. Using the narratives of Chornobyl mothers compiled by Svetlana Alexievich, it is observed that mothers have a detached and  fractured relationship with their children. Supplemental medical information and statistics on birth outcomes and increased abortion rates intend to strengthen these narratives and confirm that the fear of the unknown affected mothers’ choices for generations."
 header:
     overlay_image: /assets/images/pregnancy.jpeg
@@ -10,6 +10,10 @@ header:
 contributors:
     - name: Fay Koyfman
       bio: "'24 is a chemistry and Russian major at Bryn Mawr College."
+toc: true
+toc_sticky: true
+toc_label: Contents
+toc_icon: 'angle-double-down'
 course: 'RUSSB220 Chornobyl, Bryn Mawr College, Fall 2023'
 license: CC BY-ND
 ---

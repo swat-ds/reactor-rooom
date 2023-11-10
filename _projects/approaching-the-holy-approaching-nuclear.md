@@ -10,6 +10,10 @@ header:
 contributors:
     - name: Madeline Muller
       bio: "'25 is a Junior Russian and Comparative Literature Major at Bryn Mawr College. She enjoys scrapbooking (obviously) and enjoyed exploring the faith aspect for the Reactor Room Project though a creative process."
+toc: true
+toc_sticky: true
+toc_label: Contents
+toc_icon: 'angle-double-down'
 course: 'RUSSB220 Chornobyl, Bryn Mawr College, Fall 2023'
 license: 'CC BY-NC'
 ---
@@ -26,8 +30,7 @@ The fourth page, Reflection on Burial, draws inspiration directly from Leviticus
 
 The construction of this scrapbook is based around the similarities of the nuclear culture and faith culture (particularly the aspects of the rituals of approaching the Holy or the Divine), especially what happens when these procedures or rituals are broken. My focus was mainly on how nuclear power is treated as “godlike” based on how nuclear culture developed and how this approach mirrors the power of God to people of faith. Failure to adhere to rituals of how to approach both Nuclear and the Holy appear in the aftermath of Chornobyl, the Tanakh, and the Bible, which manifests in the placement of images and contrasts in the scrapbook. 
 
-## Annotations 
-### Page 1: Reflection on Wormwood
+## Page 1: Reflection on Wormwood
 {% include figure image_path="assets/images/muller-page-1.jpeg" alt="" caption="" %}
 
 **Physical Description:** On top of a composition of historical paintings of the biblical wormwood, a white piece of paper lies, composing about 75% of the page, with Revelation 8.10-11 in English, Ukrainian, Russian, and Belarusian cut out. The edges of the white paper are slightly dirtied, and the pictures peek through the cutouts. 
@@ -36,7 +39,7 @@ The construction of this scrapbook is based around the similarities of the nucle
 
 **Materials:** Printer paper, white cardstock, printed black and white images, glue, and black sharpie.
 
-### Page 2: Reflection on Iconography
+## Page 2: Reflection on Iconography
 {% include figure image_path="assets/images/muller-page-2.jpeg" alt="" caption="" %}
 
 **Physical Description:** On top of burnt schematics of the Chornobyl Nuclear Plant, three diamond-shaped shapes and one rectangular shape lie. In the top diamond, there is an abstract drawing of a cross in black with a gas mask atop the cross, the eyes colored red. Text explaining the Trinity lies behind this image. In the left diamond, there is a recreation of the Virgin Mary with measurement lines arranged about her. Inside of the outline, there lie red dots outlining part of the figure. In the right diamond, the shape is divided into four triangles, consisting of alternating portrayals of abstract crosses and fuel rods. The rectangle is located at the bottom of the page and contains an abstract drawing of a tree overlaid with a sketch of the same tree. 
@@ -45,7 +48,7 @@ The construction of this scrapbook is based around the similarities of the nucle
 
 **Materials:** Printer paper, white cardstock, black sharpie, red sharpie, glue, lighter, and red pen.
 
-### Page 3: Reflection on Shared Space 
+## Page 3: Reflection on Shared Space 
 {% include figure image_path="assets/images/muller-page-3.jpeg" alt="" caption="" %}
 
 **Physical Description:** A recreation of the building map for the Chornobyl Nuclear Plant lies atop a white page, with the cutouts both making the layout and revealing black paper underneath. On the upper left side, a recreation of the Church of the Prophet Elijah in Chornobyl is drawn in red. On the bottom right side, a recreation of the Chornobyl Synagogue is drawn in red. Around the page, there are assorted quotes from Voices from Chernobyl, each of them written in red.
@@ -55,7 +58,7 @@ Quote Page Numbers: (Alexievich, 47, 66, 128, 51, 39, & 50)
 
 **Materials:** Printer paper, white cardstock, black sharpie, red sharpie, glue, red pen, pencil, and black construction paper. 
 
-### Page 4: Reflection on Burial
+## Page 4: Reflection on Burial
 {% include figure image_path="assets/images/muller-page-4.jpeg" alt="" caption="" %}
 
 **Physical Description:** On a white page of paper, Leviticus 16.4 is printed in both Hebrew and English, arranged in various geometric ways, although none overlap. A series of five diagonal lines separate the top 25% of the page from the bottom. In the bottom half, multiple outlined drawings of liquidators are drawn in red on the page. In the top left corner, a section of text is written in red. 
@@ -65,6 +68,7 @@ Quote Page Numbers: (Alexievich, 47, 66, 128, 51, 39, & 50)
 **Materials:** Printer paper, black and white printouts, red sharpie, glue, red pen, and soda. 
 
 ## Bibliography
+
 <div class="footnotes" markdown="1">
 
 - Aleksievich, Svetlana, and Keith Gessen. *Voices from Chernobyl*. Dalkey Archive Press, 2019.

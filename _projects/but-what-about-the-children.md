@@ -117,14 +117,17 @@ and too many children.
 
 ![Picture of Door From Exhibit]()
 
-## Bibliography:
-- Alexievich, Svetlana. Voices from Chernobyl. Translated by Keith Gessen, St Martin's Press,
-2006.
-- Poulsen, Bonnie L. “But What of the Children of Chernobyl?” Journal of Environmental Health,
-vol. 54, no. 6, 1992, pp. 68–69. JSTOR, http://www.jstor.org/stable/44534061. Accessed 8 Nov.
-2023.
-- Kolominsky, Y & Igumnov, Sergey & Drozdovitch, Vladimir. (1999). “The Psychological
-- Development of Children from Belarus Exposed in the Prenatal Period to Radiation from the
-- Chernobyl Atomic Power Plant.” Journal of child psychology and psychiatry, and allied
-disciplines. 40. 299-305. 10.1111/1469-7610.00444.
+## Bibliography
 
+<div class="footnotes" markdown="1">
+
+- Alexievich, Svetlana. Voices from Chernobyl. Translated by Keith Gessen, St Martin's Press, 2006.
+  
+- Poulsen, Bonnie L. “But What of the Children of Chernobyl?” Journal of Environmental Health, vol. 54, no. 6, 1992, pp. 68–69. JSTOR, http://www.jstor.org/stable/44534061. Accessed 8 Nov.
+
+
+- Kolominsky, Y & Igumnov, Sergey & Drozdovitch, Vladimir. (1999). “The Psychological
+
+- Development of Children from Belarus Exposed in the Prenatal Period to Radiation from the Chernobyl Atomic Power Plant.” Journal of child psychology and psychiatry, and allied disciplines. 40. 299-305. 10.1111/1469-7610.00444.
+
+</div>
