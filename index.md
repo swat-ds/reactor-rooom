@@ -11,6 +11,7 @@ include_categories:
   - arts
   - food
   - flora
+  - history
   - media
   - people
   - pop

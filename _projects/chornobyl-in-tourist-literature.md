@@ -1,6 +1,6 @@
 ---
 title: "Chornobyl in Tourist Literature"
-category: ['travel','people','history']
+category: ['travel','history']
 classes: ['embed','iframe','arcgis']
 excerpt: "Although most guidebooks treat radiation as something to be avoided, a 1995 guidebook to Eastern Europe  markets its sinister appeal, describing the Gariūnai Market in Vilnius where 'you can buy everything: a possibly stolen Mercedes, Chernobyl-influenced veggies, western CDs, toothpaste, smoked eel, and so on.'"
 description: "This project borrows from scholar Phillip Stones' analysis of Chornobyl tourism to examine Chornobyl's transformation into a tourist attraction. Using travel literature from the past 30 years this exhibit uncovers how publishers turned the site of a devastating industrial accident into a must-see tourist destination."
