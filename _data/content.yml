@@ -5,6 +5,7 @@ display_categories:
   arts: 'Arts'
   food: 'Food'
   flora: 'Flora & Fauna'
+  history: 'History & Politics'
   media: 'Media'
   people: 'People'
   pop: 'Pop Culture'

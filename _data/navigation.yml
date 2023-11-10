@@ -28,6 +28,8 @@ splash:
         url: "home/#food"
       - title: "Flora & Fauna"
         url: "home/#flora"
+      - title: "History & Politics"
+        url: "home/#history"
       - title: "Media"
         url: "home/#media"
       - title: "People"
