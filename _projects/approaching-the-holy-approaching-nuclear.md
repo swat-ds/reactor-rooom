@@ -7,6 +7,7 @@ description: "Both the Holy and the Nuclear occupy a similar space in the mindsc
 header:
     overlay_image: /assets/images/muller-page-2.jpeg
     teaser: /assets/images/muller-page-2.jpeg
+    caption: Madeline Muller, "Reflections on Iconography".
 contributors:
     - name: Madeline Muller
       bio: "'25 is a Junior Russian and Comparative Literature Major at Bryn Mawr College. She enjoys scrapbooking (obviously) and enjoyed exploring the faith aspect for the Reactor Room Project though a creative process."
@@ -17,6 +18,8 @@ toc_icon: 'angle-double-down'
 course: 'RUSSB220 Chornobyl, Bryn Mawr College, Fall 2023'
 license: 'CC BY-NC'
 ---
+
+## Introduction 
 
 This project explored the intersection of belief practices, faith, and the nuclear culture that emerged in the aftermath of the Chornobyl incident. As I read over the multiple professions of faith that came from Voices from Chernobyl, a book composed entirely of quotes of survivor's accounts, a surprising similarity emerged between how people approached the holy in their lives and how they approached the nuclear source in Chornobyl, both having tremendous effects on people who worship them, either through traditional religious observation of a deity or through religious-like devotion to a place/ideal such as the Chornobyl incident. I made a scrapbook to combine these concepts in a more material way, placing the ideas of the Holy with that of the nuclear next to each other. Both the Holy and the Nuclear occupy a similar space in the mindscape of Chornobyl, large scale concepts that are uncontrollable, unseeable, and eternal or seemingly eternal. In order to analyze these connections, I created four collaged pages: Reflection on Wormwood, Reflection on Iconography, Reflection on Shared Space, and Reflection on Burial. 
 

@@ -9,7 +9,7 @@ header:
     teaser: assets/images/schefer.jpg
 contributors:
     - name: Theo Schefer
-      bio: Theo Schefer is a History major at Haverford with a Museum Studies minor at Bryn Mawr. Besides reading comics, he likes to "stalk" (wander around) greater Ardmore, go on runs, and listen to 60s folk music.
+      bio: is a History major at Haverford with a Museum Studies minor at Bryn Mawr. Besides reading comics, he likes to "stalk" (wander around) greater Ardmore, go on runs, and listen to 60s folk music.
 embed:
     type: storymap
     id: 45acd652f5941b07165a872dca6feefd
