@@ -2,7 +2,7 @@
 layout: single
 title: The Course
 author_profile: false
-classes: ['about']
+classes: ['about', 'soundcite']
 excerpt: >-
   *The Reactor Room* project features work from students in Professor José Vergara’s course RUSSB220 Chornobyl taught at Bryn Mawr College (Fall 2023) and RUSS043 Chernobyl: Nuclear Narratives and the Environment at Swarthmore College (Spring 2020). 
 header:
@@ -14,6 +14,48 @@ toc_sticky: true
 toc_label: About the Course
 toc_icon: 'angle-double-down'
 permalink: /course/
+
+gallery:
+  - url: /assets/images/bmcherbarium1.JPG
+    image_path: /assets/images/bmcherbarium1.JPG
+    alt: ""
+    title: ""
+  - url: /assets/images/bmcherbarium2.jpeg
+    image_path: /assets/images/bmcherbarium2.jpeg
+    alt: ""
+    title: ""
+  - url: /assets/images/bmcherbarium3.jpeg
+    image_path: /assets/images/bmcherbarium3.jpeg
+    alt: ""
+    title: ""
+  - url: /assets/images/bmcherbarium4.JPG
+    image_path: /assets/images/bmcherbarium4.JPG
+    alt: ""
+    title: ""
+  - url: /assets/images/bmcherbarium5.jpg
+    image_path: /assets/images/bmcherbarium5.jpg
+    alt: ""
+    title: ""
+  - url: /assets/images/bmcherbarium6.jpg
+    image_path: /assets/images/bmcherbarium6.jpg
+    alt: ""
+    title: ""
+  - url: /assets/images/bmcherbarium7.png
+    image_path: /assets/images/bmcherbarium7.png
+    alt: ""
+    title: ""
+  - url: /assets/images/bmcherbarium8.jpeg
+    image_path: /assets/images/bmcherbarium8.jpeg
+    alt: ""
+    title: ""
+  - url: /assets/images/bmcherbarium9.jpeg
+    image_path: /assets/images/bmcherbarium9.jpeg
+    alt: ""
+    title: ""
+  - url: /assets/images/bmcherbarium10theoshefer.JPG
+    image_path: /assets/images/bmcherbarium10theoshefer.JPG
+    alt: ""
+    title: "Photograph by Theo Shefer"
 ---
 
 ## The Course -- Chornobyl
@@ -41,7 +83,13 @@ In the “Transmedial Chernobyl” unit, we read the Strugatsky Brothers’ *Roa
 
 Looking at such representations of Chornobyl prepared us to explore appropriations of the catastrophe such as Bradley Parker’s horror film *Chernobyl Diaries*, disaster tourism, and excerpts from young adult novels, mystery books, and monster stories that instrumentalize Chornobyl as a plot device. Identifying how such approaches commercialize the story of Chornobyl compelled us to question whether engaging with catastrophe and visiting sites of death can facilitate meaningful reflection.
 
-In our study of Chornobyl as an environmental disaster, we endeavored to improve our scientific understanding of the catastrophe’s ecological effects and to decenter the human perspective. In the documentary *An Invisible Enemy*, we listened to the Sámi people speak about how radioactive fallout from Chornobyl has compromised their economy based on reindeer herding and ability to transmit their culture. Historian Kate Brown’s *Manual for Survival* exposed significant gaps in our understanding of Chornobyl’s impact on the environment. Michael Marder and Anais Tondeur’s innovative project *The Chernobyl Herbarium* compelled us to focus on the meditative silence of plant life.
+In our study of Chornobyl as an environmental disaster, we endeavored to improve our scientific understanding of the catastrophe’s ecological effects and to decenter the human perspective. In the documentary *An Invisible Enemy*, we listened to the Sámi people speak about how radioactive fallout from Chornobyl has compromised their economy based on reindeer herding and ability to transmit their culture. Historian Kate Brown’s *Manual for Survival* exposed significant gaps in our understanding of Chornobyl’s impact on the environment. Michael Marder and Anais Tondeur’s innovative project *The Chernobyl Herbarium* compelled us to focus on the meditative silence of plant life and inspired us to build our own Bryn Mawr Herbarium with photos of flowers, trees, and weeds around campus.
+
+{% include gallery class="herbarium" caption="Bryn Mawr Herbarium"%}
+
+When we listened to and discussed Jakob Kirkegaard’s [*4 Rooms*](https://jacobkirkegaardreleases.bandcamp.com/album/4-rooms), we also recorded soundscapes to explore what we can hear around campus and to consider what these sounds can tell us about a place: the entrance to <span class="soundcite" data-url="https://digitalscholarship.brynmawr.edu/reactor-room/assets/audio/soundscape-canaday.m4a" data-start="0" data-end="30000" data-plays="1">Canaday Library</span>, <span class="soundcite" data-url="https://digitalscholarship.brynmawr.edu/reactor-room/assets/audio/soundscape-ol-schefer.m4a" data-start="0" data-end="30000" data-plays="1">Old Library</span>, outside <span class="soundcite" data-url="https://digitalscholarship.brynmawr.edu/reactor-room/assets/audio/soundscape-merion.m4a" data-start="0" data-end="30000" data-plays="1">Merion Hall</span>, outside <span class="soundcite" data-url="https://digitalscholarship.brynmawr.edu/reactor-room/assets/audio/soundscape-taylor.m4a" data-start="0" data-end="30000" data-plays="1">Taylor Hall</span>.
+
+{% include figure image_path="assets/images/canadaylibrarysoundscapeimage.png" alt="The entrance to Canaday Library. Three rocking chairs face a large window with flower bushes outside." caption="Entrance to Canaday Library" %}
 
 We closed the course by explicitly linking our analysis of Chornobyl’s ecological effects to society’s complicity in the climate crisis, and our class ended with the following questions:
 
