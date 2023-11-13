@@ -1,6 +1,6 @@
 ---
 title:  "Music & Chernobyl"
-category: ['pop']
+category: ['music','pop']
 classes: ['soundcite']
 excerpt: "Take a look at music inspired by and about the Chernobyl nuclear disaster"
 description: "How is Chernobyl remembered as an event of significance both within Eastern Europe and across national borders and how have artists represented the tragedy through music in particular? How does Chernobyl play into broader themes such as environmental degradation and how do artists use Chernobyl as a symbol in works with greater political or social meaning? "

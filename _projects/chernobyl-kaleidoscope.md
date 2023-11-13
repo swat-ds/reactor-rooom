@@ -1,6 +1,6 @@
 ---
 title: "The Chernobyl Kaleidoscope: Transnational Representations of Catastrophe through Poetry"
-category: ['arts','hypothesis']
+category: ['literature', 'arts','hypothesis']
 classes: ['kaleidoscope']
 excerpt: "What is the power of language and art in the face of transnational catastrophe? Original translations of poetry written in Spanish, Russian, and Ukrainian."
 description: |

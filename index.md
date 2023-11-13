@@ -11,14 +11,16 @@ include_categories:
   - arts
   - food
   - flora
+  - history
   - media
   - people
   - pop
+  - religion
   - science
   - time
 sidebar:
   - nav: splash
-permalink: /
+permalink: /home/
 ---
 
 

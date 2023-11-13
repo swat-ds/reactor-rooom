@@ -305,14 +305,8 @@ PROJECT PAGES
 
 .contributors {
   border-top: 1px solid $masthead-link-color;
+  padding-top: 0.5rem;
   width: 100%;
-  
-  .contributor {
-    margin-top: 2rem;
-    max-width: $medium;
-    margin-left: auto;
-    margin-right: auto;
-  }
 }
 
 // Footnotes / Works Cited
@@ -323,7 +317,12 @@ PROJECT PAGES
 
   ul {
     font-size: $type-size-6;
-    li { margin-bottom: $indent-var; }
+    list-style-type: none;
+    padding-left: $indent-var;
+    li { 
+      margin-bottom: $indent-var;
+      text-indent: -$indent-var;
+    }
   }
 
   li {

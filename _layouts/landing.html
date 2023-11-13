@@ -1,6 +1,59 @@
 ---
-layout: default
 ---
+
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    <!-- {% include_cached skip-links.html %} -->
+    <!-- {% include_cached masthead.html %} -->
+    {% capture logo_path %}{{ site.logo }}{% endcapture %}
+
+    <div class="masthead">
+      <div class="masthead__inner-wrap">
+        <div class="masthead__menu">
+          <nav id="site-nav" class="greedy-nav">
+            {% unless logo_path == empty %}
+              <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
+            {% endunless %}
+            <a class="site-title" href="{{ '/' | relative_url }}">
+              <!-- {{ site.masthead_title | default: site.title }} -->
+              The Reactor Room: An Immersive Chornobyl Exhibition
+              <!-- <span class="site-subtitle">An Immersive Chornobyl Exhibition</span> -->
+            </a>
+            <!-- <ul class="visible-links">
+              {%- for link in site.data.navigation.main -%}
+                <li class="masthead__menu-item">
+                  <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+                </li>
+              {%- endfor -%}
+            </ul>
+            {% if site.search == true %}
+            <button class="search__toggle" type="button">
+              <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
+              <i class="fas fa-search"></i>
+            </button>
+            {% endif %}
+            <button class="greedy-nav__toggle hidden" type="button">
+              <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
+              <div class="navicon"></div>
+            </button>
+            <ul class="hidden-links hidden"></ul> -->
+          </nav>
+        </div>
+      </div>
+    </div>
+    <div class="initial-content">
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image or page.classes contains 'embed' %}
   {% include page__hero.html %}
@@ -86,6 +139,7 @@ layout: default
           <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
         {% endif %}
       </footer> -->
+
       {% if page.share %}{% include social-share.html %}{% endif %}
 
       {% include post_pagination.html %}
@@ -96,44 +150,23 @@ layout: default
     {% endif %}
   </article>
 
-  {% comment %}<!-- create array of related projects -->{% endcomment %}
-  {% for this-category in page.category %}
-    {% if forloop.first %}
-      {% assign related_projects = site.projects | where: "category", this-category %}
-    {% else %}
-      {% for project in site.projects %}
-        {% for project-category in project.category %}
-          {% if this-category == project-category %}
-            {% assign related_projects = related_projects | push: project %}
-          {% endif %}
-        {% endfor %}
-      {% endfor %}
-    {% endif %}
-  {% endfor %}
-  {% comment %}<!-- filter out this project from array of related projects -->{% endcomment %}
-  {% for project in related_projects %}
-    {% unless project.title == page.title %}
-      {% assign related_projects = related_projects | push: project %}
-    {% endunless %}
-    {% assign related_projects = related_projects | shift %}
-  {% endfor %}
-  {% comment %}<!-- only show related on a project page when `related: true` -->{% endcomment %}
-  {% if page.related and related_projects.size > 0 %}
+  {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
+  {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related">
-      <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "Suggested Reading" }}</h4>
+      <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
       <div class="grid__wrapper">
-        {% for project in related_projects limit:4 %}
+        {% for post in site.related_posts limit:4 %}
           {% include archive-single.html type="grid" %}
         {% endfor %}
       </div>
     </div>
-  {% comment %}<!-- otherwise show recent projects if no related when `related: true` -->{% endcomment %}
-  {% elsif page.related %}
+  {% comment %}<!-- otherwise show recent posts if no related when `related: true` -->{% endcomment %}
+  {% elsif page.id and page.related %}
     <div class="page__related">
-      <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "Suggested Reading" }}</h4>
+      <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
       <div class="grid__wrapper">
-        {% for project in site.projects limit:4 %}
-          {% if project.title == page.title %}
+        {% for post in site.posts limit:4 %}
+          {% if post.id == page.id %}
             {% continue %}
           {% endif %}
           {% include archive-single.html type="grid" %}
@@ -142,3 +175,22 @@ layout: default
     </div>
   {% endif %}
 </div>
+</div>
+
+{% if site.search == true %}
+  <div class="search-content">
+    {% include_cached search/search_form.html %}
+  </div>
+{% endif %}
+
+<div id="footer" class="page__footer">
+  <footer>
+    {% include footer/custom.html %}
+    {% include_cached footer.html %}
+  </footer>
+</div>
+
+{% include scripts.html %}
+
+</body>
+</html>
