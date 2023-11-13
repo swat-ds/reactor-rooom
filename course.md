@@ -89,6 +89,8 @@ In our study of Chornobyl as an environmental disaster, we endeavored to improve
 
 When we listened to and discussed Jakob Kirkegaard’s [*4 Rooms*](https://jacobkirkegaardreleases.bandcamp.com/album/4-rooms), we also recorded soundscapes to explore what we can hear around campus and to consider what these sounds can tell us about a place: the entrance to <span class="soundcite" data-url="https://digitalscholarship.brynmawr.edu/reactor-room/assets/audio/soundscape-canaday.m4a" data-start="0" data-end="30000" data-plays="1">Canaday Library</span>, <span class="soundcite" data-url="https://digitalscholarship.brynmawr.edu/reactor-room/assets/audio/soundscape-ol-schefer.m4a" data-start="0" data-end="30000" data-plays="1">Old Library</span>, outside <span class="soundcite" data-url="https://digitalscholarship.brynmawr.edu/reactor-room/assets/audio/soundscape-merion.m4a" data-start="0" data-end="30000" data-plays="1">Merion Hall</span>, outside <span class="soundcite" data-url="https://digitalscholarship.brynmawr.edu/reactor-room/assets/audio/soundscape-taylor.m4a" data-start="0" data-end="30000" data-plays="1">Taylor Hall</span>.
 
+{% include figure image_path="assets/images/canadaylibrarysoundscapeimage.png" alt="The entrance to Canaday Library. Three rocking chairs face a large window with flower bushes outside." caption="Entrance to Canaday Library" %}
+
 We closed the course by explicitly linking our analysis of Chornobyl’s ecological effects to society’s complicity in the climate crisis, and our class ended with the following questions:
 
 - Do tragedies like Chornobyl need to have a meaning?  
