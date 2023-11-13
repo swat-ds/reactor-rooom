@@ -549,3 +549,12 @@ EXTRAS
       transform: rotate(45deg) translate(20px,20px);
   }
 }
+
+.herbarium {
+  a {
+    img {
+      height: calc(33vw - 0.5em);
+      max-height: 275px;
+    }
+  }
+}
