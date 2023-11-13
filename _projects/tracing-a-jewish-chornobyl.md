@@ -1,6 +1,6 @@
 ---
 title: "Tracing a Jewish Chornobyl"
-category: ['religion', 'arts']
+category: ['painting', 'religion']
 classes: ['embed','iframe','arcgis']
 excerpt: 'As I walked around Chernobyl somebody said to me, “I like that people are walking around like there wasn’t a tragedy."'
 description: "Chornobyl as a global event is often reduced to the disaster and tragedies following the nuclear meltdown on April 26, 1986. The longer history of the city and the town it was born out of are rarely discussed. This project forwards a Jewish history of the region through the archive and descendants journey with the traces and Exclusion Zone."
