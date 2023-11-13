@@ -2,8 +2,8 @@
 title: "But What About the Children?"
 category: ['children', 'science']
 classes: []
-excerpt: "Despite this, what the Soviet Union failed to recognize at the time was that no matter how much they tried to lie and neglect the impact of radiation across their border, they could never fool the people who were experiencing it firsthand. "
-description: "This project delves deeper into details surrounding the Soviet government's inaction and lack of transparency, which ultimately harmed children the most following the reactor meltdown–children whose stories have been shared by their parents because they were not alive to share it themselves. There is a combination of anecdotes, guest commentary, and verified research to create a multi-faceted lens for the audience to learn and gain a genuine understanding of the Soviet government's neglect and injustice to all its citizens, but especially the children. "
+excerpt: "Despite this, what the Soviet Union failed to recognize at the time was that no matter how much they tried to lie and neglect the impact of radiation across their border, they could never fool the people who were experiencing it firsthand."
+description: "This project delves deeper into details surrounding the Soviet government's inaction and lack of transparency, which ultimately harmed children the most following the reactor meltdown–children whose stories have been shared by their parents because they were not alive to share it themselves. There is a combination of anecdotes, guest commentary, and verified research to create a multi-faceted lens for the audience to learn and gain a genuine understanding of the Soviet government's neglect and injustice to all its citizens, but especially the children."
 header:
     overlay_image: /assets/images/door-rezwana.jpeg
     teaser: /assets/images/door-rezwana.jpeg
