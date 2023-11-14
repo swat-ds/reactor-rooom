@@ -76,9 +76,13 @@ LAYOUTS
 
 .splash {
 
+  .wrapper {
+    max-height: 70%;
+  }
+
   #page-title {
     font-family: $title-bold;
-    font-size: $type-size-1 * 2;
+    font-size: 400%;
     font-weight: bold;
     color: lighten($red,10%);
     text-shadow: 10px 10px 10px rgba(0,0,0,.7);
@@ -86,7 +90,7 @@ LAYOUTS
     @media screen and (max-width: $medium) {
       font-size: $type-size-1;
     }
-  }
+  } 
 
   .page_lead {
     font-size: $type-size-3;
@@ -517,7 +521,7 @@ EXTRAS
   transform: translate(-50%,-50%);
 
   @media screen and (max-width: $small){
-    bottom: 20%;
+    bottom: 15%;
   }
 }
 .arrow span{
