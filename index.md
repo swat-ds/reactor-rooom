@@ -32,12 +32,23 @@ permalink: /home/
 
 <div id="{{ c }}" class="pane">
 
-<h3>{{ site.data.content.display_categories[c] }}</h3>
+  <h3>{{ site.data.content.display_categories[c] }}</h3>
 
-{% assign category_projects = site.projects | where: 'categories', c  %}
+  {% assign category_projects = site.projects | where: 'categories', c %}
 
-{% include collection_row projects = category_projects  %}
+  {% for course in site.data.content.courses %}
+    {% if forloop.first %}
+      {% assign sorted_projects = category_projects | where: 'course', course %}
+    {% else %}
+      {% assign course_projects = category_projects | where: 'course', course %}
+      {% for p in course_projects %}
+        {% assign sorted_projects = sorted_projects | push: p %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
   
+  {% include collection_row projects = sorted_projects  %}
+
 </div>
 
 {% endfor %}
