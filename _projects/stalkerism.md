@@ -9,7 +9,7 @@ header:
     teaser: assets/images/maeve.jpg
 contributors:
     - name: Maeve
-      bio: My name is Maeve. I am a Russian major with a focus in Russian Literature at Bryn Mawr College. 
+      bio: is a Russian major with a focus in Russian Literature at Bryn Mawr College. 
 embed:
     type: arcgis
     id: 1XnTOz
