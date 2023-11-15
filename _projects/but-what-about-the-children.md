@@ -8,8 +8,8 @@ header:
     overlay_image: /assets/images/door-rezwana.jpeg
     teaser: /assets/images/door-rezwana.jpeg
 contributors:
-    - name: Rezwana ('26)
-      bio: is from NJ and plans to be a neuroscience major. 
+    - name: Rezwana
+      bio: "('26) is from NJ and plans to be a neuroscience major."
 toc: true
 toc_sticky: true
 toc_label: Contents
