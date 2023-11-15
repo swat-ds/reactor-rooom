@@ -8,8 +8,8 @@ header:
     #overlay_image: "https://commons.wikimedia.org/wiki/File:Chernobyl_Maggid_tzion_Anatevka.jpg"
     teaser: "https://upload.wikimedia.org/wikipedia/commons/2/20/Chernobyl_Maggid_tzion_Anatevka.jpg"
 contributors:
-    - name: MK
-      bio: "(she/her 2024') studies history and education at Bryn Mawr College. She is apart of Jewish Voice for Peace"
+    - name: MK '24
+      bio: "'24) studies history and education at Bryn Mawr College. She is a part of Jewish Voice for Peace."
 embed:
     type: arcgis
     id: 1TPmPD0
