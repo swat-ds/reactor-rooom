@@ -1,30 +1,44 @@
 # main links
 main:
   - title: "Home"
-    url: /
+    url: /home
   - title: "About"
     url: /about
+  - title: "Course"
+    url: /course
   - title: "Respond"
     url: /respond
 
 splash:
+  - title: "Contexts"
+    children:
+      - title: "The Exhibition"
+        url: "/about"
+      - title: "The Course"
+        url: "/course"
+      - title: "Nuclear Energy Basics"
+        url: "/projects/nuclear-power"
   - title: 'Connections'
     children:
       - title: "Home"
-        url: "#site-nav"
+        url: "home/#site-nav"
       - title: "Arts"
-        url: "#arts"
+        url: "home/#arts"
       - title: "Food"
-        url: "#food"
+        url: "home/#food"
       - title: "Flora & Fauna"
-        url: "#flora"
+        url: "home/#flora"
+      - title: "History & Politics"
+        url: "home/#history"
       - title: "Media"
-        url: "#media"
+        url: "home/#media"
       - title: "People"
-        url: "#people"
+        url: "home/#people"
       - title: "Pop Culture"
-        url: "#pop"
+        url: "home/#pop"
+      - title: "Religion & Faith"
+        url: "home/#religion"
       - title: "Science"
-        url: "#science"
+        url: "home/#science"
       - title: "Time"
-        url: "#time"
+        url: "home/#time"

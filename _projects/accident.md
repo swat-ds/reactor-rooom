@@ -13,6 +13,7 @@ embed:
     type: timeline
     id: 1SX76BGj92qw_Cza1McItKZj5Dhwh3UOB3zFSdpL6Ruc
     url: "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1SX76BGj92qw_Cza1McItKZj5Dhwh3UOB3zFSdpL6Ruc&font=Default&lang=en&initial_zoom=2&height=650"
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
 ---
 
 ## Introduction

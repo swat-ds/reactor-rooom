@@ -11,6 +11,8 @@ contributors:
       bio: "'23 intends on majoring in Environmental Studies. He high jumps for the track team and enjoys photography."
 embed:
     url: https://via.hypothes.is/https://www.nytimes.com/1986/07/13/magazine/the-chernobyl-doctor.html
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
+
 ---
 
 [![New York Times Magazine July 13, 1986 Thumbnail](../../assets/images/nyt-magazine.png){: .align-center}]({{ page.embed.url }})

@@ -1,0 +1,26 @@
+{% assign CC-BY-deed = "https://creativecommons.org/licenses/by/4.0/" %}
+{% assign CC-BY-SA-deed = "https://creativecommons.org/licenses/by-sa/4.0/" %}
+{% assign CC-BY-NC-deed = "https://creativecommons.org/licenses/by-nc/4.0/" %}
+{% assign CC-BY-NC-SA-deed = "https://creativecommons.org/licenses/by-nc-sa/4.0/" %}
+{% assign CC-BY-ND-deed = "https://creativecommons.org/licenses/by-nd/4.0/" %}
+{% assign CC-BY-NC-ND-deed = "https://creativecommons.org/licenses/by-nc-nd/4.0/" %}
+{% assign CC0-deed = "https://creativecommons.org/publicdomain/zero/1.0/" %}
+
+
+<div id="license">
+    {% if page.license == "CC BY" %}
+        <p style="margin-bottom: 0;">Licensed under <a href="{{ CC-BY-deed }}">{{ page.license }} 4.0</a>.</p>
+    {% elsif page.license == "CC BY-SA" %}
+        <p style="margin-bottom: 0;">Licensed under <a href="{{ CC-BY-SA-deed }}">{{ page.license }} 4.0</a>.</p>
+    {% elsif page.license == "CC BY-NC" %}
+        <p style="margin-bottom: 0;">Licensed under <a href="{{ CC-BY-NC-deed }}">{{ page.license }} 4.0</a>.</p>
+    {% elsif page.license == "CC BY-NC-SA" %}
+        <p style="margin-bottom: 0;">Licensed under <a href="{{ CC-BY-NC-SA-deed }}">{{ page.license }} 4.0</a>.</p>
+    {% elsif page.license == "CC BY-ND" %}
+        <p style="margin-bottom: 0;">Licensed under <a href="{{ CC-BY-ND-deed }}">{{ page.license }} 4.0</a>.</p>
+    {% elsif page.license == "CC BY-NC-ND" %}
+        <p style="margin-bottom: 0;">Licensed under <a href="{{ CC-BY-NC-ND-deed }}">{{ page.license }} 4.0</a>.</p>
+    {% elsif page.license == "CC0" %}
+        <p style="margin-bottom: 0;">This project is in the <a href="{{ CC0-deed }}">public domain</a>.</p>
+    {% endif %}
+</div>

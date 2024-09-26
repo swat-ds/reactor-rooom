@@ -10,6 +10,7 @@ header:
 contributors:
     - name: Gwendolyn Rak
       bio: "'22 is from northern Virginia. As a History and Astrophysics double major, she was particularly interested in exploring Chernobyl as the juncture between the science that caused the disaster and the historical effects it had on the world. "
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
 ---
 
 > {{ page.description | markdownify }}

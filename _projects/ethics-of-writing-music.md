@@ -1,6 +1,6 @@
 ---
 title:  "Ethics of Writing Music About Chernobyl"
-category: ['arts']
+category: ['music','arts']
 excerpt: "Ethics of writing music about Chernobyl"
 description: "Music is present in many aspects of our daily lives. Sometimes it is relegated to background noise while doing other activities; other times it contains deeper meaning and can be a way to process pain."
 header:
@@ -13,6 +13,7 @@ toc: true
 toc_sticky: true
 toc_label: Songs
 toc_icon: 'angle-double-down'
+course: 'RUSS043 Chernobyl: Nuclear Naratives and the Environment, Swarthmore College, Spring 2020'
 ---
 
 

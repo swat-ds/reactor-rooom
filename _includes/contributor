@@ -1,16 +1,25 @@
 <div class="contributors">
 
+
+
 {% for contributor in page.contributors %}
 
-<div class="contributor">
+    <div class="contributor">
 
-<div class="bio {% if contributor.image %}has-image{% endif %}">
+        <div class="bio {% if contributor.image %}has-image{% endif %}">
 
-{% assign n = contributor.name | prepend: '<strong>' | append: '</strong> ' %}
-{{ contributor.bio | prepend: n | markdownify }}
+        <p>{% assign n = contributor.name | prepend: '<strong>' | append: '</strong> ' %}
+        {{ contributor.bio | prepend: n | markdownify }}</p>
 
-</div>
-<div class="clearfix"></div>
-</div>
+        </div>
+
+    </div>
 {% endfor %}
+
+    <div id="course">
+        {% if page.course %}<p><em>{{ page.course }}</em></p>{% endif %}
+    </div>
+
+    {% if page.license %}{% include cc-licenses.html %}{% endif %}
+
 </div>

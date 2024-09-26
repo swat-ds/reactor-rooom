@@ -1,12 +1,14 @@
 splash:
   text: >-
-    Explore the nuclear disaster's ecological and social consequences through media and culture
+    Explore the history, culture, and ecological and social consequences of the nuclear disaster
 display_categories:
   arts: 'Arts'
   food: 'Food'
   flora: 'Flora & Fauna'
+  history: 'History & Politics'
   media: 'Media'
   people: 'People'
   pop: 'Pop Culture'
+  religion: 'Religion & Faith'
   science: 'Science'
   time: 'Time'
